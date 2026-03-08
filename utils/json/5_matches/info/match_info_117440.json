@@ -1,0 +1,129 @@
+{
+    "matchid": 117440,
+    "seriesid": 9638,
+    "seriesname": "South Africa tour of India, 2025",
+    "matchdesc": "5th T20I",
+    "matchformat": "T20",
+    "startdate": 1766151000000,
+    "enddate": 1766165200154,
+    "state": "Complete",
+    "status": "South Africa opt to bowl",
+    "team1": {
+        "teamid": 2,
+        "teamname": "India",
+        "teamsname": "IND",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "team2": {
+        "teamid": 11,
+        "teamname": "South Africa",
+        "teamsname": "RSA",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "umpire1": {
+        "id": 8867,
+        "name": "Rohan Pandit",
+        "country": "IND"
+    },
+    "umpire2": {
+        "id": 8909,
+        "name": "Virender Sharma",
+        "country": "IND"
+    },
+    "umpire3": {
+        "id": 8905,
+        "name": "Jayaraman Madanagopal",
+        "country": "IND"
+    },
+    "referee": {
+        "id": 4190,
+        "name": "Richie Richardson",
+        "country": "WI"
+    },
+    "venueinfo": {
+        "id": 50,
+        "ground": "Narendra Modi Stadium",
+        "city": "Ahmedabad",
+        "country": "India",
+        "timezone": "+05:30",
+        "established": 1982,
+        "capacity": "132,000",
+        "knownas": "",
+        "ends": "Adani Pavilion End, GMDC End",
+        "hometeam": "Gujarat, Gujarat Titans",
+        "floodlights": false,
+        "curator": "",
+        "profile": "",
+        "imageurl": "",
+        "groundlength": 0.0,
+        "groundwidth": 0.0,
+        "othersports": "",
+        "imageid": 0,
+        "latitude": "",
+        "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+        "seotitle": "Cricket match facts IND vs RSA 5th T20I,South Africa tour of India, 2025 | Cricbuzz.com",
+        "weburl": "http://www.cricbuzz.com/cricket-match-facts/117440/ind-vs-rsa-5th-t20i-south-africa-tour-of-india-2025"
+    },
+    "istournament": false,
+    "tossstatus": "South Africa opt to bowl",
+    "seriesstartdt": 1762992000000,
+    "seriesenddt": 1766188800000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+        {
+            "country": "IN",
+            "broadcaster": [
+                {
+                    "broadcasttype": "Streaming",
+                    "value": "JioHotstar"
+                },
+                {
+                    "broadcasttype": "TV",
+                    "value": "Star Sports Network"
+                }
+            ]
+        }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "IND won",
+    "boundarytrackervalues": {
+        "boundarytrackervalue": []
+    },
+    "matchimageid": 803177,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+}

@@ -1,0 +1,782 @@
+{
+  "seriesMapProto": [
+    {
+      "date": "2024",
+      "series": [
+        {
+          "id": 8553,
+          "name": "Sri Lanka tour of New Zealand, 2024-25",
+          "startDt": "1734912000000",
+          "endDt": "1736553600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9297,
+          "name": "Gulf Cricket T20I Championship, 2024",
+          "startDt": "1734048000000",
+          "endDt": "1734739200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8044,
+          "name": "Pakistan tour of South Africa, 2024 -25",
+          "startDt": "1733788800000",
+          "endDt": "1736208000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9171,
+          "name": "Afghanistan tour of Zimbabwe, 2024-25",
+          "startDt": "1733702400000",
+          "endDt": "1736121600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9265,
+          "name": "ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024",
+          "startDt": "1733443200000",
+          "endDt": "1734307200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9289,
+          "name": "Africa Continental Cup 2024",
+          "startDt": "1733270400000",
+          "endDt": "1734134400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8058,
+          "name": "Sri Lanka tour of South Africa, 2024",
+          "startDt": "1732665600000",
+          "endDt": "1733702400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8494,
+          "name": "Pakistan tour of Zimbabwe, 2024",
+          "startDt": "1732406400000",
+          "endDt": "1733356800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7853,
+          "name": "England tour of New Zealand, 2024",
+          "startDt": "1732320000000",
+          "endDt": "1734480000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9132,
+          "name": "ICC Mens T20 World Cup Africa Sub Regional Qualifier C 2024",
+          "startDt": "1732320000000",
+          "endDt": "1732752000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7745,
+          "name": "India tour of Australia, 2024-25",
+          "startDt": "1732233600000",
+          "endDt": "1736208000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9129,
+          "name": "ICC Mens T20 World Cup Asia Qualifier B 2024",
+          "startDt": "1731974400000",
+          "endDt": "1732752000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8116,
+          "name": "Bangladesh tour of West Indies, 2024",
+          "startDt": "1731801600000",
+          "endDt": "1734566400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9125,
+          "name": "Netherlands tour of Oman, 2024",
+          "startDt": "1731456000000",
+          "endDt": "1731715200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9146,
+          "name": "Myanmar tour of Indonesia, 2024",
+          "startDt": "1731369600000",
+          "endDt": "1731974400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9083,
+          "name": "New Zealand tour of Sri Lanka, 2024",
+          "startDt": "1731110400000",
+          "endDt": "1731974400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8404,
+          "name": "India tour of South Africa, 2024",
+          "startDt": "1731024000000",
+          "endDt": "1731628800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9091,
+          "name": "Afghanistan v Bangladesh in UAE, 2024",
+          "startDt": "1730851200000",
+          "endDt": "1731283200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7781,
+          "name": "Pakistan tour of Australia, 2024",
+          "startDt": "1730592000000",
+          "endDt": "1731801600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8107,
+          "name": "England tour of West Indies, 2024",
+          "startDt": "1730332800000",
+          "endDt": "1731801600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9157,
+          "name": "Bahrain in Uganda 2024",
+          "startDt": "1730073600000",
+          "endDt": "1730160000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9033,
+          "name": "South Africa tour of Bangladesh, 2024",
+          "startDt": "1729468800000",
+          "endDt": "1730505600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9041,
+          "name": "ICC Mens T20 World Cup Sub Regional Africa Qualifier Group B, 2024",
+          "startDt": "1729296000000",
+          "endDt": "1729728000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9025,
+          "name": "Quadrangular T20I Series in Bhutan, 2024",
+          "startDt": "1729296000000",
+          "endDt": "1729814400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9115,
+          "name": "Seychelles tour of Kenya, Only T20I",
+          "startDt": "1729209600000",
+          "endDt": "1729209600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9043,
+          "name": "Nepal tour of United States of America 2024",
+          "startDt": "1729123200000",
+          "endDt": "1729382400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8395,
+          "name": "New Zealand tour of India, 2024",
+          "startDt": "1729036800000",
+          "endDt": "1730764800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9009,
+          "name": "West Indies tour of Sri Lanka, 2024",
+          "startDt": "1728777600000",
+          "endDt": "1729900800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9057,
+          "name": "Rwanda tour of Malawi 2024",
+          "startDt": "1728432000000",
+          "endDt": "1728864000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8497,
+          "name": "England tour of Pakistan, 2024",
+          "startDt": "1728259200000",
+          "endDt": "1730073600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9017,
+          "name": "Serbia tour of Gibraltar, 2024",
+          "startDt": "1727654400000",
+          "endDt": "1727654400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8947,
+          "name": "Namibia T20I Tri-Series 2024",
+          "startDt": "1727568000000",
+          "endDt": "1728086400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8598,
+          "name": "ICC Mens T20 World Cup Sub Regional East Asia-Pacific Qualifier B, 2024",
+          "startDt": "1727481600000",
+          "endDt": "1728086400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8955,
+          "name": "Canada T20I Tri-Series 2024",
+          "startDt": "1727481600000",
+          "endDt": "1727913600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7981,
+          "name": "Ireland v South Africa in UAE, 2024",
+          "startDt": "1727308800000",
+          "endDt": "1728172800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8969,
+          "name": "T20I Tri-Series in South Korea, 2024",
+          "startDt": "1727222400000",
+          "endDt": "1727308800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8835,
+          "name": "ICC Mens T20 World Cup Africa Sub Regional Qualifier A 2024",
+          "startDt": "1726876800000",
+          "endDt": "1727308800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8393,
+          "name": "Bangladesh tour of India, 2024",
+          "startDt": "1726704000000",
+          "endDt": "1728691200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8818,
+          "name": "New Zealand tour of Sri Lanka, 2024",
+          "startDt": "1726617600000",
+          "endDt": "1727654400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8661,
+          "name": "Afghanistan v South Africa in UAE, 2024",
+          "startDt": "1726617600000",
+          "endDt": "1726963200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 6794,
+          "name": "Australia tour of England, 2024",
+          "startDt": "1726012800000",
+          "endDt": "1727568000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8625,
+          "name": "Afghanistan v New Zealand in India, 2024",
+          "startDt": "1725840000000",
+          "endDt": "1726185600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8552,
+          "name": "Australia tour of Scotland, 2024",
+          "startDt": "1725408000000",
+          "endDt": "1725667200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8764,
+          "name": "ICC Mens T20 World Cup Asia Qualifier A 2024",
+          "startDt": "1724976000000",
+          "endDt": "1725840000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8632,
+          "name": "Netherlands T20I Tri-Series, 2024",
+          "startDt": "1724371200000",
+          "endDt": "1724803200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8596,
+          "name": "ICC Mens T20 World Cup Sub Regional Europe Qualifier C, 2024",
+          "startDt": "1724198400000",
+          "endDt": "1724803200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8495,
+          "name": "Bangladesh tour of Pakistan, 2024",
+          "startDt": "1724198400000",
+          "endDt": "1725321600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8686,
+          "name": "Malaysia T20I Tri Nations Cup, 2024",
+          "startDt": "1724198400000",
+          "endDt": "1724716800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8587,
+          "name": "ICC Mens T20 World Cup Sub Regional East Asia-Pacific Qualifier A, 2024",
+          "startDt": "1723852800000",
+          "endDt": "1724457600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 6787,
+          "name": "Sri Lanka tour of England, 2024",
+          "startDt": "1723593600000",
+          "endDt": "1725926400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8578,
+          "name": "Spain tour of Croatia, 2024",
+          "startDt": "1722556800000",
+          "endDt": "1722902400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8238,
+          "name": "South Africa tour of West Indies, 2024",
+          "startDt": "1722384000000",
+          "endDt": "1724716800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8528,
+          "name": "India tour of Sri Lanka, 2024",
+          "startDt": "1722038400000",
+          "endDt": "1722988800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7979,
+          "name": "Zimbabwe tour of Ireland, 2024",
+          "startDt": "1721865600000",
+          "endDt": "1722211200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8476,
+          "name": "Nigeria tour of Kenya 2024",
+          "startDt": "1720742400000",
+          "endDt": "1721174400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8337,
+          "name": "ICC Mens T20 World Cup Sub Regional Europe Qualifier B, 2024",
+          "startDt": "1720310400000",
+          "endDt": "1720915200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7546,
+          "name": "India tour of Zimbabwe, 2024",
+          "startDt": "1720224000000",
+          "endDt": "1720915200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 6780,
+          "name": "West Indies tour of England, 2024",
+          "startDt": "1719964800000",
+          "endDt": "1722297600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8422,
+          "name": "Serbia tour of Slovenia, 2024",
+          "startDt": "1719619200000",
+          "endDt": "1719705600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8382,
+          "name": "Kenya Quadrangular Cup 2024",
+          "startDt": "1719532800000",
+          "endDt": "1720569600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8413,
+          "name": "Jersey tour of Guernsey, 2024",
+          "startDt": "1719014400000",
+          "endDt": "1719100800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8310,
+          "name": "Estonia tour of Cyprus 2024",
+          "startDt": "1718582400000",
+          "endDt": "1718755200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8260,
+          "name": "Jersey tour of Denmark, 2024",
+          "startDt": "1718409600000",
+          "endDt": "1718496000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8332,
+          "name": "Nordic T20I Cup 2024",
+          "startDt": "1718323200000",
+          "endDt": "1718496000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8256,
+          "name": "ICC Mens T20 World Cup Sub Regional Europe Qualifier A, 2024",
+          "startDt": "1717891200000",
+          "endDt": "1718496000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8294,
+          "name": "Guernsey tour of Belgium, 2024",
+          "startDt": "1717804800000",
+          "endDt": "1717891200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7476,
+          "name": "ICC Mens T20 World Cup 2024",
+          "startDt": "1717200000000",
+          "endDt": "1719619200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8247,
+          "name": "Belgium tour of Austria, 2024",
+          "startDt": "1716595200000",
+          "endDt": "1716681600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8166,
+          "name": "Continental Cup 2024",
+          "startDt": "1716508800000",
+          "endDt": "1716681600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8103,
+          "name": "South Africa tour of West Indies, 2024",
+          "startDt": "1716422400000",
+          "endDt": "1716681600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 6773,
+          "name": "Pakistan tour of England, 2024",
+          "startDt": "1716336000000",
+          "endDt": "1717027200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7700,
+          "name": "Bangladesh tour of USA, 2024",
+          "startDt": "1716249600000",
+          "endDt": "1716595200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7819,
+          "name": "Netherlands T20I Tri-Series, 2024",
+          "startDt": "1715990400000",
+          "endDt": "1716508800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7808,
+          "name": "Pakistan tour of Ireland, 2024",
+          "startDt": "1715299200000",
+          "endDt": "1715644800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8080,
+          "name": "Mdina Cup 2024",
+          "startDt": "1715212800000",
+          "endDt": "1715472000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7896,
+          "name": "Mongolia tour of Japan, 2024",
+          "startDt": "1715040000000",
+          "endDt": "1715472000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7706,
+          "name": "Zimbabwe tour of Bangladesh, 2024",
+          "startDt": "1714694400000",
+          "endDt": "1715472000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8042,
+          "name": "Thailand tour of Indonesia 2024",
+          "startDt": "1714521600000",
+          "endDt": "1714953600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7679,
+          "name": "New Zealand tour of Pakistan, 2024",
+          "startDt": "1713398400000",
+          "endDt": "1714176000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7817,
+          "name": "Jersey tour of Spain, 2024",
+          "startDt": "1713052800000",
+          "endDt": "1713052800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7667,
+          "name": "ACC Mens T20I Premier Cup, 2024",
+          "startDt": "1712880000000",
+          "endDt": "1713657600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7900,
+          "name": "Central American Cricket Championships 2024",
+          "startDt": "1712793600000",
+          "endDt": "1713052800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7693,
+          "name": "Canada tour of USA, 2024",
+          "startDt": "1712448000000",
+          "endDt": "1712966400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7727,
+          "name": "Namibia tour of Oman, 2024",
+          "startDt": "1711929600000",
+          "endDt": "1712448000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7790,
+          "name": "Lesotho tour of Eswatini, 2024",
+          "startDt": "1711670400000",
+          "endDt": "1711843200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7672,
+          "name": "Mens African Games, 2024",
+          "startDt": "1710633600000",
+          "endDt": "1711152000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7686,
+          "name": "Papua New Guinea tour of Malaysia, 2024",
+          "startDt": "1710547200000",
+          "endDt": "1710633600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7590,
+          "name": "Scotland tour of United Arab Emirates 2024",
+          "startDt": "1710115200000",
+          "endDt": "1710374400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7644,
+          "name": "Hong Kong T20I Tri-Series, 2024",
+          "startDt": "1710028800000",
+          "endDt": "1710288000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7637,
+          "name": "Hong Kong Friendship Cup, 2024",
+          "startDt": "1709942400000",
+          "endDt": "1709942400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7586,
+          "name": "Malaysia Open T20I Championship, 2024",
+          "startDt": "1709596800000",
+          "endDt": "1710115200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7534,
+          "name": "Sri Lanka tour of Bangladesh, 2024",
+          "startDt": "1709510400000",
+          "endDt": "1712102400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7623,
+          "name": "Papua New Guinea tour of Oman 2024",
+          "startDt": "1709424000000",
+          "endDt": "1709856000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7485,
+          "name": "Afghanistan v Ireland in UAE, 2024",
+          "startDt": "1709078400000",
+          "endDt": "1710720000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7618,
+          "name": "Hong Kong tour of Qatar 2024",
+          "startDt": "1708992000000",
+          "endDt": "1709251200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7583,
+          "name": "Nepal T20I Tri-Series 2024",
+          "startDt": "1708992000000",
+          "endDt": "1709596800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 6899,
+          "name": "Australia tour of New Zealand, 2024",
+          "startDt": "1708473600000",
+          "endDt": "1710201600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7572,
+          "name": "ICC Cricket World Cup League Two 2023-27",
+          "startDt": "1707955200000",
+          "endDt": "1806364800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7558,
+          "name": "East Asia Cup 2024",
+          "startDt": "1707868800000",
+          "endDt": "1708128000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7579,
+          "name": "Quadrangular Twenty20 Series in Thailand 2024",
+          "startDt": "1707696000000",
+          "endDt": "1708041600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7553,
+          "name": "Canada tour of Nepal, 2024",
+          "startDt": "1707350400000",
+          "endDt": "1707696000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7481,
+          "name": "Afghanistan tour of Sri Lanka, 2024",
+          "startDt": "1706832000000",
+          "endDt": "1708473600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 6892,
+          "name": "South Africa tour of New Zealand, 2024",
+          "startDt": "1706486400000",
+          "endDt": "1708128000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7511,
+          "name": "ACC Mens T20I Challenger Cup 2024",
+          "startDt": "1706313600000",
+          "endDt": "1707609600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 6927,
+          "name": "England tour of India, 2024",
+          "startDt": "1706140800000",
+          "endDt": "1710115200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 6885,
+          "name": "Pakistan tour of New Zealand, 2024",
+          "startDt": "1705017600000",
+          "endDt": "1705795200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 6920,
+          "name": "Afghanistan tour of India, 2024",
+          "startDt": "1704931200000",
+          "endDt": "1705449600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 6297,
+          "name": "West Indies tour of Australia, 2024",
+          "startDt": "1704844800000",
+          "endDt": "1707782400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7411,
+          "name": "Zimbabwe tour of Sri Lanka 2024",
+          "startDt": "1704499200000",
+          "endDt": "1705536000000",
+          "thumborImageId": 379130
+        }
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Current Running Cricket Series - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  },
+  "contentFilters": [
+    {
+      "filterId": "fantasy",
+      "filterName": "Fantasy Handbook"
+    }
+  ]
+}

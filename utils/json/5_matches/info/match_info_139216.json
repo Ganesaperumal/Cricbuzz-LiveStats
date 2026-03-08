@@ -1,0 +1,129 @@
+{
+    "matchid": 139216,
+    "seriesid": 11253,
+    "seriesname": "ICC Men's T20 World Cup 2026",
+    "matchdesc": "27th Match, Group A",
+    "matchformat": "T20",
+    "startdate": 1771162200000,
+    "enddate": 1771173973649,
+    "state": "Complete",
+    "status": "Pakistan opt to bowl",
+    "team1": {
+        "teamid": 2,
+        "teamname": "India",
+        "teamsname": "IND",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "team2": {
+        "teamid": 3,
+        "teamname": "Pakistan",
+        "teamsname": "PAK",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "umpire1": {
+        "id": 3576,
+        "name": "Kumar Dharmasena",
+        "country": "SL"
+    },
+    "umpire2": {
+        "id": 5398,
+        "name": "Richard Illingworth",
+        "country": "ENG"
+    },
+    "umpire3": {
+        "id": 6864,
+        "name": "Chris Gaffaney",
+        "country": "NZ"
+    },
+    "referee": {
+        "id": 4190,
+        "name": "Richie Richardson",
+        "country": "WI"
+    },
+    "venueinfo": {
+        "id": 15,
+        "ground": "R.Premadasa Stadium",
+        "city": "Colombo",
+        "country": "Sri Lanka",
+        "timezone": "+05:30",
+        "established": 1986,
+        "capacity": "35,000",
+        "knownas": "",
+        "ends": "Khettarama End, Scoreboard End",
+        "hometeam": "Sri Lanka",
+        "floodlights": false,
+        "curator": "",
+        "profile": "",
+        "imageurl": "",
+        "groundlength": 0.0,
+        "groundwidth": 0.0,
+        "othersports": "",
+        "imageid": 0,
+        "latitude": "",
+        "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+        "seotitle": "Cricket match facts IND vs PAK 27th Match, Group A,ICC Men's T20 World Cup 2026 | Cricbuzz.com",
+        "weburl": "http://www.cricbuzz.com/cricket-match-facts/139216/ind-vs-pak-27th-match-group-a-icc-mens-t20-world-cup-2026"
+    },
+    "istournament": true,
+    "tossstatus": "Pakistan opt to bowl",
+    "seriesstartdt": 1770336000000,
+    "seriesenddt": 1773014400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+        {
+            "country": "IN",
+            "broadcaster": [
+                {
+                    "broadcasttype": "Streaming",
+                    "value": "JioHotstar"
+                },
+                {
+                    "broadcasttype": "TV",
+                    "value": "Star Sports Network"
+                }
+            ]
+        }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "WCT20",
+    "shortstatus": "IND won",
+    "boundarytrackervalues": {
+        "boundarytrackervalue": []
+    },
+    "matchimageid": 859178,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": true,
+    "ispollenabled": false
+}

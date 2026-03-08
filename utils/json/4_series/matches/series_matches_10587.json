@@ -1,0 +1,1109 @@
+{
+    "matchDetails": [
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 09 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130008,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "1st Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1757428200000",
+                            "endDate": "1757428200000",
+                            "state": "complete",
+                            "status": "Afghanistan won by 94 runs",
+                            "team1": {
+                                "teamId": 96,
+                                "teamName": "AFGHANISTAN",
+                                "teamSName": "AFG",
+                                "imageId": 776177
+                            },
+                            "team2": {
+                                "teamId": 8,
+                                "teamName": "HONG KONG, CHINA",
+                                "teamSName": "HKC",
+                                "imageId": 776271
+                            },
+                            "venueInfo": {
+                                "ground": "Sheikh Zayed Stadium",
+                                "city": "Abu Dhabi",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 96,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 188,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 94,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "adDetail": {
+                "name": "native_news_index_random_1",
+                "layout": "native_large",
+                "position": 1
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 10 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130019,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "2nd Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1757514600000",
+                            "endDate": "1757514600000",
+                            "state": "complete",
+                            "status": "India won by 9 wkts",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 7,
+                                "teamName": "UNITED ARAB EMIRATES",
+                                "teamSName": "UAE",
+                                "imageId": 776242
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 60,
+                                    "wickets": 1,
+                                    "overs": 4.3
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 57,
+                                    "wickets": 10,
+                                    "overs": 13.1
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 11 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130030,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "3rd Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1757601000000",
+                            "endDate": "1757601000000",
+                            "state": "complete",
+                            "status": "Bangladesh won by 7 wkts",
+                            "team1": {
+                                "teamId": 6,
+                                "teamName": "BANGLADESH",
+                                "teamSName": "BAN",
+                                "imageId": 776210
+                            },
+                            "team2": {
+                                "teamId": 8,
+                                "teamName": "HONG KONG, CHINA",
+                                "teamSName": "HKC",
+                                "imageId": 776271
+                            },
+                            "venueInfo": {
+                                "ground": "Sheikh Zayed Stadium",
+                                "city": "Abu Dhabi",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 6,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 144,
+                                    "wickets": 3,
+                                    "overs": 17.4
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 143,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 12 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130047,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "4th Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1757687400000",
+                            "endDate": "1757687400000",
+                            "state": "complete",
+                            "status": "Pakistan won by 93 runs",
+                            "team1": {
+                                "teamId": 3,
+                                "teamName": "PAKISTAN",
+                                "teamSName": "PAK",
+                                "imageId": 776308
+                            },
+                            "team2": {
+                                "teamId": 304,
+                                "teamName": "OMAN",
+                                "teamSName": "OMAN",
+                                "imageId": 776328
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 3,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 160,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 67,
+                                    "wickets": 10,
+                                    "overs": 16.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 13 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130058,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "5th Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1757773800000",
+                            "endDate": "1757773800000",
+                            "state": "complete",
+                            "status": "Sri Lanka won by 6 wkts",
+                            "team1": {
+                                "teamId": 6,
+                                "teamName": "BANGLADESH",
+                                "teamSName": "BAN",
+                                "imageId": 776210
+                            },
+                            "team2": {
+                                "teamId": 5,
+                                "teamName": "SRI LANKA",
+                                "teamSName": "SL",
+                                "imageId": 776254
+                            },
+                            "venueInfo": {
+                                "ground": "Sheikh Zayed Stadium",
+                                "city": "Abu Dhabi",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 5,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 139,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 140,
+                                    "wickets": 4,
+                                    "overs": 14.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 14 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130069,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "6th Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1757860200000",
+                            "endDate": "1757860200000",
+                            "state": "complete",
+                            "status": "India won by 7 wkts",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 3,
+                                "teamName": "PAKISTAN",
+                                "teamSName": "PAK",
+                                "imageId": 776308
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 131,
+                                    "wickets": 3,
+                                    "overs": 15.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 127,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Mon, 15 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130074,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "7th Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1757937600000",
+                            "endDate": "1757937600000",
+                            "state": "complete",
+                            "status": "United Arab Emirates won by 42 runs",
+                            "team1": {
+                                "teamId": 7,
+                                "teamName": "UNITED ARAB EMIRATES",
+                                "teamSName": "UAE",
+                                "imageId": 776242
+                            },
+                            "team2": {
+                                "teamId": 304,
+                                "teamName": "OMAN",
+                                "teamSName": "OMAN",
+                                "imageId": 776328
+                            },
+                            "venueInfo": {
+                                "ground": "Sheikh Zayed Stadium",
+                                "city": "Abu Dhabi",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 7,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 172,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 130,
+                                    "wickets": 10,
+                                    "overs": 18.4
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 130080,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "8th Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1757946600000",
+                            "endDate": "1757946600000",
+                            "state": "complete",
+                            "status": "Sri Lanka won by 4 wkts",
+                            "team1": {
+                                "teamId": 5,
+                                "teamName": "SRI LANKA",
+                                "teamSName": "SL",
+                                "imageId": 776254
+                            },
+                            "team2": {
+                                "teamId": 8,
+                                "teamName": "HONG KONG, CHINA",
+                                "teamSName": "HKC",
+                                "imageId": 776271
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 5,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 153,
+                                    "wickets": 6,
+                                    "overs": 18.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 149,
+                                    "wickets": 4,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 16 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130085,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "9th Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1758033000000",
+                            "endDate": "1758033000000",
+                            "state": "complete",
+                            "status": "Bangladesh won by 8 runs",
+                            "team1": {
+                                "teamId": 6,
+                                "teamName": "BANGLADESH",
+                                "teamSName": "BAN",
+                                "imageId": 776210
+                            },
+                            "team2": {
+                                "teamId": 96,
+                                "teamName": "AFGHANISTAN",
+                                "teamSName": "AFG",
+                                "imageId": 776177
+                            },
+                            "venueInfo": {
+                                "ground": "Sheikh Zayed Stadium",
+                                "city": "Abu Dhabi",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 6,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 154,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 146,
+                                    "wickets": 10,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 17 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130096,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "10th Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1758119400000",
+                            "endDate": "1758119400000",
+                            "state": "complete",
+                            "status": "Pakistan won by 41 runs",
+                            "team1": {
+                                "teamId": 3,
+                                "teamName": "PAKISTAN",
+                                "teamSName": "PAK",
+                                "imageId": 776308
+                            },
+                            "team2": {
+                                "teamId": 7,
+                                "teamName": "UNITED ARAB EMIRATES",
+                                "teamSName": "UAE",
+                                "imageId": 776242
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 3,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 146,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 105,
+                                    "wickets": 10,
+                                    "overs": 17.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 18 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130102,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "11th Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1758205800000",
+                            "endDate": "1758205800000",
+                            "state": "complete",
+                            "status": "Sri Lanka won by 6 wkts",
+                            "team1": {
+                                "teamId": 5,
+                                "teamName": "SRI LANKA",
+                                "teamSName": "SL",
+                                "imageId": 776254
+                            },
+                            "team2": {
+                                "teamId": 96,
+                                "teamName": "AFGHANISTAN",
+                                "teamSName": "AFG",
+                                "imageId": 776177
+                            },
+                            "venueInfo": {
+                                "ground": "Sheikh Zayed Stadium",
+                                "city": "Abu Dhabi",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 5,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 171,
+                                    "wickets": 4,
+                                    "overs": 18.4
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 169,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 19 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130113,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "12th Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1758292200000",
+                            "endDate": "1758292200000",
+                            "state": "complete",
+                            "status": "India won by 21 runs",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 304,
+                                "teamName": "OMAN",
+                                "teamSName": "OMAN",
+                                "imageId": 776328
+                            },
+                            "venueInfo": {
+                                "ground": "Sheikh Zayed Stadium",
+                                "city": "Abu Dhabi",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 188,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 167,
+                                    "wickets": 4,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 20 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130124,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "Super Fours, 13th Match (B1 v B2)",
+                            "matchFormat": "T20",
+                            "startDate": "1758378600000",
+                            "endDate": "1758378600000",
+                            "state": "complete",
+                            "status": "Bangladesh won by 4 wkts",
+                            "team1": {
+                                "teamId": 5,
+                                "teamName": "SRI LANKA",
+                                "teamSName": "SL",
+                                "imageId": 776254
+                            },
+                            "team2": {
+                                "teamId": 6,
+                                "teamName": "BANGLADESH",
+                                "teamSName": "BAN",
+                                "imageId": 776210
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 6,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 168,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 169,
+                                    "wickets": 6,
+                                    "overs": 19.5
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 21 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130129,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "Super Fours, 14th Match (A1 v A2)",
+                            "matchFormat": "T20",
+                            "startDate": "1758465000000",
+                            "endDate": "1758465000000",
+                            "state": "complete",
+                            "status": "India won by 6 wkts",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 3,
+                                "teamName": "PAKISTAN",
+                                "teamSName": "PAK",
+                                "imageId": 776308
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 174,
+                                    "wickets": 4,
+                                    "overs": 18.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 171,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 23 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130140,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "Super Fours, 15th Match (A2 v B1)",
+                            "matchFormat": "T20",
+                            "startDate": "1758637800000",
+                            "endDate": "1758637800000",
+                            "state": "complete",
+                            "status": "Pakistan won by 5 wkts",
+                            "team1": {
+                                "teamId": 3,
+                                "teamName": "PAKISTAN",
+                                "teamSName": "PAK",
+                                "imageId": 776308
+                            },
+                            "team2": {
+                                "teamId": 5,
+                                "teamName": "SRI LANKA",
+                                "teamSName": "SL",
+                                "imageId": 776254
+                            },
+                            "venueInfo": {
+                                "ground": "Sheikh Zayed Stadium",
+                                "city": "Abu Dhabi",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 3,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 138,
+                                    "wickets": 5,
+                                    "overs": 18.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 133,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 24 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130146,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "Super Fours, 16th Match (A1 v B2)",
+                            "matchFormat": "T20",
+                            "startDate": "1758724200000",
+                            "endDate": "1758724200000",
+                            "state": "complete",
+                            "status": "India won by 41 runs",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 6,
+                                "teamName": "BANGLADESH",
+                                "teamSName": "BAN",
+                                "imageId": 776210
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 168,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 127,
+                                    "wickets": 10,
+                                    "overs": 19.3
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 25 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130157,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "Super Fours, 17th Match (A2 v B2)",
+                            "matchFormat": "T20",
+                            "startDate": "1758810600000",
+                            "endDate": "1758810600000",
+                            "state": "complete",
+                            "status": "Pakistan won by 11 runs",
+                            "team1": {
+                                "teamId": 3,
+                                "teamName": "PAKISTAN",
+                                "teamSName": "PAK",
+                                "imageId": 776308
+                            },
+                            "team2": {
+                                "teamId": 6,
+                                "teamName": "BANGLADESH",
+                                "teamSName": "BAN",
+                                "imageId": 776210
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 3,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 135,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 124,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 26 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130168,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "Super Fours, 18th Match (A1 v B1)",
+                            "matchFormat": "T20",
+                            "startDate": "1758897000000",
+                            "endDate": "1758897000000",
+                            "state": "complete",
+                            "status": "Match tied (India Won the Super Over)",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 5,
+                                "teamName": "SRI LANKA",
+                                "teamSName": "SL",
+                                "imageId": 776254
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 5,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 202,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 202,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 28 Sep 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 130179,
+                            "seriesId": 10587,
+                            "seriesName": "Asia Cup 2025",
+                            "matchDesc": "Final",
+                            "matchFormat": "T20",
+                            "startDate": "1759069800000",
+                            "endDate": "1759069800000",
+                            "state": "complete",
+                            "status": "India won by 5 wkts",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 3,
+                                "teamName": "PAKISTAN",
+                                "teamSName": "PAK",
+                                "imageId": 776308
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 150,
+                                    "wickets": 5,
+                                    "overs": 19.4
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 146,
+                                    "wickets": 10,
+                                    "overs": 19.1
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 10587
+            }
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Asia Cup 2025 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    }
+}

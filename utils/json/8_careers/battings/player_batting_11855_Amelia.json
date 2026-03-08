@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "WPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "0",
+                "86",
+                "91",
+                "36"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "0",
+                "73",
+                "72",
+                "29"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "0",
+                "2364",
+                "1636",
+                "511"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "0",
+                "2873",
+                "1427",
+                "427"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "0",
+                "232",
+                "101",
+                "49"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "0",
+                "40.76",
+                "30.87",
+                "24.33"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "0",
+                "82.29",
+                "114.65",
+                "119.68"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "0",
+                "15",
+                "19",
+                "8"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "0",
+                "238",
+                "180",
+                "59"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "0",
+                "9",
+                "2",
+                "6"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "4",
+                "4",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "0",
+                "10",
+                "6",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "4",
+                "1",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "1",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Amelia Kerr Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/11855/amelia-kerr"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 10245,
+            "seriesName": "Zimbabwe Women tour of New Zealand, 2026"
+        }
+    ]
+}

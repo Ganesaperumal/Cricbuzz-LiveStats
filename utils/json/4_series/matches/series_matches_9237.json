@@ -1,0 +1,4182 @@
+{
+    "matchDetails": [
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 22 Mar 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 114960,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "1st Match",
+                            "matchFormat": "T20",
+                            "startDate": "1742652000000",
+                            "endDate": "1742652000000",
+                            "state": "complete",
+                            "status": "Royal Challengers Bengaluru won by 7 wkts",
+                            "team1": {
+                                "teamId": 63,
+                                "teamName": "KOLKATA KNIGHT RIDERS",
+                                "teamSName": "KKR",
+                                "imageId": 860046
+                            },
+                            "team2": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "venueInfo": {
+                                "ground": "Eden Gardens",
+                                "city": "Kolkata",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 59,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 174,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 177,
+                                    "wickets": 3,
+                                    "overs": 16.2
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "adDetail": {
+                "name": "native_news_index_random_1",
+                "layout": "native_large",
+                "position": 1
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 23 Mar 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 114967,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "2nd Match",
+                            "matchFormat": "T20",
+                            "startDate": "1742724000000",
+                            "endDate": "1742724000000",
+                            "state": "complete",
+                            "status": "Sunrisers Hyderabad won by 44 runs",
+                            "team1": {
+                                "teamId": 255,
+                                "teamName": "SUNRISERS HYDERABAD",
+                                "teamSName": "SRH",
+                                "imageId": 860066
+                            },
+                            "team2": {
+                                "teamId": 64,
+                                "teamName": "RAJASTHAN ROYALS",
+                                "teamSName": "RR",
+                                "imageId": 860055
+                            },
+                            "venueInfo": {
+                                "ground": "Rajiv Gandhi International Stadium",
+                                "city": "Hyderabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 255,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 286,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 242,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 114976,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "3rd Match",
+                            "matchFormat": "T20",
+                            "startDate": "1742738400000",
+                            "endDate": "1742738400000",
+                            "state": "complete",
+                            "status": "Chennai Super Kings won by 4 wkts",
+                            "team1": {
+                                "teamId": 58,
+                                "teamName": "CHENNAI SUPER KINGS",
+                                "teamSName": "CSK",
+                                "imageId": 860038
+                            },
+                            "team2": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "venueInfo": {
+                                "ground": "MA Chidambaram Stadium",
+                                "city": "Chennai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 58,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 158,
+                                    "wickets": 6,
+                                    "overs": 19.1
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 155,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Mon, 24 Mar 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 114985,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "4th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1742824800000",
+                            "endDate": "1742824800000",
+                            "state": "complete",
+                            "status": "Delhi Capitals won by 1 wkt",
+                            "team1": {
+                                "teamId": 61,
+                                "teamName": "DELHI CAPITALS",
+                                "teamSName": "DC",
+                                "imageId": 860040
+                            },
+                            "team2": {
+                                "teamId": 966,
+                                "teamName": "LUCKNOW SUPER GIANTS",
+                                "teamSName": "LSG",
+                                "imageId": 860071
+                            },
+                            "venueInfo": {
+                                "ground": "ACA-VDCA Cricket Stadium",
+                                "city": "Visakhapatnam",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 61,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 211,
+                                    "wickets": 9,
+                                    "overs": 19.3
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 209,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 25 Mar 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 114987,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "5th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1742911200000",
+                            "endDate": "1742911200000",
+                            "state": "complete",
+                            "status": "Punjab Kings won by 11 runs",
+                            "team1": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "team2": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "venueInfo": {
+                                "ground": "Narendra Modi Stadium",
+                                "city": "Ahmedabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 65,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 232,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 243,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 26 Mar 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 114996,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "6th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1742997600000",
+                            "endDate": "1742997600000",
+                            "state": "complete",
+                            "status": "Kolkata Knight Riders won by 8 wkts",
+                            "team1": {
+                                "teamId": 64,
+                                "teamName": "RAJASTHAN ROYALS",
+                                "teamSName": "RR",
+                                "imageId": 860055
+                            },
+                            "team2": {
+                                "teamId": 63,
+                                "teamName": "KOLKATA KNIGHT RIDERS",
+                                "teamSName": "KKR",
+                                "imageId": 860046
+                            },
+                            "venueInfo": {
+                                "ground": "Barsapara Cricket Stadium",
+                                "city": "Guwahati",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 63,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 151,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 153,
+                                    "wickets": 2,
+                                    "overs": 17.3
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 27 Mar 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115005,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "7th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1743084000000",
+                            "endDate": "1743084000000",
+                            "state": "complete",
+                            "status": "Lucknow Super Giants won by 5 wkts",
+                            "team1": {
+                                "teamId": 255,
+                                "teamName": "SUNRISERS HYDERABAD",
+                                "teamSName": "SRH",
+                                "imageId": 860066
+                            },
+                            "team2": {
+                                "teamId": 966,
+                                "teamName": "LUCKNOW SUPER GIANTS",
+                                "teamSName": "LSG",
+                                "imageId": 860071
+                            },
+                            "venueInfo": {
+                                "ground": "Rajiv Gandhi International Stadium",
+                                "city": "Hyderabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 966,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 190,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 193,
+                                    "wickets": 5,
+                                    "overs": 16.1
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 28 Mar 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115012,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "8th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1743170400000",
+                            "endDate": "1743170400000",
+                            "state": "complete",
+                            "status": "Royal Challengers Bengaluru won by 50 runs",
+                            "team1": {
+                                "teamId": 58,
+                                "teamName": "CHENNAI SUPER KINGS",
+                                "teamSName": "CSK",
+                                "imageId": 860038
+                            },
+                            "team2": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "venueInfo": {
+                                "ground": "MA Chidambaram Stadium",
+                                "city": "Chennai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 59,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 146,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 196,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 29 Mar 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115014,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "9th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1743256800000",
+                            "endDate": "1743256800000",
+                            "state": "complete",
+                            "status": "Gujarat Titans won by 36 runs",
+                            "team1": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "team2": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "venueInfo": {
+                                "ground": "Narendra Modi Stadium",
+                                "city": "Ahmedabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 971,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 196,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 160,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 30 Mar 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115021,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "10th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1743328800000",
+                            "endDate": "1743328800000",
+                            "state": "complete",
+                            "status": "Delhi Capitals won by 7 wkts",
+                            "team1": {
+                                "teamId": 61,
+                                "teamName": "DELHI CAPITALS",
+                                "teamSName": "DC",
+                                "imageId": 860040
+                            },
+                            "team2": {
+                                "teamId": 255,
+                                "teamName": "SUNRISERS HYDERABAD",
+                                "teamSName": "SRH",
+                                "imageId": 860066
+                            },
+                            "venueInfo": {
+                                "ground": "ACA-VDCA Cricket Stadium",
+                                "city": "Visakhapatnam",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 61,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 166,
+                                    "wickets": 3,
+                                    "overs": 16.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 163,
+                                    "wickets": 10,
+                                    "overs": 18.4
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 115030,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "11th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1743343200000",
+                            "endDate": "1743343200000",
+                            "state": "complete",
+                            "status": "Rajasthan Royals won by 6 runs",
+                            "team1": {
+                                "teamId": 64,
+                                "teamName": "RAJASTHAN ROYALS",
+                                "teamSName": "RR",
+                                "imageId": 860055
+                            },
+                            "team2": {
+                                "teamId": 58,
+                                "teamName": "CHENNAI SUPER KINGS",
+                                "teamSName": "CSK",
+                                "imageId": 860038
+                            },
+                            "venueInfo": {
+                                "ground": "Barsapara Cricket Stadium",
+                                "city": "Guwahati",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 64,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 182,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 176,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Mon, 31 Mar 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115032,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "12th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1743429600000",
+                            "endDate": "1743429600000",
+                            "state": "complete",
+                            "status": "Mumbai Indians won by 8 wkts",
+                            "team1": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "team2": {
+                                "teamId": 63,
+                                "teamName": "KOLKATA KNIGHT RIDERS",
+                                "teamSName": "KKR",
+                                "imageId": 860046
+                            },
+                            "venueInfo": {
+                                "ground": "Wankhede Stadium",
+                                "city": "Mumbai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 62,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 121,
+                                    "wickets": 2,
+                                    "overs": 12.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 116,
+                                    "wickets": 10,
+                                    "overs": 16.2
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 01 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115039,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "13th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1743516000000",
+                            "endDate": "1743516000000",
+                            "state": "complete",
+                            "status": "Punjab Kings won by 8 wkts",
+                            "team1": {
+                                "teamId": 966,
+                                "teamName": "LUCKNOW SUPER GIANTS",
+                                "teamSName": "LSG",
+                                "imageId": 860071
+                            },
+                            "team2": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "venueInfo": {
+                                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                                "city": "Lucknow",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 65,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 171,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 177,
+                                    "wickets": 2,
+                                    "overs": 16.2
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 02 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115048,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "14th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1743602400000",
+                            "endDate": "1743602400000",
+                            "state": "complete",
+                            "status": "Gujarat Titans won by 8 wkts",
+                            "team1": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "team2": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "venueInfo": {
+                                "ground": "M.Chinnaswamy Stadium",
+                                "city": "Bengaluru",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 971,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 169,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 170,
+                                    "wickets": 2,
+                                    "overs": 17.5
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 03 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115050,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "15th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1743688800000",
+                            "endDate": "1743688800000",
+                            "state": "complete",
+                            "status": "Kolkata Knight Riders won by 80 runs",
+                            "team1": {
+                                "teamId": 63,
+                                "teamName": "KOLKATA KNIGHT RIDERS",
+                                "teamSName": "KKR",
+                                "imageId": 860046
+                            },
+                            "team2": {
+                                "teamId": 255,
+                                "teamName": "SUNRISERS HYDERABAD",
+                                "teamSName": "SRH",
+                                "imageId": 860066
+                            },
+                            "venueInfo": {
+                                "ground": "Eden Gardens",
+                                "city": "Kolkata",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 63,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 200,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 120,
+                                    "wickets": 10,
+                                    "overs": 16.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 04 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115059,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "16th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1743775200000",
+                            "endDate": "1743775200000",
+                            "state": "complete",
+                            "status": "Lucknow Super Giants won by 12 runs",
+                            "team1": {
+                                "teamId": 966,
+                                "teamName": "LUCKNOW SUPER GIANTS",
+                                "teamSName": "LSG",
+                                "imageId": 860071
+                            },
+                            "team2": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "venueInfo": {
+                                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                                "city": "Lucknow",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 966,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 203,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 191,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 05 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115068,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "17th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1743847200000",
+                            "endDate": "1743847200000",
+                            "state": "complete",
+                            "status": "Delhi Capitals won by 25 runs",
+                            "team1": {
+                                "teamId": 58,
+                                "teamName": "CHENNAI SUPER KINGS",
+                                "teamSName": "CSK",
+                                "imageId": 860038
+                            },
+                            "team2": {
+                                "teamId": 61,
+                                "teamName": "DELHI CAPITALS",
+                                "teamSName": "DC",
+                                "imageId": 860040
+                            },
+                            "venueInfo": {
+                                "ground": "MA Chidambaram Stadium",
+                                "city": "Chennai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 61,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 158,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 183,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 115075,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "18th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1743861600000",
+                            "endDate": "1743861600000",
+                            "state": "complete",
+                            "status": "Rajasthan Royals won by 50 runs",
+                            "team1": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "team2": {
+                                "teamId": 64,
+                                "teamName": "RAJASTHAN ROYALS",
+                                "teamSName": "RR",
+                                "imageId": 860055
+                            },
+                            "venueInfo": {
+                                "ground": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+                                "city": "New Chandigarh",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 64,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 155,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 205,
+                                    "wickets": 4,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 06 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115093,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "19th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1743948000000",
+                            "endDate": "1743948000000",
+                            "state": "complete",
+                            "status": "Gujarat Titans won by 7 wkts",
+                            "team1": {
+                                "teamId": 255,
+                                "teamName": "SUNRISERS HYDERABAD",
+                                "teamSName": "SRH",
+                                "imageId": 860066
+                            },
+                            "team2": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "venueInfo": {
+                                "ground": "Rajiv Gandhi International Stadium",
+                                "city": "Hyderabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 971,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 152,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 153,
+                                    "wickets": 3,
+                                    "overs": 16.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Mon, 07 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115095,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "20th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744034400000",
+                            "endDate": "1744034400000",
+                            "state": "complete",
+                            "status": "Royal Challengers Bengaluru won by 12 runs",
+                            "team1": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "team2": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "venueInfo": {
+                                "ground": "Wankhede Stadium",
+                                "city": "Mumbai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 59,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 209,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 221,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 08 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115084,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "21st Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744106400000",
+                            "endDate": "1744106400000",
+                            "state": "complete",
+                            "status": "Lucknow Super Giants won by 4 runs",
+                            "team1": {
+                                "teamId": 63,
+                                "teamName": "KOLKATA KNIGHT RIDERS",
+                                "teamSName": "KKR",
+                                "imageId": 860046
+                            },
+                            "team2": {
+                                "teamId": 966,
+                                "teamName": "LUCKNOW SUPER GIANTS",
+                                "teamSName": "LSG",
+                                "imageId": 860071
+                            },
+                            "venueInfo": {
+                                "ground": "Eden Gardens",
+                                "city": "Kolkata",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 966,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 234,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 238,
+                                    "wickets": 3,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 115102,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "22nd Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744120800000",
+                            "endDate": "1744120800000",
+                            "state": "complete",
+                            "status": "Punjab Kings won by 18 runs",
+                            "team1": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "team2": {
+                                "teamId": 58,
+                                "teamName": "CHENNAI SUPER KINGS",
+                                "teamSName": "CSK",
+                                "imageId": 860038
+                            },
+                            "venueInfo": {
+                                "ground": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+                                "city": "New Chandigarh",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 65,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 219,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 201,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 09 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115104,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "23rd Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744207200000",
+                            "endDate": "1744207200000",
+                            "state": "complete",
+                            "status": "Gujarat Titans won by 58 runs",
+                            "team1": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "team2": {
+                                "teamId": 64,
+                                "teamName": "RAJASTHAN ROYALS",
+                                "teamSName": "RR",
+                                "imageId": 860055
+                            },
+                            "venueInfo": {
+                                "ground": "Narendra Modi Stadium",
+                                "city": "Ahmedabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 971,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 217,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 159,
+                                    "wickets": 10,
+                                    "overs": 19.2
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 10 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115111,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "24th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744293600000",
+                            "endDate": "1744293600000",
+                            "state": "complete",
+                            "status": "Delhi Capitals won by 6 wkts",
+                            "team1": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "team2": {
+                                "teamId": 61,
+                                "teamName": "DELHI CAPITALS",
+                                "teamSName": "DC",
+                                "imageId": 860040
+                            },
+                            "venueInfo": {
+                                "ground": "M.Chinnaswamy Stadium",
+                                "city": "Bengaluru",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 61,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 163,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 169,
+                                    "wickets": 4,
+                                    "overs": 17.5
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 11 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115113,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "25th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744380000000",
+                            "endDate": "1744380000000",
+                            "state": "complete",
+                            "status": "Kolkata Knight Riders won by 8 wkts",
+                            "team1": {
+                                "teamId": 58,
+                                "teamName": "CHENNAI SUPER KINGS",
+                                "teamSName": "CSK",
+                                "imageId": 860038
+                            },
+                            "team2": {
+                                "teamId": 63,
+                                "teamName": "KOLKATA KNIGHT RIDERS",
+                                "teamSName": "KKR",
+                                "imageId": 860046
+                            },
+                            "venueInfo": {
+                                "ground": "MA Chidambaram Stadium",
+                                "city": "Chennai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 63,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 103,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 107,
+                                    "wickets": 2,
+                                    "overs": 10.1
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 12 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115122,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "26th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744452000000",
+                            "endDate": "1744452000000",
+                            "state": "complete",
+                            "status": "Lucknow Super Giants won by 6 wkts",
+                            "team1": {
+                                "teamId": 966,
+                                "teamName": "LUCKNOW SUPER GIANTS",
+                                "teamSName": "LSG",
+                                "imageId": 860071
+                            },
+                            "team2": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "venueInfo": {
+                                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                                "city": "Lucknow",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 966,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 186,
+                                    "wickets": 4,
+                                    "overs": 19.3
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 180,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 115129,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "27th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744466400000",
+                            "endDate": "1744466400000",
+                            "state": "complete",
+                            "status": "Sunrisers Hyderabad won by 8 wkts",
+                            "team1": {
+                                "teamId": 255,
+                                "teamName": "SUNRISERS HYDERABAD",
+                                "teamSName": "SRH",
+                                "imageId": 860066
+                            },
+                            "team2": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "venueInfo": {
+                                "ground": "Rajiv Gandhi International Stadium",
+                                "city": "Hyderabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 255,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 247,
+                                    "wickets": 2,
+                                    "overs": 18.3
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 245,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 13 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115138,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "28th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744538400000",
+                            "endDate": "1744538400000",
+                            "state": "complete",
+                            "status": "Royal Challengers Bengaluru won by 9 wkts",
+                            "team1": {
+                                "teamId": 64,
+                                "teamName": "RAJASTHAN ROYALS",
+                                "teamSName": "RR",
+                                "imageId": 860055
+                            },
+                            "team2": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "venueInfo": {
+                                "ground": "Sawai Mansingh Stadium",
+                                "city": "Jaipur",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 59,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 173,
+                                    "wickets": 4,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 175,
+                                    "wickets": 1,
+                                    "overs": 17.3
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 115140,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "29th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744552800000",
+                            "endDate": "1744552800000",
+                            "state": "complete",
+                            "status": "Mumbai Indians won by 12 runs",
+                            "team1": {
+                                "teamId": 61,
+                                "teamName": "DELHI CAPITALS",
+                                "teamSName": "DC",
+                                "imageId": 860040
+                            },
+                            "team2": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "venueInfo": {
+                                "ground": "Arun Jaitley Stadium",
+                                "city": "Delhi",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 62,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 193,
+                                    "wickets": 10,
+                                    "overs": 19.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 205,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Mon, 14 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115149,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "30th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744639200000",
+                            "endDate": "1744639200000",
+                            "state": "complete",
+                            "status": "Chennai Super Kings won by 5 wkts",
+                            "team1": {
+                                "teamId": 966,
+                                "teamName": "LUCKNOW SUPER GIANTS",
+                                "teamSName": "LSG",
+                                "imageId": 860071
+                            },
+                            "team2": {
+                                "teamId": 58,
+                                "teamName": "CHENNAI SUPER KINGS",
+                                "teamSName": "CSK",
+                                "imageId": 860038
+                            },
+                            "venueInfo": {
+                                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                                "city": "Lucknow",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 58,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 166,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 168,
+                                    "wickets": 5,
+                                    "overs": 19.3
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 15 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115156,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "31st Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744725600000",
+                            "endDate": "1744725600000",
+                            "state": "complete",
+                            "status": "Punjab Kings won by 16 runs",
+                            "team1": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "team2": {
+                                "teamId": 63,
+                                "teamName": "KOLKATA KNIGHT RIDERS",
+                                "teamSName": "KKR",
+                                "imageId": 860046
+                            },
+                            "venueInfo": {
+                                "ground": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+                                "city": "New Chandigarh",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 65,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 111,
+                                    "wickets": 10,
+                                    "overs": 15.3
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 95,
+                                    "wickets": 10,
+                                    "overs": 15.1
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 16 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115165,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "32nd Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744812000000",
+                            "endDate": "1744812000000",
+                            "state": "complete",
+                            "status": "Match tied (Delhi Capitals won the Super Over)",
+                            "team1": {
+                                "teamId": 61,
+                                "teamName": "DELHI CAPITALS",
+                                "teamSName": "DC",
+                                "imageId": 860040
+                            },
+                            "team2": {
+                                "teamId": 64,
+                                "teamName": "RAJASTHAN ROYALS",
+                                "teamSName": "RR",
+                                "imageId": 860055
+                            },
+                            "venueInfo": {
+                                "ground": "Arun Jaitley Stadium",
+                                "city": "Delhi",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 64,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 188,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 188,
+                                    "wickets": 4,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 17 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115167,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "33rd Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744898400000",
+                            "endDate": "1744898400000",
+                            "state": "complete",
+                            "status": "Mumbai Indians won by 4 wkts",
+                            "team1": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "team2": {
+                                "teamId": 255,
+                                "teamName": "SUNRISERS HYDERABAD",
+                                "teamSName": "SRH",
+                                "imageId": 860066
+                            },
+                            "venueInfo": {
+                                "ground": "Wankhede Stadium",
+                                "city": "Mumbai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 62,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 166,
+                                    "wickets": 6,
+                                    "overs": 18.1
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 162,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 18 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115174,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "34th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1744984800000",
+                            "endDate": "1744984800000",
+                            "state": "complete",
+                            "status": "Punjab Kings won by 5 wkts - 14 overs game - due to rain",
+                            "team1": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "team2": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "venueInfo": {
+                                "ground": "M.Chinnaswamy Stadium",
+                                "city": "Bengaluru",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 65,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 95,
+                                    "wickets": 9,
+                                    "overs": 14.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 98,
+                                    "wickets": 5,
+                                    "overs": 12.1
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 19 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115176,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "35th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1745056800000",
+                            "endDate": "1745056800000",
+                            "state": "complete",
+                            "status": "Gujarat Titans won by 7 wkts",
+                            "team1": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "team2": {
+                                "teamId": 61,
+                                "teamName": "DELHI CAPITALS",
+                                "teamSName": "DC",
+                                "imageId": 860040
+                            },
+                            "venueInfo": {
+                                "ground": "Narendra Modi Stadium",
+                                "city": "Ahmedabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 971,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 204,
+                                    "wickets": 3,
+                                    "overs": 19.2
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 203,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 115183,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "36th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1745071200000",
+                            "endDate": "1745071200000",
+                            "state": "complete",
+                            "status": "Lucknow Super Giants won by 2 runs",
+                            "team1": {
+                                "teamId": 64,
+                                "teamName": "RAJASTHAN ROYALS",
+                                "teamSName": "RR",
+                                "imageId": 860055
+                            },
+                            "team2": {
+                                "teamId": 966,
+                                "teamName": "LUCKNOW SUPER GIANTS",
+                                "teamSName": "LSG",
+                                "imageId": 860071
+                            },
+                            "venueInfo": {
+                                "ground": "Sawai Mansingh Stadium",
+                                "city": "Jaipur",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 966,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 178,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 180,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 20 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115192,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "37th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1745143200000",
+                            "endDate": "1745143200000",
+                            "state": "complete",
+                            "status": "Royal Challengers Bengaluru won by 7 wkts",
+                            "team1": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "team2": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "venueInfo": {
+                                "ground": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+                                "city": "New Chandigarh",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 59,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 157,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 159,
+                                    "wickets": 3,
+                                    "overs": 18.5
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 115201,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "38th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1745157600000",
+                            "endDate": "1745157600000",
+                            "state": "complete",
+                            "status": "Mumbai Indians won by 9 wkts",
+                            "team1": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "team2": {
+                                "teamId": 58,
+                                "teamName": "CHENNAI SUPER KINGS",
+                                "teamSName": "CSK",
+                                "imageId": 860038
+                            },
+                            "venueInfo": {
+                                "ground": "Wankhede Stadium",
+                                "city": "Mumbai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 62,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 177,
+                                    "wickets": 1,
+                                    "overs": 15.4
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 176,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Mon, 21 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115210,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "39th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1745244000000",
+                            "endDate": "1745244000000",
+                            "state": "complete",
+                            "status": "Gujarat Titans won by 39 runs",
+                            "team1": {
+                                "teamId": 63,
+                                "teamName": "KOLKATA KNIGHT RIDERS",
+                                "teamSName": "KKR",
+                                "imageId": 860046
+                            },
+                            "team2": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "venueInfo": {
+                                "ground": "Eden Gardens",
+                                "city": "Kolkata",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 971,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 159,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 198,
+                                    "wickets": 3,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 22 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115212,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "40th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1745330400000",
+                            "endDate": "1745330400000",
+                            "state": "complete",
+                            "status": "Delhi Capitals won by 8 wkts",
+                            "team1": {
+                                "teamId": 966,
+                                "teamName": "LUCKNOW SUPER GIANTS",
+                                "teamSName": "LSG",
+                                "imageId": 860071
+                            },
+                            "team2": {
+                                "teamId": 61,
+                                "teamName": "DELHI CAPITALS",
+                                "teamSName": "DC",
+                                "imageId": 860040
+                            },
+                            "venueInfo": {
+                                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                                "city": "Lucknow",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 61,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 159,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 161,
+                                    "wickets": 2,
+                                    "overs": 17.5
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 23 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115221,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "41st Match",
+                            "matchFormat": "T20",
+                            "startDate": "1745416800000",
+                            "endDate": "1745416800000",
+                            "state": "complete",
+                            "status": "Mumbai Indians won by 7 wkts",
+                            "team1": {
+                                "teamId": 255,
+                                "teamName": "SUNRISERS HYDERABAD",
+                                "teamSName": "SRH",
+                                "imageId": 860066
+                            },
+                            "team2": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "venueInfo": {
+                                "ground": "Rajiv Gandhi International Stadium",
+                                "city": "Hyderabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 62,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 143,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 146,
+                                    "wickets": 3,
+                                    "overs": 15.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 24 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115230,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "42nd Match",
+                            "matchFormat": "T20",
+                            "startDate": "1745503200000",
+                            "endDate": "1745503200000",
+                            "state": "complete",
+                            "status": "Royal Challengers Bengaluru won by 11 runs",
+                            "team1": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "team2": {
+                                "teamId": 64,
+                                "teamName": "RAJASTHAN ROYALS",
+                                "teamSName": "RR",
+                                "imageId": 860055
+                            },
+                            "venueInfo": {
+                                "ground": "M.Chinnaswamy Stadium",
+                                "city": "Bengaluru",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 59,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 205,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 194,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 25 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115239,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "43rd Match",
+                            "matchFormat": "T20",
+                            "startDate": "1745589600000",
+                            "endDate": "1745589600000",
+                            "state": "complete",
+                            "status": "Sunrisers Hyderabad won by 5 wkts",
+                            "team1": {
+                                "teamId": 58,
+                                "teamName": "CHENNAI SUPER KINGS",
+                                "teamSName": "CSK",
+                                "imageId": 860038
+                            },
+                            "team2": {
+                                "teamId": 255,
+                                "teamName": "SUNRISERS HYDERABAD",
+                                "teamSName": "SRH",
+                                "imageId": 860066
+                            },
+                            "venueInfo": {
+                                "ground": "MA Chidambaram Stadium",
+                                "city": "Chennai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 255,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 154,
+                                    "wickets": 10,
+                                    "overs": 19.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 155,
+                                    "wickets": 5,
+                                    "overs": 18.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 26 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115248,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "44th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1745676000000",
+                            "endDate": "1745676000000",
+                            "state": "complete",
+                            "status": "No result due to rain",
+                            "team1": {
+                                "teamId": 63,
+                                "teamName": "KOLKATA KNIGHT RIDERS",
+                                "teamSName": "KKR",
+                                "imageId": 860046
+                            },
+                            "team2": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "venueInfo": {
+                                "ground": "Eden Gardens",
+                                "city": "Kolkata",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 63,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 7,
+                                    "overs": 1.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 201,
+                                    "wickets": 4,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 27 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115255,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "45th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1745748000000",
+                            "endDate": "1745748000000",
+                            "state": "complete",
+                            "status": "Mumbai Indians won by 54 runs",
+                            "team1": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "team2": {
+                                "teamId": 966,
+                                "teamName": "LUCKNOW SUPER GIANTS",
+                                "teamSName": "LSG",
+                                "imageId": 860071
+                            },
+                            "venueInfo": {
+                                "ground": "Wankhede Stadium",
+                                "city": "Mumbai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 62,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 215,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 161,
+                                    "wickets": 10,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 115257,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "46th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1745762400000",
+                            "endDate": "1745762400000",
+                            "state": "complete",
+                            "status": "Royal Challengers Bengaluru won by 6 wkts",
+                            "team1": {
+                                "teamId": 61,
+                                "teamName": "DELHI CAPITALS",
+                                "teamSName": "DC",
+                                "imageId": 860040
+                            },
+                            "team2": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "venueInfo": {
+                                "ground": "Arun Jaitley Stadium",
+                                "city": "Delhi",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 59,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 162,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 165,
+                                    "wickets": 4,
+                                    "overs": 18.3
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Mon, 28 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115266,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "47th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1745848800000",
+                            "endDate": "1745848800000",
+                            "state": "complete",
+                            "status": "Rajasthan Royals won by 8 wkts",
+                            "team1": {
+                                "teamId": 64,
+                                "teamName": "RAJASTHAN ROYALS",
+                                "teamSName": "RR",
+                                "imageId": 860055
+                            },
+                            "team2": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "venueInfo": {
+                                "ground": "Sawai Mansingh Stadium",
+                                "city": "Jaipur",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 64,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 212,
+                                    "wickets": 2,
+                                    "overs": 15.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 209,
+                                    "wickets": 4,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 29 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115275,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "48th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1745935200000",
+                            "endDate": "1745935200000",
+                            "state": "complete",
+                            "status": "Kolkata Knight Riders won by 14 runs",
+                            "team1": {
+                                "teamId": 61,
+                                "teamName": "DELHI CAPITALS",
+                                "teamSName": "DC",
+                                "imageId": 860040
+                            },
+                            "team2": {
+                                "teamId": 63,
+                                "teamName": "KOLKATA KNIGHT RIDERS",
+                                "teamSName": "KKR",
+                                "imageId": 860046
+                            },
+                            "venueInfo": {
+                                "ground": "Arun Jaitley Stadium",
+                                "city": "Delhi",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 63,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 190,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 204,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 30 Apr 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115282,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "49th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1746021600000",
+                            "endDate": "1746021600000",
+                            "state": "complete",
+                            "status": "Punjab Kings won by 4 wkts",
+                            "team1": {
+                                "teamId": 58,
+                                "teamName": "CHENNAI SUPER KINGS",
+                                "teamSName": "CSK",
+                                "imageId": 860038
+                            },
+                            "team2": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "venueInfo": {
+                                "ground": "MA Chidambaram Stadium",
+                                "city": "Chennai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 65,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 190,
+                                    "wickets": 10,
+                                    "overs": 19.2
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 194,
+                                    "wickets": 6,
+                                    "overs": 19.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 01 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115291,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "50th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1746108000000",
+                            "endDate": "1746108000000",
+                            "state": "complete",
+                            "status": "Mumbai Indians won by 100 runs",
+                            "team1": {
+                                "teamId": 64,
+                                "teamName": "RAJASTHAN ROYALS",
+                                "teamSName": "RR",
+                                "imageId": 860055
+                            },
+                            "team2": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "venueInfo": {
+                                "ground": "Sawai Mansingh Stadium",
+                                "city": "Jaipur",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 62,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 117,
+                                    "wickets": 10,
+                                    "overs": 16.1
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 217,
+                                    "wickets": 2,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 02 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115300,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "51st Match",
+                            "matchFormat": "T20",
+                            "startDate": "1746194400000",
+                            "endDate": "1746194400000",
+                            "state": "complete",
+                            "status": "Gujarat Titans won by 38 runs",
+                            "team1": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "team2": {
+                                "teamId": 255,
+                                "teamName": "SUNRISERS HYDERABAD",
+                                "teamSName": "SRH",
+                                "imageId": 860066
+                            },
+                            "venueInfo": {
+                                "ground": "Narendra Modi Stadium",
+                                "city": "Ahmedabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 971,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 224,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 186,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 03 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115302,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "52nd Match",
+                            "matchFormat": "T20",
+                            "startDate": "1746280800000",
+                            "endDate": "1746280800000",
+                            "state": "complete",
+                            "status": "Royal Challengers Bengaluru won by 2 runs",
+                            "team1": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "team2": {
+                                "teamId": 58,
+                                "teamName": "CHENNAI SUPER KINGS",
+                                "teamSName": "CSK",
+                                "imageId": 860038
+                            },
+                            "venueInfo": {
+                                "ground": "M.Chinnaswamy Stadium",
+                                "city": "Bengaluru",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 59,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 213,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 211,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 04 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115309,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "53rd Match",
+                            "matchFormat": "T20",
+                            "startDate": "1746352800000",
+                            "endDate": "1746352800000",
+                            "state": "complete",
+                            "status": "Kolkata Knight Riders won by 1 run",
+                            "team1": {
+                                "teamId": 63,
+                                "teamName": "KOLKATA KNIGHT RIDERS",
+                                "teamSName": "KKR",
+                                "imageId": 860046
+                            },
+                            "team2": {
+                                "teamId": 64,
+                                "teamName": "RAJASTHAN ROYALS",
+                                "teamSName": "RR",
+                                "imageId": 860055
+                            },
+                            "venueInfo": {
+                                "ground": "Eden Gardens",
+                                "city": "Kolkata",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 63,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 206,
+                                    "wickets": 4,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 205,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 115318,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "54th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1746367200000",
+                            "endDate": "1746367200000",
+                            "state": "complete",
+                            "status": "Punjab Kings won by 37 runs",
+                            "team1": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "team2": {
+                                "teamId": 966,
+                                "teamName": "LUCKNOW SUPER GIANTS",
+                                "teamSName": "LSG",
+                                "imageId": 860071
+                            },
+                            "venueInfo": {
+                                "ground": "Himachal Pradesh Cricket Association Stadium",
+                                "city": "Dharamsala",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 65,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 236,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 199,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Mon, 05 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115327,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "55th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1746453600000",
+                            "endDate": "1746453600000",
+                            "state": "complete",
+                            "status": "No Result - due to rain",
+                            "team1": {
+                                "teamId": 255,
+                                "teamName": "SUNRISERS HYDERABAD",
+                                "teamSName": "SRH",
+                                "imageId": 860066
+                            },
+                            "team2": {
+                                "teamId": 61,
+                                "teamName": "DELHI CAPITALS",
+                                "teamSName": "DC",
+                                "imageId": 860040
+                            },
+                            "venueInfo": {
+                                "ground": "Rajiv Gandhi International Stadium",
+                                "city": "Hyderabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 61,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 133,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 06 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115336,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "56th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1746540000000",
+                            "endDate": "1746540000000",
+                            "state": "complete",
+                            "status": "Gujarat Titans won by 3 wkts by DLS Method (Target 147)",
+                            "team1": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "team2": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "venueInfo": {
+                                "ground": "Wankhede Stadium",
+                                "city": "Mumbai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 971,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 155,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 147,
+                                    "wickets": 7,
+                                    "overs": 19.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 07 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 115345,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "57th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1746626400000",
+                            "endDate": "1746626400000",
+                            "state": "complete",
+                            "status": "Chennai Super Kings won by 2 wkts",
+                            "team1": {
+                                "teamId": 63,
+                                "teamName": "KOLKATA KNIGHT RIDERS",
+                                "teamSName": "KKR",
+                                "imageId": 860046
+                            },
+                            "team2": {
+                                "teamId": 58,
+                                "teamName": "CHENNAI SUPER KINGS",
+                                "teamSName": "CSK",
+                                "imageId": 860038
+                            },
+                            "venueInfo": {
+                                "ground": "Eden Gardens",
+                                "city": "Kolkata",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 58,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 179,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 183,
+                                    "wickets": 8,
+                                    "overs": 19.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 17 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118811,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "58th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1747490400000",
+                            "endDate": "1747490400000",
+                            "state": "complete",
+                            "status": "Match abandoned due to rain (no toss)",
+                            "team1": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "team2": {
+                                "teamId": 63,
+                                "teamName": "KOLKATA KNIGHT RIDERS",
+                                "teamSName": "KKR",
+                                "imageId": 860046
+                            },
+                            "venueInfo": {
+                                "ground": "M.Chinnaswamy Stadium",
+                                "city": "Bengaluru",
+                                "timezone": "+05:30"
+                            },
+                            "isTimeAnnounced": true
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 18 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118820,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "59th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1747562400000",
+                            "endDate": "1747562400000",
+                            "state": "complete",
+                            "status": "Punjab Kings won by 10 runs",
+                            "team1": {
+                                "teamId": 64,
+                                "teamName": "RAJASTHAN ROYALS",
+                                "teamSName": "RR",
+                                "imageId": 860055
+                            },
+                            "team2": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "venueInfo": {
+                                "ground": "Sawai Mansingh Stadium",
+                                "city": "Jaipur",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 65,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 209,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 219,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 118829,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "60th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1747576800000",
+                            "endDate": "1747576800000",
+                            "state": "complete",
+                            "status": "Gujarat Titans won by 10 wkts",
+                            "team1": {
+                                "teamId": 61,
+                                "teamName": "DELHI CAPITALS",
+                                "teamSName": "DC",
+                                "imageId": 860040
+                            },
+                            "team2": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "venueInfo": {
+                                "ground": "Arun Jaitley Stadium",
+                                "city": "Delhi",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 971,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 199,
+                                    "wickets": 3,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 205,
+                                    "overs": 19.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Mon, 19 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118838,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "61st Match",
+                            "matchFormat": "T20",
+                            "startDate": "1747663200000",
+                            "endDate": "1747663200000",
+                            "state": "complete",
+                            "status": "Sunrisers Hyderabad won by 6 wkts",
+                            "team1": {
+                                "teamId": 966,
+                                "teamName": "LUCKNOW SUPER GIANTS",
+                                "teamSName": "LSG",
+                                "imageId": 860071
+                            },
+                            "team2": {
+                                "teamId": 255,
+                                "teamName": "SUNRISERS HYDERABAD",
+                                "teamSName": "SRH",
+                                "imageId": 860066
+                            },
+                            "venueInfo": {
+                                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                                "city": "Lucknow",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 255,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 205,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 206,
+                                    "wickets": 4,
+                                    "overs": 18.2
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 20 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118847,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "62nd Match",
+                            "matchFormat": "T20",
+                            "startDate": "1747749600000",
+                            "endDate": "1747749600000",
+                            "state": "complete",
+                            "status": "Rajasthan Royals won by 6 wkts",
+                            "team1": {
+                                "teamId": 58,
+                                "teamName": "CHENNAI SUPER KINGS",
+                                "teamSName": "CSK",
+                                "imageId": 860038
+                            },
+                            "team2": {
+                                "teamId": 64,
+                                "teamName": "RAJASTHAN ROYALS",
+                                "teamSName": "RR",
+                                "imageId": 860055
+                            },
+                            "venueInfo": {
+                                "ground": "Arun Jaitley Stadium",
+                                "city": "Delhi",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 64,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 187,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 188,
+                                    "wickets": 4,
+                                    "overs": 17.1
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 21 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118853,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "63rd Match",
+                            "matchFormat": "T20",
+                            "startDate": "1747836000000",
+                            "endDate": "1747836000000",
+                            "state": "complete",
+                            "status": "Mumbai Indians won by 59 runs",
+                            "team1": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "team2": {
+                                "teamId": 61,
+                                "teamName": "DELHI CAPITALS",
+                                "teamSName": "DC",
+                                "imageId": 860040
+                            },
+                            "venueInfo": {
+                                "ground": "Wankhede Stadium",
+                                "city": "Mumbai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 62,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 180,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 121,
+                                    "wickets": 10,
+                                    "overs": 18.2
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 22 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118862,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "64th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1747922400000",
+                            "endDate": "1747922400000",
+                            "state": "complete",
+                            "status": "Lucknow Super Giants won by 33 runs",
+                            "team1": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "team2": {
+                                "teamId": 966,
+                                "teamName": "LUCKNOW SUPER GIANTS",
+                                "teamSName": "LSG",
+                                "imageId": 860071
+                            },
+                            "venueInfo": {
+                                "ground": "Narendra Modi Stadium",
+                                "city": "Ahmedabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 966,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 202,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 235,
+                                    "wickets": 2,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 23 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118865,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "65th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1748008800000",
+                            "endDate": "1748008800000",
+                            "state": "complete",
+                            "status": "Sunrisers Hyderabad won by 42 runs",
+                            "team1": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "team2": {
+                                "teamId": 255,
+                                "teamName": "SUNRISERS HYDERABAD",
+                                "teamSName": "SRH",
+                                "imageId": 860066
+                            },
+                            "venueInfo": {
+                                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                                "city": "Lucknow",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 255,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 189,
+                                    "wickets": 10,
+                                    "overs": 19.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 231,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 24 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118874,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "66th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1748095200000",
+                            "endDate": "1748095200000",
+                            "state": "complete",
+                            "status": "Delhi Capitals won by 6 wkts",
+                            "team1": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "team2": {
+                                "teamId": 61,
+                                "teamName": "DELHI CAPITALS",
+                                "teamSName": "DC",
+                                "imageId": 860040
+                            },
+                            "venueInfo": {
+                                "ground": "Sawai Mansingh Stadium",
+                                "city": "Jaipur",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 61,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 206,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 208,
+                                    "wickets": 4,
+                                    "overs": 19.3
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 25 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118880,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "67th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1748167200000",
+                            "endDate": "1748167200000",
+                            "state": "complete",
+                            "status": "Chennai Super Kings won by 83 runs",
+                            "team1": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "team2": {
+                                "teamId": 58,
+                                "teamName": "CHENNAI SUPER KINGS",
+                                "teamSName": "CSK",
+                                "imageId": 860038
+                            },
+                            "venueInfo": {
+                                "ground": "Narendra Modi Stadium",
+                                "city": "Ahmedabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 58,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 147,
+                                    "wickets": 10,
+                                    "overs": 18.3
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 230,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 118883,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "68th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1748181600000",
+                            "endDate": "1748181600000",
+                            "state": "complete",
+                            "status": "Sunrisers Hyderabad won by 110 runs",
+                            "team1": {
+                                "teamId": 255,
+                                "teamName": "SUNRISERS HYDERABAD",
+                                "teamSName": "SRH",
+                                "imageId": 860066
+                            },
+                            "team2": {
+                                "teamId": 63,
+                                "teamName": "KOLKATA KNIGHT RIDERS",
+                                "teamSName": "KKR",
+                                "imageId": 860046
+                            },
+                            "venueInfo": {
+                                "ground": "Arun Jaitley Stadium",
+                                "city": "Delhi",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 255,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 278,
+                                    "wickets": 3,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 168,
+                                    "wickets": 10,
+                                    "overs": 18.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Mon, 26 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118892,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "69th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1748268000000",
+                            "endDate": "1748268000000",
+                            "state": "complete",
+                            "status": "Punjab Kings won by 7 wkts",
+                            "team1": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "team2": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "venueInfo": {
+                                "ground": "Sawai Mansingh Stadium",
+                                "city": "Jaipur",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 65,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 187,
+                                    "wickets": 3,
+                                    "overs": 18.3
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 184,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 27 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118898,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "70th Match",
+                            "matchFormat": "T20",
+                            "startDate": "1748354400000",
+                            "endDate": "1748354400000",
+                            "state": "complete",
+                            "status": "Royal Challengers Bengaluru won by 6 wkts",
+                            "team1": {
+                                "teamId": 966,
+                                "teamName": "LUCKNOW SUPER GIANTS",
+                                "teamSName": "LSG",
+                                "imageId": 860071
+                            },
+                            "team2": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "venueInfo": {
+                                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                                "city": "Lucknow",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 59,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 227,
+                                    "wickets": 3,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 230,
+                                    "wickets": 4,
+                                    "overs": 18.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 29 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118907,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "Qualifier 1",
+                            "matchFormat": "T20",
+                            "startDate": "1748527200000",
+                            "endDate": "1748527200000",
+                            "state": "complete",
+                            "status": "Royal Challengers Bengaluru won by 8 wkts",
+                            "team1": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "team2": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "venueInfo": {
+                                "ground": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+                                "city": "New Chandigarh",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 59,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 101,
+                                    "wickets": 10,
+                                    "overs": 14.1
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 106,
+                                    "wickets": 2,
+                                    "overs": 10.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 30 May 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118916,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "Eliminator",
+                            "matchFormat": "T20",
+                            "startDate": "1748613600000",
+                            "endDate": "1748613600000",
+                            "state": "complete",
+                            "status": "Mumbai Indians won by 20 runs",
+                            "team1": {
+                                "teamId": 971,
+                                "teamName": "GUJARAT TITANS",
+                                "teamSName": "GT",
+                                "imageId": 860068
+                            },
+                            "team2": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "venueInfo": {
+                                "ground": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+                                "city": "New Chandigarh",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 62,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 208,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 228,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 01 Jun 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118919,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "Qualifier 2",
+                            "matchFormat": "T20",
+                            "startDate": "1748786400000",
+                            "endDate": "1748786400000",
+                            "state": "complete",
+                            "status": "Punjab Kings won by 5 wkts",
+                            "team1": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "team2": {
+                                "teamId": 62,
+                                "teamName": "MUMBAI INDIANS",
+                                "teamSName": "MI",
+                                "imageId": 860053
+                            },
+                            "venueInfo": {
+                                "ground": "Narendra Modi Stadium",
+                                "city": "Ahmedabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 65,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 207,
+                                    "wickets": 5,
+                                    "overs": 19.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 203,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 03 Jun 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 118928,
+                            "seriesId": 9237,
+                            "seriesName": "Indian Premier League 2025",
+                            "matchDesc": "Final",
+                            "matchFormat": "T20",
+                            "startDate": "1748959200000",
+                            "endDate": "1748959200000",
+                            "state": "complete",
+                            "status": "Royal Challengers Bengaluru won by 6 runs",
+                            "team1": {
+                                "teamId": 59,
+                                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                                "teamSName": "RCB",
+                                "imageId": 860056
+                            },
+                            "team2": {
+                                "teamId": 65,
+                                "teamName": "PUNJAB KINGS",
+                                "teamSName": "PBKS",
+                                "imageId": 860084
+                            },
+                            "venueInfo": {
+                                "ground": "Narendra Modi Stadium",
+                                "city": "Ahmedabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 59,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 190,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 184,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9237
+            }
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Indian Premier League 2025 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    }
+}

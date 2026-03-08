@@ -1,0 +1,101 @@
+{
+    "seriesVenue": [
+        {
+            "id": 11,
+            "ground": "MA Chidambaram Stadium",
+            "city": "Chennai",
+            "country": "India",
+            "imageId": "864652"
+        },
+        {
+            "id": 851,
+            "ground": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+            "city": "New Chandigarh",
+            "country": "India",
+            "imageId": "870922"
+        },
+        {
+            "id": 31,
+            "ground": "Eden Gardens",
+            "city": "Kolkata",
+            "country": "India",
+            "imageId": "864799"
+        },
+        {
+            "id": 76,
+            "ground": "Sawai Mansingh Stadium",
+            "city": "Jaipur",
+            "country": "India",
+            "imageId": "870923"
+        },
+        {
+            "id": 50,
+            "ground": "Narendra Modi Stadium",
+            "city": "Ahmedabad",
+            "country": "India",
+            "imageId": "865030"
+        },
+        {
+            "id": 27,
+            "ground": "M.Chinnaswamy Stadium",
+            "city": "Bengaluru",
+            "country": "India",
+            "imageId": "731714"
+        },
+        {
+            "id": 80,
+            "ground": "Rajiv Gandhi International Stadium",
+            "city": "Hyderabad",
+            "country": "India",
+            "imageId": "864828"
+        },
+        {
+            "id": 485,
+            "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+            "city": "Lucknow",
+            "country": "India",
+            "imageId": "864829"
+        },
+        {
+            "id": 154,
+            "ground": "ACA-VDCA Cricket Stadium",
+            "city": "Visakhapatnam",
+            "country": "India",
+            "imageId": "731711"
+        },
+        {
+            "id": 81,
+            "ground": "Wankhede Stadium",
+            "city": "Mumbai",
+            "country": "India",
+            "imageId": "864761"
+        },
+        {
+            "id": 51,
+            "ground": "Arun Jaitley Stadium",
+            "city": "Delhi",
+            "country": "India",
+            "imageId": "864655"
+        },
+        {
+            "id": 155,
+            "ground": "Himachal Pradesh Cricket Association Stadium",
+            "city": "Dharamsala",
+            "country": "India",
+            "imageId": "865027"
+        },
+        {
+            "id": 380,
+            "ground": "Barsapara Cricket Stadium",
+            "city": "Guwahati",
+            "country": "India",
+            "imageId": "731778"
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Indian Premier League 2024 Venues and Grounds - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    },
+    "seriesId": 7607,
+    "seriesName": "Indian Premier League 2024"
+}

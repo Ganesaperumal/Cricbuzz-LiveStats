@@ -1,0 +1,382 @@
+{
+    "filter": {
+        "matchtype": [
+            {
+                "matchTypeId": "1",
+                "matchTypeDesc": "test"
+            },
+            {
+                "matchTypeId": "2",
+                "matchTypeDesc": "odi"
+            },
+            {
+                "matchTypeId": "3",
+                "matchTypeDesc": "t20i"
+            }
+        ],
+        "team": [
+            {
+                "id": "2",
+                "teamShortName": "IND"
+            },
+            {
+                "id": "27",
+                "teamShortName": "IRE"
+            },
+            {
+                "id": "3",
+                "teamShortName": "PAK"
+            },
+            {
+                "id": "4",
+                "teamShortName": "AUS"
+            },
+            {
+                "id": "5",
+                "teamShortName": "SL"
+            },
+            {
+                "id": "6",
+                "teamShortName": "BAN"
+            },
+            {
+                "id": "9",
+                "teamShortName": "ENG"
+            },
+            {
+                "id": "10",
+                "teamShortName": "WI"
+            },
+            {
+                "id": "11",
+                "teamShortName": "RSA"
+            },
+            {
+                "id": "12",
+                "teamShortName": "ZIM"
+            },
+            {
+                "id": "13",
+                "teamShortName": "NZ"
+            },
+            {
+                "id": "96",
+                "teamShortName": "AFG"
+            }
+        ],
+        "selectedMatchType": "t20i"
+    },
+    "headers": [
+        "Batter",
+        "HS",
+        "Balls",
+        "SR",
+        "Vs"
+    ],
+    "values": [
+        {
+            "values": [
+                "1643",
+                "Finch",
+                "172",
+                "76",
+                "226.32",
+                "ZIM"
+            ]
+        },
+        {
+            "values": [
+                "41897",
+                "Lucia Taylor",
+                "169",
+                "84",
+                "201.19",
+                "CHLW"
+            ]
+        },
+        {
+            "values": [
+                "21193",
+                "Zeeshan Khan",
+                "164",
+                "84",
+                "195.24",
+                "HUN"
+            ]
+        },
+        {
+            "values": [
+                "12068",
+                "Hazratullah Zazai",
+                "162",
+                "62",
+                "261.29",
+                "IRE"
+            ]
+        },
+        {
+            "values": [
+                "33878",
+                "Mohammad Ihsan",
+                "160",
+                "63",
+                "253.97",
+                "CRT"
+            ]
+        },
+        {
+            "values": [
+                "1643",
+                "Finch",
+                "156",
+                "63",
+                "247.62",
+                "ENG"
+            ]
+        },
+        {
+            "values": [
+                "41855",
+                "Maria Castineiras",
+                "155",
+                "77",
+                "201.30",
+                "CHLW"
+            ]
+        },
+        {
+            "values": [
+                "21823",
+                "Sacha De Alwis",
+                "150",
+                "67",
+                "223.88",
+                "BRAZIL"
+            ]
+        },
+        {
+            "values": [
+                "9113",
+                "Alyssa Healy",
+                "148",
+                "61",
+                "242.62",
+                "SLW"
+            ]
+        },
+        {
+            "values": [
+                "11936",
+                "Chantam",
+                "148",
+                "69",
+                "214.49",
+                "SINW"
+            ]
+        },
+        {
+            "values": [
+                "7662",
+                "Glenn Maxwell",
+                "145",
+                "65",
+                "223.08",
+                "SL"
+            ]
+        },
+        {
+            "values": [
+                "41869",
+                "Albertina Galan",
+                "145",
+                "84",
+                "172.62",
+                "CHLW"
+            ]
+        },
+        {
+            "values": [
+                "50853",
+                "Sahil Chauhan",
+                "144",
+                "41",
+                "351.22",
+                "CYP"
+            ]
+        },
+        {
+            "values": [
+                "38869",
+                "Laura Agatha",
+                "144",
+                "71",
+                "202.82",
+                "MEXW"
+            ]
+        },
+        {
+            "values": [
+                "10479",
+                "Phil Salt",
+                "141",
+                "60",
+                "235.00",
+                "RSA"
+            ]
+        },
+        {
+            "values": [
+                "26246",
+                "Zeeshan Kukikhel",
+                "137",
+                "49",
+                "279.59",
+                "AUT"
+            ]
+        },
+        {
+            "values": [
+                "15400",
+                "Kushal Malla",
+                "137",
+                "50",
+                "274.00",
+                "MGL"
+            ]
+        },
+        {
+            "values": [
+                "11172",
+                "Finn Allen",
+                "137",
+                "62",
+                "220.97",
+                "PAK"
+            ]
+        },
+        {
+            "values": [
+                "12086",
+                "Abhishek Sharma",
+                "135",
+                "54",
+                "250.00",
+                "ENG"
+            ]
+        },
+        {
+            "values": [
+                "45659",
+                "Michael Levitt",
+                "135",
+                "62",
+                "217.74",
+                "NAM"
+            ]
+        },
+        {
+            "values": [
+                "33605",
+                "Rebecca Blake",
+                "135",
+                "76",
+                "177.63",
+                "MALW"
+            ]
+        },
+        {
+            "values": [
+                "8522",
+                "Jan Frylinck",
+                "134",
+                "65",
+                "206.15",
+                "NGA"
+            ]
+        },
+        {
+            "values": [
+                "32611",
+                "Lachlan Lake",
+                "134",
+                "68",
+                "197.06",
+                "CHN"
+            ]
+        },
+        {
+            "values": [
+                "9354",
+                "Sikandar Raza",
+                "133",
+                "43",
+                "309.30",
+                "GM"
+            ]
+        },
+        {
+            "values": [
+                "9114",
+                "Meg Lanning",
+                "133",
+                "63",
+                "211.11",
+                "ENGW"
+            ]
+        },
+        {
+            "values": [
+                "10424",
+                "Max O'Dowd",
+                "133",
+                "73",
+                "182.19",
+                "MLY"
+            ]
+        },
+        {
+            "values": [
+                "10103",
+                "George Munsey",
+                "132",
+                "61",
+                "216.39",
+                "AUT"
+            ]
+        },
+        {
+            "values": [
+                "1429586",
+                "Darius Visser",
+                "132",
+                "62",
+                "212.90",
+                "VAN"
+            ]
+        },
+        {
+            "values": [
+                "11256",
+                "Hayley Matthews",
+                "132",
+                "64",
+                "206.25",
+                "AUSW"
+            ]
+        },
+        {
+            "values": [
+                "41312",
+                "Pedro Baron",
+                "132",
+                "122",
+                "108.20",
+                "BHM"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Live cricket scores, schedule, news, archive, series | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com"
+    }
+}

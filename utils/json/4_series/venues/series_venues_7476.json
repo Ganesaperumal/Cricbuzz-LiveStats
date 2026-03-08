@@ -1,0 +1,73 @@
+{
+    "seriesVenue": [
+        {
+            "id": 1668,
+            "ground": "Grand Prairie Stadium",
+            "city": "Dallas",
+            "country": "United States",
+            "imageId": "717723"
+        },
+        {
+            "id": 110,
+            "ground": "Providence Stadium",
+            "city": "Guyana",
+            "country": "West Indies",
+            "imageId": "189174"
+        },
+        {
+            "id": 55,
+            "ground": "Kensington Oval",
+            "city": "Bridgetown, Barbados",
+            "country": "West Indies",
+            "imageId": "717738"
+        },
+        {
+            "id": 1811,
+            "ground": "Nassau County International Cricket Stadium",
+            "city": "New York",
+            "country": "United States",
+            "imageId": "189174"
+        },
+        {
+            "id": 109,
+            "ground": "Sir Vivian Richards Stadium",
+            "city": "North Sound, Antigua",
+            "country": "West Indies",
+            "imageId": "189174"
+        },
+        {
+            "id": 270,
+            "ground": "Central Broward Regional Park Stadium Turf Ground",
+            "city": "Lauderhill, Florida",
+            "country": "United States",
+            "imageId": "717730"
+        },
+        {
+            "id": 500,
+            "ground": "Brian Lara Stadium",
+            "city": "Tarouba, Trinidad",
+            "country": "West Indies",
+            "imageId": "189174"
+        },
+        {
+            "id": 58,
+            "ground": "Arnos Vale Ground",
+            "city": "Kingstown, St Vincent",
+            "country": "West Indies",
+            "imageId": "189174"
+        },
+        {
+            "id": 59,
+            "ground": "Daren Sammy National Cricket Stadium",
+            "city": "Gros Islet, St Lucia",
+            "country": "West Indies",
+            "imageId": "189174"
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "ICC Mens T20 World Cup 2024 Venues and Grounds - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    },
+    "seriesId": 7476,
+    "seriesName": "ICC Mens T20 World Cup 2024"
+}

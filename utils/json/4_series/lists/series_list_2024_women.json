@@ -1,0 +1,587 @@
+{
+    "seriesMapProto": [
+        {
+            "date": "2024",
+            "series": [
+                {
+                    "id": 9317,
+                    "name": "Philippines Women tour of Singapore, 2024",
+                    "startDt": "1734912000000",
+                    "endDt": "1735257600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9309,
+                    "name": "Myanmar Women tour of Bhutan, 2024",
+                    "startDt": "1734739200000",
+                    "endDt": "1735257600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8563,
+                    "name": "Australia Women tour of New Zealand, 2024",
+                    "startDt": "1734566400000",
+                    "endDt": "1734912000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9301,
+                    "name": "Jersey Women tour of Gibraltar, 2024",
+                    "startDt": "1734220800000",
+                    "endDt": "1734307200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9209,
+                    "name": "West Indies Women tour of India, 2024",
+                    "startDt": "1734220800000",
+                    "endDt": "1735257600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9293,
+                    "name": "Namibia Women tour of Malaysia, 2024",
+                    "startDt": "1733788800000",
+                    "endDt": "1733961600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7799,
+                    "name": "India Women tour of Australia, 2024",
+                    "startDt": "1733356800000",
+                    "endDt": "1733875200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9281,
+                    "name": "Womens T20I Quadrangular Series in Hong Kong, China 2024",
+                    "startDt": "1733270400000",
+                    "endDt": "1733616000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9285,
+                    "name": "Bahrain Women tour of Qatar 2024",
+                    "startDt": "1733184000000",
+                    "endDt": "1733616000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9192,
+                    "name": "Ireland women tour of Bangladesh, 2024",
+                    "startDt": "1732665600000",
+                    "endDt": "1733702400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8060,
+                    "name": "England Women tour of South Africa, 2024",
+                    "startDt": "1732406400000",
+                    "endDt": "1734480000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9229,
+                    "name": "Costa Rica Women tour of Mexico 2024",
+                    "startDt": "1731715200000",
+                    "endDt": "1731801600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9143,
+                    "name": "Womens T20I Quadrangular Series in China, 2024",
+                    "startDt": "1730937600000",
+                    "endDt": "1731196800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9164,
+                    "name": "Kenya Women tour of Rwanda 2024",
+                    "startDt": "1730160000000",
+                    "endDt": "1730505600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8525,
+                    "name": "Womens Big Bash League 2024",
+                    "startDt": "1729987200000",
+                    "endDt": "1733011200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9178,
+                    "name": "Womens T20I Mediterranean Cup, 2024",
+                    "startDt": "1729900800000",
+                    "endDt": "1729987200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9136,
+                    "name": "Bulgaria Women tour of Greece, 2024",
+                    "startDt": "1729900800000",
+                    "endDt": "1729987200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9073,
+                    "name": "New Zealand Women tour of India 2024",
+                    "startDt": "1729728000000",
+                    "endDt": "1730160000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9099,
+                    "name": "Singapore Womens T20I Tri-Series, 2024",
+                    "startDt": "1729468800000",
+                    "endDt": "1730246400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9075,
+                    "name": "USA Women tour of Zimbabwe, 2024",
+                    "startDt": "1729123200000",
+                    "endDt": "1730073600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9065,
+                    "name": "Bulgaria Women tour of Serbia, 2024",
+                    "startDt": "1728691200000",
+                    "endDt": "1728777600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8679,
+                    "name": "T20 Spring Challenge 2024",
+                    "startDt": "1728604800000",
+                    "endDt": "1729382400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 9027,
+                    "name": "Womens East Asia Cup 2024",
+                    "startDt": "1728345600000",
+                    "endDt": "1728777600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8071,
+                    "name": "ICC Womens T20 World Cup, 2024",
+                    "startDt": "1727913600000",
+                    "endDt": "1729382400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8961,
+                    "name": "Singapore Women tour of Japan, 2024",
+                    "startDt": "1727740800000",
+                    "endDt": "1728172800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8076,
+                    "name": "ICC Womens T20 World Cup Warm-up Matches, 2024",
+                    "startDt": "1727481600000",
+                    "endDt": "1727740800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8985,
+                    "name": "Womens Tri-Series in Italy, 2024",
+                    "startDt": "1727308800000",
+                    "endDt": "1727568000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8977,
+                    "name": "South American Womens Championships 2024",
+                    "startDt": "1727308800000",
+                    "endDt": "1727568000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8923,
+                    "name": "Spain Women tour of Greece 2024",
+                    "startDt": "1726790400000",
+                    "endDt": "1726963200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7754,
+                    "name": "New Zealand Women tour of Australia, 2024",
+                    "startDt": "1726704000000",
+                    "endDt": "1727136000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8857,
+                    "name": "South Africa Women tour of Pakistan, 2024",
+                    "startDt": "1726444800000",
+                    "endDt": "1726790400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8900,
+                    "name": "Womens T20I Quadrangular Series 2024",
+                    "startDt": "1726272000000",
+                    "endDt": "1726358400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8908,
+                    "name": "Cyprus Women tour of Serbia, 2024",
+                    "startDt": "1726272000000",
+                    "endDt": "1726358400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8889,
+                    "name": "Rwanda Women tour of Kenya, 2024",
+                    "startDt": "1725926400000",
+                    "endDt": "1726272000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8013,
+                    "name": "England Women tour of Ireland 2024",
+                    "startDt": "1725667200000",
+                    "endDt": "1726358400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8833,
+                    "name": "Womens Tri-Series in Namibia, 2024",
+                    "startDt": "1725580800000",
+                    "endDt": "1726272000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8770,
+                    "name": "Womens Valletta Cup 2024",
+                    "startDt": "1724198400000",
+                    "endDt": "1724544000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8220,
+                    "name": "Womens Caribbean Premier League 2024",
+                    "startDt": "1724198400000",
+                    "endDt": "1724889600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8732,
+                    "name": "Isle of Man Women tour of Malta 2024",
+                    "startDt": "1723852800000",
+                    "endDt": "1724025600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8008,
+                    "name": "Sri Lanka Women tour of Ireland 2024",
+                    "startDt": "1723334400000",
+                    "endDt": "1724112000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8670,
+                    "name": "Nordic Women T20I Cup 2024",
+                    "startDt": "1723248000000",
+                    "endDt": "1723334400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8574,
+                    "name": "Womens Tri-Series in Netherlands, 2024",
+                    "startDt": "1722816000000",
+                    "endDt": "1723766400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8634,
+                    "name": "Italy Women tour of Germany, 2024",
+                    "startDt": "1722124800000",
+                    "endDt": "1722124800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8607,
+                    "name": "Germany Womens T20I Tri-Series 2024",
+                    "startDt": "1721952000000",
+                    "endDt": "1722124800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7532,
+                    "name": "The Hundred Womens Competition 2024",
+                    "startDt": "1721692800000",
+                    "endDt": "1723939200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7765,
+                    "name": "Womens Asia Cup T20, 2024",
+                    "startDt": "1721347200000",
+                    "endDt": "1722124800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8539,
+                    "name": "Guernsey Women tour of Jersey, 2024",
+                    "startDt": "1720915200000",
+                    "endDt": "1720915200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8427,
+                    "name": "Indonesia Womens T20I Tri-Series 2024",
+                    "startDt": "1719878400000",
+                    "endDt": "1720396800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 6808,
+                    "name": "New Zealand Women tour of England, 2024",
+                    "startDt": "1719360000000",
+                    "endDt": "1721174400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8229,
+                    "name": "Hong Kong Women tour of Netherlands, 2024",
+                    "startDt": "1718582400000",
+                    "endDt": "1718755200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8314,
+                    "name": "Estonia Women tour of Cyprus 2024",
+                    "startDt": "1718582400000",
+                    "endDt": "1718755200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8069,
+                    "name": "South Africa Women tour of India, 2024",
+                    "startDt": "1718496000000",
+                    "endDt": "1720483200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8249,
+                    "name": "West Indies Women tour of Sri Lanka, 2024",
+                    "startDt": "1718409600000",
+                    "endDt": "1719532800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8323,
+                    "name": "Women Central Europe Cup, 2024",
+                    "startDt": "1718323200000",
+                    "endDt": "1718496000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8296,
+                    "name": "Czech Republic Women tour of Austria, 2024",
+                    "startDt": "1717804800000",
+                    "endDt": "1717891200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8174,
+                    "name": "Kwibuka Womens Tournament 2024",
+                    "startDt": "1717027200000",
+                    "endDt": "1717804800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8158,
+                    "name": "Italy Women tour of Netherlands, 2024",
+                    "startDt": "1716854400000",
+                    "endDt": "1717027200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8156,
+                    "name": "Luxembourg Women tour of Belgium, 2024",
+                    "startDt": "1716076800000",
+                    "endDt": "1716163200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 6801,
+                    "name": "Pakistan Women tour of England, 2024",
+                    "startDt": "1715385600000",
+                    "endDt": "1716940800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8085,
+                    "name": "Guernsey Women vs Isle of Man Women, 2024",
+                    "startDt": "1714867200000",
+                    "endDt": "1714953600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 8123,
+                    "name": "Denmark Women tour of Austria 2024",
+                    "startDt": "1714780800000",
+                    "endDt": "1714867200000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7835,
+                    "name": "India Women tour of Bangladesh, 2024",
+                    "startDt": "1714262400000",
+                    "endDt": "1715212800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7720,
+                    "name": "ICC Womens T20 World Cup Qualifier 2024",
+                    "startDt": "1714003200000",
+                    "endDt": "1715040000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7943,
+                    "name": "Kalahari Womens T20I Tournament, 2024",
+                    "startDt": "1713744000000",
+                    "endDt": "1714089600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7889,
+                    "name": "Mongolia Women tour of Indonesia, 2024",
+                    "startDt": "1713657600000",
+                    "endDt": "1713916800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7882,
+                    "name": "Estonia Women tour of Gibraltar, 2024",
+                    "startDt": "1713571200000",
+                    "endDt": "1713657600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7713,
+                    "name": "West Indies women tour of Pakistan, 2024",
+                    "startDt": "1713398400000",
+                    "endDt": "1714694400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7717,
+                    "name": "Ireland Women v Thailand Women in UAE, 2024",
+                    "startDt": "1713225600000",
+                    "endDt": "1713398400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7824,
+                    "name": "Womens T20I Quadrangular Series, 2024",
+                    "startDt": "1713225600000",
+                    "endDt": "1713484800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7826,
+                    "name": "Womens ODI Tri-Series 2024",
+                    "startDt": "1712793600000",
+                    "endDt": "1713052800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7436,
+                    "name": "Sri Lanka Women tour of South Africa, 2024",
+                    "startDt": "1711497600000",
+                    "endDt": "1713312000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7736,
+                    "name": "Papua New Guinea Women tour of Zimbabwe, 2024",
+                    "startDt": "1711238400000",
+                    "endDt": "1712016000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7611,
+                    "name": "Australia Women tour of Bangladesh, 2024",
+                    "startDt": "1710979200000",
+                    "endDt": "1712188800000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 6871,
+                    "name": "England Womens tour of New Zealand, 2024",
+                    "startDt": "1710806400000",
+                    "endDt": "1712448000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7632,
+                    "name": "Womens African Games, 2024",
+                    "startDt": "1709769600000",
+                    "endDt": "1710288000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7597,
+                    "name": "NCF Womens T20I Invitational, 2024",
+                    "startDt": "1708819200000",
+                    "endDt": "1709424000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7518,
+                    "name": "Women's Premier League 2024",
+                    "startDt": "1708646400000",
+                    "endDt": "1710633600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7565,
+                    "name": "Asian Cricket Council Womens Premier Cup 2024",
+                    "startDt": "1707523200000",
+                    "endDt": "1708214400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7539,
+                    "name": "Kuwait Women tour of Malaysia, 2024",
+                    "startDt": "1707004800000",
+                    "endDt": "1707177600000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 6311,
+                    "name": "South Africa Women tour of Australia, 2024",
+                    "startDt": "1706313600000",
+                    "endDt": "1708214400000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7497,
+                    "name": "Ireland Women tour of Zimbabwe, 2024",
+                    "startDt": "1705536000000",
+                    "endDt": "1706832000000",
+                    "thumborImageId": 379130
+                },
+                {
+                    "id": 7504,
+                    "name": "Womens T20 Pacific Cup 2024",
+                    "startDt": "1705449600000",
+                    "endDt": "1705795200000",
+                    "thumborImageId": 379130
+                }
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Current Running Cricket Series - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "matchid": 92021,
+    "seriesid": 7781,
+    "seriesname": "Pakistan tour of Australia, 2024",
+    "matchdesc": "2nd ODI",
+    "matchformat": "ODI",
+    "startdate": 1731036600000,
+    "enddate": 1731055882083,
+    "state": "Complete",
+    "status": "Pakistan opt to bowl",
+    "team1": {
+        "teamid": 4,
+        "teamname": "Australia",
+        "teamsname": "AUS",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "team2": {
+        "teamid": 3,
+        "teamname": "Pakistan",
+        "teamsname": "PAK",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "umpire1": {
+        "id": 6864,
+        "name": "Chris Gaffaney",
+        "country": "NZ"
+    },
+    "umpire2": {
+        "id": 8170,
+        "name": "Sam Nogajski",
+        "country": "AUS"
+    },
+    "umpire3": {
+        "id": 10749,
+        "name": "Chris Brown",
+        "country": "NZ"
+    },
+    "referee": {
+        "id": 4710,
+        "name": "Dave Gilbert",
+        "country": "AUS"
+    },
+    "venueinfo": {
+        "id": 40,
+        "ground": "Adelaide Oval",
+        "city": "Adelaide",
+        "country": "Australia",
+        "timezone": "+10:30",
+        "established": 1871,
+        "capacity": "53,583 (including standing room)",
+        "knownas": "",
+        "ends": "City End, Cathedral End",
+        "hometeam": "South Australia and Adelaide Strikers",
+        "floodlights": false,
+        "curator": "",
+        "profile": "",
+        "imageurl": "",
+        "groundlength": 0.0,
+        "groundwidth": 0.0,
+        "othersports": "",
+        "imageid": 0,
+        "latitude": "",
+        "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+        "seotitle": "Cricket match facts AUS vs PAK 2nd ODI,Pakistan tour of Australia, 2024 | Cricbuzz.com",
+        "weburl": "http://www.cricbuzz.com/cricket-match-facts/92021/aus-vs-pak-2nd-odi-pakistan-tour-of-australia-2024"
+    },
+    "istournament": false,
+    "tossstatus": "Pakistan opt to bowl",
+    "seriesstartdt": 1730505600000,
+    "seriesenddt": 1731888000000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": true,
+    "broadcastinfo": [
+        {
+            "country": "IN",
+            "broadcaster": [
+                {
+                    "broadcasttype": "Streaming",
+                    "value": "JioHotstar"
+                },
+                {
+                    "broadcasttype": "TV",
+                    "value": "Star Sports Network"
+                }
+            ]
+        }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "PAK won",
+    "boundarytrackervalues": {
+        "boundarytrackervalue": []
+    },
+    "matchimageid": 569161,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+}

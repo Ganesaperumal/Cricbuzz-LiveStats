@@ -1,0 +1,237 @@
+{
+  "seriesMapProto": [
+    {
+      "date": "2024",
+      "series": [
+        {
+          "id": 8357,
+          "name": "Vijay Hazare Trophy 2024-25",
+          "startDt": "1734739200000",
+          "endDt": "1737158400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9221,
+          "name": "ACC U19 Asia Cup, 2024",
+          "startDt": "1732838400000",
+          "endDt": "1733616000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8364,
+          "name": "Syed Mushtaq Ali Trophy 2024",
+          "startDt": "1732320000000",
+          "endDt": "1734220800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9150,
+          "name": "Sri Lanka A tour of Pakistan, 2024",
+          "startDt": "1731283200000",
+          "endDt": "1732838400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8939,
+          "name": "Plunket Shield 2024-25",
+          "startDt": "1731283200000",
+          "endDt": "1743465600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9001,
+          "name": "ICC CWC Challenge League B, 2024-26",
+          "startDt": "1730851200000",
+          "endDt": "1769731200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8276,
+          "name": "India A tour of Australia, 2024",
+          "startDt": "1730332800000",
+          "endDt": "1731196800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8714,
+          "name": "CSA Four-Day Series Division Two 2024-25",
+          "startDt": "1730332800000",
+          "endDt": "1743897600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8730,
+          "name": "CSA Four-Day Series Division One 2024-25",
+          "startDt": "1730246400000",
+          "endDt": "1744588800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8931,
+          "name": "The Ford Trophy 2024-25",
+          "startDt": "1729382400000",
+          "endDt": "1740873600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8945,
+          "name": "ACC Mens T20 Emerging Teams Asia Cup 2024",
+          "startDt": "1729209600000",
+          "endDt": "1729987200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8339,
+          "name": "Ranji Trophy Elite 2024-25",
+          "startDt": "1728604800000",
+          "endDt": "1740873600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8348,
+          "name": "Ranji Trophy Plate 2024-25",
+          "startDt": "1728604800000",
+          "endDt": "1737936000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9049,
+          "name": "South American Mens Championships 2024",
+          "startDt": "1728518400000",
+          "endDt": "1728777600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8605,
+          "name": "Sheffield Shield 2024-25",
+          "startDt": "1728345600000",
+          "endDt": "1743292800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8373,
+          "name": "Irani Cup 2024",
+          "startDt": "1727740800000",
+          "endDt": "1728086400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8993,
+          "name": "ICC CWC Challenge League A, 2024-26",
+          "startDt": "1727222400000",
+          "endDt": "1769644800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8616,
+          "name": "Australia Domestic One-Day Cup 2024-25",
+          "startDt": "1726963200000",
+          "endDt": "1740787200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8865,
+          "name": "Australia Under 19 tour of India, 2024",
+          "startDt": "1726876800000",
+          "endDt": "1728518400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8700,
+          "name": "Duleep Trophy 2024",
+          "startDt": "1725494400000",
+          "endDt": "1726963200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8820,
+          "name": "Sri Lanka A tour of South Africa,2024",
+          "startDt": "1725062400000",
+          "endDt": "1726617600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8827,
+          "name": "Bangladesh A tour of Pakistan, 2024",
+          "startDt": "1723507200000",
+          "endDt": "1724976000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7343,
+          "name": "England Domestic One-Day Cup 2024",
+          "startDt": "1721779200000",
+          "endDt": "1727049600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7593,
+          "name": "Sri Lanka Under 19 tour of England, 2024",
+          "startDt": "1719532800000",
+          "endDt": "1719964800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8204,
+          "name": "ICC Mens T20 World Cup Warm-up Matches 2024",
+          "startDt": "1716768000000",
+          "endDt": "1717200000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7352,
+          "name": "County Championship Division One 2024",
+          "startDt": "1712275200000",
+          "endDt": "1727568000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7366,
+          "name": "County Championship Division Two 2024",
+          "startDt": "1712275200000",
+          "endDt": "1727568000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7604,
+          "name": "ICC Cricket World Cup Challenge League Play-off 2024",
+          "startDt": "1708560000000",
+          "endDt": "1709424000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7175,
+          "name": "ICC Under 19 World Cup 2024",
+          "startDt": "1705622400000",
+          "endDt": "1707609600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7429,
+          "name": "ICC Under 19 World Cup Warm up Matches 2024",
+          "startDt": "1705104000000",
+          "endDt": "1705449600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7441,
+          "name": "England Lions tour of India, 2024",
+          "startDt": "1705017600000",
+          "endDt": "1707004800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 6725,
+          "name": "Ranji Trophy 2023-24",
+          "startDt": "1704412800000",
+          "endDt": "1710374400000",
+          "thumborImageId": 379130
+        }
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Current Running Cricket Series - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  }
+}

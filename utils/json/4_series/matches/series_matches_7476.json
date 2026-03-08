@@ -1,0 +1,2906 @@
+{
+  "matchDetails": [
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 02 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87500,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "1st Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1717288200000",
+              "endDate": "1717288200000",
+              "state": "complete",
+              "status": "United States of America won by 7 wkts",
+              "team1": {
+                "teamId": 15,
+                "teamName": "UNITED STATES OF AMERICA",
+                "teamSName": "USA",
+                "imageId": 776186
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "CANADA",
+                "teamSName": "CAN",
+                "imageId": 776227
+              },
+              "venueInfo": {
+                "ground": "Grand Prairie Stadium",
+                "city": "Dallas",
+                "timezone": "-05:00"
+              },
+              "currBatTeamId": 15,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 197,
+                  "wickets": 3,
+                  "overs": 17.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 194,
+                  "wickets": 5,
+                  "overs": 20
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87507,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "2nd Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1717338600000",
+              "endDate": "1717338600000",
+              "state": "complete",
+              "status": "West Indies won by 5 wkts",
+              "team1": {
+                "teamId": 10,
+                "teamName": "WEST INDIES",
+                "teamSName": "WI",
+                "imageId": 776191
+              },
+              "team2": {
+                "teamId": 287,
+                "teamName": "PAPUA NEW GUINEA",
+                "teamSName": "PNG",
+                "imageId": 776304
+              },
+              "venueInfo": {
+                "ground": "Providence Stadium",
+                "city": "Guyana",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 10,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 137,
+                  "wickets": 5,
+                  "overs": 19
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 136,
+                  "wickets": 8,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_1",
+        "layout": "native_large",
+        "position": 1
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 03 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87514,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "3rd Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1717374600000",
+              "endDate": "1717374600000",
+              "state": "complete",
+              "status": "Match tied (Namibia won the super over)",
+              "team1": {
+                "teamId": 161,
+                "teamName": "NAMIBIA",
+                "teamSName": "NAM",
+                "imageId": 776326
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "OMAN",
+                "teamSName": "OMAN",
+                "imageId": 776328
+              },
+              "venueInfo": {
+                "ground": "Kensington Oval",
+                "city": "Bridgetown, Barbados",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 161,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 109,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 109,
+                  "wickets": 10,
+                  "overs": 19.4
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87521,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "4th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1717425000000",
+              "endDate": "1717425000000",
+              "state": "complete",
+              "status": "South Africa won by 6 wkts",
+              "team1": {
+                "teamId": 5,
+                "teamName": "SRI LANKA",
+                "teamSName": "SL",
+                "imageId": 776254
+              },
+              "team2": {
+                "teamId": 11,
+                "teamName": "SOUTH AFRICA",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "venueInfo": {
+                "ground": "Nassau County International Cricket Stadium",
+                "city": "New York",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 11,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 77,
+                  "wickets": 10,
+                  "overs": 19.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 80,
+                  "wickets": 4,
+                  "overs": 16.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 04 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87528,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "5th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1717461000000",
+              "endDate": "1717461000000",
+              "state": "complete",
+              "status": "Afghanistan won by 125 runs",
+              "team1": {
+                "teamId": 96,
+                "teamName": "AFGHANISTAN",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "team2": {
+                "teamId": 44,
+                "teamName": "UGANDA",
+                "teamSName": "UGA",
+                "imageId": 776233
+              },
+              "venueInfo": {
+                "ground": "Providence Stadium",
+                "city": "Guyana",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 96,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 183,
+                  "wickets": 5,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 58,
+                  "wickets": 10,
+                  "overs": 16
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87535,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "6th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1717511400000",
+              "endDate": "1717511400000",
+              "state": "complete",
+              "status": "No result",
+              "team1": {
+                "teamId": 9,
+                "teamName": "ENGLAND",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "SCOTLAND",
+                "teamSName": "SCO",
+                "imageId": 776280
+              },
+              "venueInfo": {
+                "ground": "Kensington Oval",
+                "city": "Bridgetown, Barbados",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 23,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 90,
+                  "overs": 10
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87542,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "7th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1717515000000",
+              "endDate": "1717515000000",
+              "state": "complete",
+              "status": "Netherlands won by 6 wkts",
+              "team1": {
+                "teamId": 24,
+                "teamName": "NETHERLANDS",
+                "teamSName": "NED",
+                "imageId": 776335
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "NEPAL",
+                "teamSName": "NEP",
+                "imageId": 776331
+              },
+              "venueInfo": {
+                "ground": "Grand Prairie Stadium",
+                "city": "Dallas",
+                "timezone": "-05:00"
+              },
+              "currBatTeamId": 24,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 109,
+                  "wickets": 4,
+                  "overs": 18.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 106,
+                  "wickets": 10,
+                  "overs": 19.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 05 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87549,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "8th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1717597800000",
+              "endDate": "1717597800000",
+              "state": "complete",
+              "status": "India won by 8 wkts",
+              "team1": {
+                "teamId": 2,
+                "teamName": "INDIA",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "team2": {
+                "teamId": 27,
+                "teamName": "IRELAND",
+                "teamSName": "IRE",
+                "imageId": 839366
+              },
+              "venueInfo": {
+                "ground": "Nassau County International Cricket Stadium",
+                "city": "New York",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 2,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 97,
+                  "wickets": 2,
+                  "overs": 12.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 96,
+                  "wickets": 10,
+                  "overs": 16
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 06 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87556,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "9th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1717630200000",
+              "endDate": "1717630200000",
+              "state": "complete",
+              "status": "Uganda won by 3 wkts",
+              "team1": {
+                "teamId": 287,
+                "teamName": "PAPUA NEW GUINEA",
+                "teamSName": "PNG",
+                "imageId": 776304
+              },
+              "team2": {
+                "teamId": 44,
+                "teamName": "UGANDA",
+                "teamSName": "UGA",
+                "imageId": 776233
+              },
+              "venueInfo": {
+                "ground": "Providence Stadium",
+                "city": "Guyana",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 44,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 77,
+                  "wickets": 10,
+                  "overs": 19.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 78,
+                  "wickets": 7,
+                  "overs": 18.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87563,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "10th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1717633800000",
+              "endDate": "1717633800000",
+              "state": "complete",
+              "status": "Australia won by 39 runs",
+              "team1": {
+                "teamId": 4,
+                "teamName": "AUSTRALIA",
+                "teamSName": "AUS",
+                "imageId": 776202
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "OMAN",
+                "teamSName": "OMAN",
+                "imageId": 776328
+              },
+              "venueInfo": {
+                "ground": "Kensington Oval",
+                "city": "Bridgetown, Barbados",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 4,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 164,
+                  "wickets": 5,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 125,
+                  "wickets": 9,
+                  "overs": 20
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87570,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "11th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1717687800000",
+              "endDate": "1717687800000",
+              "state": "complete",
+              "status": "Match tied (United States won the super over)",
+              "team1": {
+                "teamId": 15,
+                "teamName": "UNITED STATES OF AMERICA",
+                "teamSName": "USA",
+                "imageId": 776186
+              },
+              "team2": {
+                "teamId": 3,
+                "teamName": "PAKISTAN",
+                "teamSName": "PAK",
+                "imageId": 776308
+              },
+              "venueInfo": {
+                "ground": "Grand Prairie Stadium",
+                "city": "Dallas",
+                "timezone": "-05:00"
+              },
+              "currBatTeamId": 15,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 159,
+                  "wickets": 3,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 159,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 07 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87577,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "12th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1717700400000",
+              "endDate": "1717700400000",
+              "state": "complete",
+              "status": "Scotland won by 5 wkts",
+              "team1": {
+                "teamId": 161,
+                "teamName": "NAMIBIA",
+                "teamSName": "NAM",
+                "imageId": 776326
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "SCOTLAND",
+                "teamSName": "SCO",
+                "imageId": 776280
+              },
+              "venueInfo": {
+                "ground": "Kensington Oval",
+                "city": "Bridgetown, Barbados",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 23,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 155,
+                  "wickets": 9,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 157,
+                  "wickets": 5,
+                  "overs": 18.3
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87584,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "13th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1717770600000",
+              "endDate": "1717770600000",
+              "state": "complete",
+              "status": "Canada won by 12 runs",
+              "team1": {
+                "teamId": 26,
+                "teamName": "CANADA",
+                "teamSName": "CAN",
+                "imageId": 776227
+              },
+              "team2": {
+                "teamId": 27,
+                "teamName": "IRELAND",
+                "teamSName": "IRE",
+                "imageId": 839366
+              },
+              "venueInfo": {
+                "ground": "Nassau County International Cricket Stadium",
+                "city": "New York",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 26,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 137,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 125,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 08 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87591,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "14th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1717803000000",
+              "endDate": "1717803000000",
+              "state": "complete",
+              "status": "Afghanistan won by 84 runs",
+              "team1": {
+                "teamId": 13,
+                "teamName": "NEW ZEALAND",
+                "teamSName": "NZ",
+                "imageId": 776333
+              },
+              "team2": {
+                "teamId": 96,
+                "teamName": "AFGHANISTAN",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "venueInfo": {
+                "ground": "Providence Stadium",
+                "city": "Guyana",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 96,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 75,
+                  "wickets": 10,
+                  "overs": 15.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 159,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87598,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "15th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1717806600000",
+              "endDate": "1717806600000",
+              "state": "complete",
+              "status": "Bangladesh won by 2 wkts",
+              "team1": {
+                "teamId": 5,
+                "teamName": "SRI LANKA",
+                "teamSName": "SL",
+                "imageId": 776254
+              },
+              "team2": {
+                "teamId": 6,
+                "teamName": "BANGLADESH",
+                "teamSName": "BAN",
+                "imageId": 776210
+              },
+              "venueInfo": {
+                "ground": "Grand Prairie Stadium",
+                "city": "Dallas",
+                "timezone": "-05:00"
+              },
+              "currBatTeamId": 6,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 124,
+                  "wickets": 9,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 125,
+                  "wickets": 8,
+                  "overs": 19
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87605,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "16th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1717857000000",
+              "endDate": "1717857000000",
+              "state": "complete",
+              "status": "South Africa won by 4 wkts",
+              "team1": {
+                "teamId": 24,
+                "teamName": "NETHERLANDS",
+                "teamSName": "NED",
+                "imageId": 776335
+              },
+              "team2": {
+                "teamId": 11,
+                "teamName": "SOUTH AFRICA",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "venueInfo": {
+                "ground": "Nassau County International Cricket Stadium",
+                "city": "New York",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 11,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 103,
+                  "wickets": 9,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 106,
+                  "wickets": 6,
+                  "overs": 18.5
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87612,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "17th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1717866000000",
+              "endDate": "1717866000000",
+              "state": "complete",
+              "status": "Australia won by 36 runs",
+              "team1": {
+                "teamId": 4,
+                "teamName": "AUSTRALIA",
+                "teamSName": "AUS",
+                "imageId": 776202
+              },
+              "team2": {
+                "teamId": 9,
+                "teamName": "ENGLAND",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "venueInfo": {
+                "ground": "Kensington Oval",
+                "city": "Bridgetown, Barbados",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 4,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 201,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 165,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 09 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87619,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "18th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1717893000000",
+              "endDate": "1717893000000",
+              "state": "complete",
+              "status": "West Indies won by 134 runs",
+              "team1": {
+                "teamId": 10,
+                "teamName": "WEST INDIES",
+                "teamSName": "WI",
+                "imageId": 776191
+              },
+              "team2": {
+                "teamId": 44,
+                "teamName": "UGANDA",
+                "teamSName": "UGA",
+                "imageId": 776233
+              },
+              "venueInfo": {
+                "ground": "Providence Stadium",
+                "city": "Guyana",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 10,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 173,
+                  "wickets": 5,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 39,
+                  "wickets": 10,
+                  "overs": 12
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87626,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "19th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1717943400000",
+              "endDate": "1717943400000",
+              "state": "complete",
+              "status": "India won by 6 runs",
+              "team1": {
+                "teamId": 2,
+                "teamName": "INDIA",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "team2": {
+                "teamId": 3,
+                "teamName": "PAKISTAN",
+                "teamSName": "PAK",
+                "imageId": 776308
+              },
+              "venueInfo": {
+                "ground": "Nassau County International Cricket Stadium",
+                "city": "New York",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 2,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 119,
+                  "wickets": 10,
+                  "overs": 19
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 113,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87633,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "20th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1717952400000",
+              "endDate": "1717952400000",
+              "state": "complete",
+              "status": "Scotland won by 7 wkts",
+              "team1": {
+                "teamId": 304,
+                "teamName": "OMAN",
+                "teamSName": "OMAN",
+                "imageId": 776328
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "SCOTLAND",
+                "teamSName": "SCO",
+                "imageId": 776280
+              },
+              "venueInfo": {
+                "ground": "Sir Vivian Richards Stadium",
+                "city": "North Sound, Antigua",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 23,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 150,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 153,
+                  "wickets": 3,
+                  "overs": 13.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 10 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87640,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "21st Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1718029800000",
+              "endDate": "1718029800000",
+              "state": "complete",
+              "status": "South Africa won by 4 runs",
+              "team1": {
+                "teamId": 11,
+                "teamName": "SOUTH AFRICA",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "team2": {
+                "teamId": 6,
+                "teamName": "BANGLADESH",
+                "teamSName": "BAN",
+                "imageId": 776210
+              },
+              "venueInfo": {
+                "ground": "Nassau County International Cricket Stadium",
+                "city": "New York",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 11,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 113,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 109,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 11 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87647,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "22nd Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1718116200000",
+              "endDate": "1718116200000",
+              "state": "complete",
+              "status": "Pakistan won by 7 wkts",
+              "team1": {
+                "teamId": 3,
+                "teamName": "PAKISTAN",
+                "teamSName": "PAK",
+                "imageId": 776308
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "CANADA",
+                "teamSName": "CAN",
+                "imageId": 776227
+              },
+              "venueInfo": {
+                "ground": "Nassau County International Cricket Stadium",
+                "city": "New York",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 3,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 107,
+                  "wickets": 3,
+                  "overs": 17.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 106,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 12 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87654,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "23rd Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1718148600000",
+              "endDate": "1718148600000",
+              "state": "complete",
+              "status": "Match abandoned due to rain",
+              "team1": {
+                "teamId": 5,
+                "teamName": "SRI LANKA",
+                "teamSName": "SL",
+                "imageId": 776254
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "NEPAL",
+                "teamSName": "NEP",
+                "imageId": 776331
+              },
+              "venueInfo": {
+                "ground": "Central Broward Regional Park Stadium Turf Ground",
+                "city": "Lauderhill, Florida",
+                "timezone": "-04:00"
+              },
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87661,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "24th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1718152200000",
+              "endDate": "1718152200000",
+              "state": "complete",
+              "status": "Australia won by 9 wkts",
+              "team1": {
+                "teamId": 4,
+                "teamName": "AUSTRALIA",
+                "teamSName": "AUS",
+                "imageId": 776202
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "NAMIBIA",
+                "teamSName": "NAM",
+                "imageId": 776326
+              },
+              "venueInfo": {
+                "ground": "Sir Vivian Richards Stadium",
+                "city": "North Sound, Antigua",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 4,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 74,
+                  "wickets": 1,
+                  "overs": 5.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 72,
+                  "wickets": 10,
+                  "overs": 17
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87668,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "25th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1718202600000",
+              "endDate": "1718202600000",
+              "state": "complete",
+              "status": "India won by 7 wkts",
+              "team1": {
+                "teamId": 15,
+                "teamName": "UNITED STATES OF AMERICA",
+                "teamSName": "USA",
+                "imageId": 776186
+              },
+              "team2": {
+                "teamId": 2,
+                "teamName": "INDIA",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "venueInfo": {
+                "ground": "Nassau County International Cricket Stadium",
+                "city": "New York",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 2,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 110,
+                  "wickets": 8,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 111,
+                  "wickets": 3,
+                  "overs": 18.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 13 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87675,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "26th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1718238600000",
+              "endDate": "1718238600000",
+              "state": "complete",
+              "status": "West Indies won by 13 runs",
+              "team1": {
+                "teamId": 10,
+                "teamName": "WEST INDIES",
+                "teamSName": "WI",
+                "imageId": 776191
+              },
+              "team2": {
+                "teamId": 13,
+                "teamName": "NEW ZEALAND",
+                "teamSName": "NZ",
+                "imageId": 776333
+              },
+              "venueInfo": {
+                "ground": "Brian Lara Stadium",
+                "city": "Tarouba, Trinidad",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 10,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 149,
+                  "wickets": 9,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 136,
+                  "wickets": 9,
+                  "overs": 20
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87689,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "27th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1718289000000",
+              "endDate": "1718289000000",
+              "state": "complete",
+              "status": "Bangladesh won by 25 runs",
+              "team1": {
+                "teamId": 6,
+                "teamName": "BANGLADESH",
+                "teamSName": "BAN",
+                "imageId": 776210
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "NETHERLANDS",
+                "teamSName": "NED",
+                "imageId": 776335
+              },
+              "venueInfo": {
+                "ground": "Arnos Vale Ground",
+                "city": "Kingstown, St Vincent",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 6,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 159,
+                  "wickets": 5,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 134,
+                  "wickets": 8,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 14 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87682,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "28th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1718305200000",
+              "endDate": "1718305200000",
+              "state": "complete",
+              "status": "England won by 8 wkts",
+              "team1": {
+                "teamId": 9,
+                "teamName": "ENGLAND",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "OMAN",
+                "teamSName": "OMAN",
+                "imageId": 776328
+              },
+              "venueInfo": {
+                "ground": "Sir Vivian Richards Stadium",
+                "city": "North Sound, Antigua",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 9,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 50,
+                  "wickets": 2,
+                  "overs": 3.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 47,
+                  "wickets": 10,
+                  "overs": 13.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87696,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "29th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1718325000000",
+              "endDate": "1718325000000",
+              "state": "complete",
+              "status": "Afghanistan won by 7 wkts",
+              "team1": {
+                "teamId": 96,
+                "teamName": "AFGHANISTAN",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "team2": {
+                "teamId": 287,
+                "teamName": "PAPUA NEW GUINEA",
+                "teamSName": "PNG",
+                "imageId": 776304
+              },
+              "venueInfo": {
+                "ground": "Brian Lara Stadium",
+                "city": "Tarouba, Trinidad",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 96,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 101,
+                  "wickets": 3,
+                  "overs": 15.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 95,
+                  "wickets": 10,
+                  "overs": 19.5
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87703,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "30th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1718375400000",
+              "endDate": "1718375400000",
+              "state": "complete",
+              "status": "Match abandoned due to rain",
+              "team1": {
+                "teamId": 15,
+                "teamName": "UNITED STATES OF AMERICA",
+                "teamSName": "USA",
+                "imageId": 776186
+              },
+              "team2": {
+                "teamId": 27,
+                "teamName": "IRELAND",
+                "teamSName": "IRE",
+                "imageId": 839366
+              },
+              "venueInfo": {
+                "ground": "Central Broward Regional Park Stadium Turf Ground",
+                "city": "Lauderhill, Florida",
+                "timezone": "-04:00"
+              },
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 15 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87710,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "31st Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1718407800000",
+              "endDate": "1718407800000",
+              "state": "complete",
+              "status": "South Africa won by 1 run",
+              "team1": {
+                "teamId": 11,
+                "teamName": "SOUTH AFRICA",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "NEPAL",
+                "teamSName": "NEP",
+                "imageId": 776331
+              },
+              "venueInfo": {
+                "ground": "Arnos Vale Ground",
+                "city": "Kingstown, St Vincent",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 11,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 115,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 114,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87717,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "32nd Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1718411400000",
+              "endDate": "1718411400000",
+              "state": "complete",
+              "status": "New Zealand won by 9 wkts",
+              "team1": {
+                "teamId": 13,
+                "teamName": "NEW ZEALAND",
+                "teamSName": "NZ",
+                "imageId": 776333
+              },
+              "team2": {
+                "teamId": 44,
+                "teamName": "UGANDA",
+                "teamSName": "UGA",
+                "imageId": 776233
+              },
+              "venueInfo": {
+                "ground": "Brian Lara Stadium",
+                "city": "Tarouba, Trinidad",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 13,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 41,
+                  "wickets": 1,
+                  "overs": 5.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 40,
+                  "wickets": 10,
+                  "overs": 18.4
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87724,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "33rd Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1718461800000",
+              "endDate": "1718461800000",
+              "state": "complete",
+              "status": "Match abandoned due to wet outfield (no toss)",
+              "team1": {
+                "teamId": 2,
+                "teamName": "INDIA",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "CANADA",
+                "teamSName": "CAN",
+                "imageId": 776227
+              },
+              "venueInfo": {
+                "ground": "Central Broward Regional Park Stadium Turf Ground",
+                "city": "Lauderhill, Florida",
+                "timezone": "-04:00"
+              },
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87731,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "34th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1718470800000",
+              "endDate": "1718470800000",
+              "state": "complete",
+              "status": "England won by 41 runs (DLS method)",
+              "team1": {
+                "teamId": 161,
+                "teamName": "NAMIBIA",
+                "teamSName": "NAM",
+                "imageId": 776326
+              },
+              "team2": {
+                "teamId": 9,
+                "teamName": "ENGLAND",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "venueInfo": {
+                "ground": "Sir Vivian Richards Stadium",
+                "city": "North Sound, Antigua",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 9,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 84,
+                  "wickets": 3,
+                  "overs": 10
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 122,
+                  "wickets": 5,
+                  "overs": 10
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 16 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87738,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "35th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1718497800000",
+              "endDate": "1718497800000",
+              "state": "complete",
+              "status": "Australia won by 5 wkts",
+              "team1": {
+                "teamId": 4,
+                "teamName": "AUSTRALIA",
+                "teamSName": "AUS",
+                "imageId": 776202
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "SCOTLAND",
+                "teamSName": "SCO",
+                "imageId": 776280
+              },
+              "venueInfo": {
+                "ground": "Daren Sammy National Cricket Stadium",
+                "city": "Gros Islet, St Lucia",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 4,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 186,
+                  "wickets": 5,
+                  "overs": 19.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 180,
+                  "wickets": 5,
+                  "overs": 20
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87745,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "36th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1718548200000",
+              "endDate": "1718548200000",
+              "state": "complete",
+              "status": "Pakistan won by 3 wkts",
+              "team1": {
+                "teamId": 3,
+                "teamName": "PAKISTAN",
+                "teamSName": "PAK",
+                "imageId": 776308
+              },
+              "team2": {
+                "teamId": 27,
+                "teamName": "IRELAND",
+                "teamSName": "IRE",
+                "imageId": 839366
+              },
+              "venueInfo": {
+                "ground": "Central Broward Regional Park Stadium Turf Ground",
+                "city": "Lauderhill, Florida",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 3,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 111,
+                  "wickets": 7,
+                  "overs": 18.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 106,
+                  "wickets": 9,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 17 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87752,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "37th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1718580600000",
+              "endDate": "1718580600000",
+              "state": "complete",
+              "status": "Bangladesh won by 21 runs",
+              "team1": {
+                "teamId": 6,
+                "teamName": "BANGLADESH",
+                "teamSName": "BAN",
+                "imageId": 776210
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "NEPAL",
+                "teamSName": "NEP",
+                "imageId": 776331
+              },
+              "venueInfo": {
+                "ground": "Arnos Vale Ground",
+                "city": "Kingstown, St Vincent",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 6,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 106,
+                  "wickets": 10,
+                  "overs": 19.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 85,
+                  "wickets": 10,
+                  "overs": 19.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87759,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "38th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1718584200000",
+              "endDate": "1718584200000",
+              "state": "complete",
+              "status": "Sri Lanka won by 83 runs",
+              "team1": {
+                "teamId": 5,
+                "teamName": "SRI LANKA",
+                "teamSName": "SL",
+                "imageId": 776254
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "NETHERLANDS",
+                "teamSName": "NED",
+                "imageId": 776335
+              },
+              "venueInfo": {
+                "ground": "Daren Sammy National Cricket Stadium",
+                "city": "Gros Islet, St Lucia",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 5,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 201,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 118,
+                  "wickets": 10,
+                  "overs": 16.4
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87766,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "39th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1718634600000",
+              "endDate": "1718634600000",
+              "state": "complete",
+              "status": "New Zealand won by 7 wkts",
+              "team1": {
+                "teamId": 13,
+                "teamName": "NEW ZEALAND",
+                "teamSName": "NZ",
+                "imageId": 776333
+              },
+              "team2": {
+                "teamId": 287,
+                "teamName": "PAPUA NEW GUINEA",
+                "teamSName": "PNG",
+                "imageId": 776304
+              },
+              "venueInfo": {
+                "ground": "Brian Lara Stadium",
+                "city": "Tarouba, Trinidad",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 13,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 79,
+                  "wickets": 3,
+                  "overs": 12.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 78,
+                  "wickets": 10,
+                  "overs": 19.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 18 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87773,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "40th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1718670600000",
+              "endDate": "1718670600000",
+              "state": "complete",
+              "status": "West Indies won by 104 runs",
+              "team1": {
+                "teamId": 10,
+                "teamName": "WEST INDIES",
+                "teamSName": "WI",
+                "imageId": 776191
+              },
+              "team2": {
+                "teamId": 96,
+                "teamName": "AFGHANISTAN",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "venueInfo": {
+                "ground": "Daren Sammy National Cricket Stadium",
+                "city": "Gros Islet, St Lucia",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 10,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 218,
+                  "wickets": 5,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 114,
+                  "wickets": 10,
+                  "overs": 16.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 19 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87780,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "41st Match, Super 8 Group 2",
+              "matchFormat": "T20",
+              "startDate": "1718807400000",
+              "endDate": "1718807400000",
+              "state": "complete",
+              "status": "South Africa won by 18 runs",
+              "team1": {
+                "teamId": 15,
+                "teamName": "UNITED STATES OF AMERICA",
+                "teamSName": "USA",
+                "imageId": 776186
+              },
+              "team2": {
+                "teamId": 11,
+                "teamName": "SOUTH AFRICA",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "venueInfo": {
+                "ground": "Sir Vivian Richards Stadium",
+                "city": "North Sound, Antigua",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 11,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 176,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 194,
+                  "wickets": 4,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 20 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87787,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "42nd Match, Super 8 Group 2",
+              "matchFormat": "T20",
+              "startDate": "1718843400000",
+              "endDate": "1718843400000",
+              "state": "complete",
+              "status": "England won by 8 wkts",
+              "team1": {
+                "teamId": 9,
+                "teamName": "ENGLAND",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "team2": {
+                "teamId": 10,
+                "teamName": "WEST INDIES",
+                "teamSName": "WI",
+                "imageId": 776191
+              },
+              "venueInfo": {
+                "ground": "Daren Sammy National Cricket Stadium",
+                "city": "Gros Islet, St Lucia",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 9,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 181,
+                  "wickets": 2,
+                  "overs": 17.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 180,
+                  "wickets": 4,
+                  "overs": 20
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87794,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "43rd Match, Super 8 Group 1",
+              "matchFormat": "T20",
+              "startDate": "1718893800000",
+              "endDate": "1718893800000",
+              "state": "complete",
+              "status": "India won by 47 runs",
+              "team1": {
+                "teamId": 96,
+                "teamName": "AFGHANISTAN",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "team2": {
+                "teamId": 2,
+                "teamName": "INDIA",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "venueInfo": {
+                "ground": "Kensington Oval",
+                "city": "Bridgetown, Barbados",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 2,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 134,
+                  "wickets": 10,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 181,
+                  "wickets": 8,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 21 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87801,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "44th Match, Super 8 Group 1",
+              "matchFormat": "T20",
+              "startDate": "1718929800000",
+              "endDate": "1718929800000",
+              "state": "complete",
+              "status": "Australia won by 28 runs (DLS Method)",
+              "team1": {
+                "teamId": 4,
+                "teamName": "AUSTRALIA",
+                "teamSName": "AUS",
+                "imageId": 776202
+              },
+              "team2": {
+                "teamId": 6,
+                "teamName": "BANGLADESH",
+                "teamSName": "BAN",
+                "imageId": 776210
+              },
+              "venueInfo": {
+                "ground": "Sir Vivian Richards Stadium",
+                "city": "North Sound, Antigua",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 4,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 100,
+                  "wickets": 2,
+                  "overs": 11.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 140,
+                  "wickets": 8,
+                  "overs": 20
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87808,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "45th Match, Super 8 Group 2",
+              "matchFormat": "T20",
+              "startDate": "1718980200000",
+              "endDate": "1718980200000",
+              "state": "complete",
+              "status": "South Africa won by 7 runs",
+              "team1": {
+                "teamId": 9,
+                "teamName": "ENGLAND",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "team2": {
+                "teamId": 11,
+                "teamName": "SOUTH AFRICA",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "venueInfo": {
+                "ground": "Daren Sammy National Cricket Stadium",
+                "city": "Gros Islet, St Lucia",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 11,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 156,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 163,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 22 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87815,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "46th Match, Super 8 Group 2",
+              "matchFormat": "T20",
+              "startDate": "1719016200000",
+              "endDate": "1719016200000",
+              "state": "complete",
+              "status": "West Indies won by 9 wkts",
+              "team1": {
+                "teamId": 15,
+                "teamName": "UNITED STATES OF AMERICA",
+                "teamSName": "USA",
+                "imageId": 776186
+              },
+              "team2": {
+                "teamId": 10,
+                "teamName": "WEST INDIES",
+                "teamSName": "WI",
+                "imageId": 776191
+              },
+              "venueInfo": {
+                "ground": "Kensington Oval",
+                "city": "Bridgetown, Barbados",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 10,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 128,
+                  "wickets": 10,
+                  "overs": 19.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 130,
+                  "wickets": 1,
+                  "overs": 10.5
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87822,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "47th Match, Super 8 Group 1",
+              "matchFormat": "T20",
+              "startDate": "1719066600000",
+              "endDate": "1719066600000",
+              "state": "complete",
+              "status": "India won by 50 runs",
+              "team1": {
+                "teamId": 2,
+                "teamName": "INDIA",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "team2": {
+                "teamId": 6,
+                "teamName": "BANGLADESH",
+                "teamSName": "BAN",
+                "imageId": 776210
+              },
+              "venueInfo": {
+                "ground": "Sir Vivian Richards Stadium",
+                "city": "North Sound, Antigua",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 2,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 196,
+                  "wickets": 5,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 146,
+                  "wickets": 8,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 23 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87829,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "48th Match, Super 8 Group 1",
+              "matchFormat": "T20",
+              "startDate": "1719102600000",
+              "endDate": "1719102600000",
+              "state": "complete",
+              "status": "Afghanistan won by 21 runs",
+              "team1": {
+                "teamId": 96,
+                "teamName": "AFGHANISTAN",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "team2": {
+                "teamId": 4,
+                "teamName": "AUSTRALIA",
+                "teamSName": "AUS",
+                "imageId": 776202
+              },
+              "venueInfo": {
+                "ground": "Arnos Vale Ground",
+                "city": "Kingstown, St Vincent",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 96,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 148,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 127,
+                  "wickets": 10,
+                  "overs": 19.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87836,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "49th Match, Super 8 Group 2",
+              "matchFormat": "T20",
+              "startDate": "1719153000000",
+              "endDate": "1719153000000",
+              "state": "complete",
+              "status": "England won by 10 wkts",
+              "team1": {
+                "teamId": 15,
+                "teamName": "UNITED STATES OF AMERICA",
+                "teamSName": "USA",
+                "imageId": 776186
+              },
+              "team2": {
+                "teamId": 9,
+                "teamName": "ENGLAND",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "venueInfo": {
+                "ground": "Kensington Oval",
+                "city": "Bridgetown, Barbados",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 9,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 115,
+                  "wickets": 10,
+                  "overs": 18.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 117,
+                  "overs": 9.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 24 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87843,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "50th Match, Super 8 Group 2",
+              "matchFormat": "T20",
+              "startDate": "1719189000000",
+              "endDate": "1719189000000",
+              "state": "complete",
+              "status": "South Africa won by 3 wkts - 2nd inns reduced to 17 overs - Target 123 (DLS method) ",
+              "team1": {
+                "teamId": 10,
+                "teamName": "WEST INDIES",
+                "teamSName": "WI",
+                "imageId": 776191
+              },
+              "team2": {
+                "teamId": 11,
+                "teamName": "SOUTH AFRICA",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "venueInfo": {
+                "ground": "Sir Vivian Richards Stadium",
+                "city": "North Sound, Antigua",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 11,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 135,
+                  "wickets": 8,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 124,
+                  "wickets": 7,
+                  "overs": 16.1
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87850,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "51st Match, Super 8 Group 1",
+              "matchFormat": "T20",
+              "startDate": "1719239400000",
+              "endDate": "1719239400000",
+              "state": "complete",
+              "status": "India won by 24 runs",
+              "team1": {
+                "teamId": 4,
+                "teamName": "AUSTRALIA",
+                "teamSName": "AUS",
+                "imageId": 776202
+              },
+              "team2": {
+                "teamId": 2,
+                "teamName": "INDIA",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "venueInfo": {
+                "ground": "Daren Sammy National Cricket Stadium",
+                "city": "Gros Islet, St Lucia",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 2,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 181,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 205,
+                  "wickets": 5,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 25 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87857,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "52nd Match, Super 8 Group 1",
+              "matchFormat": "T20",
+              "startDate": "1719275400000",
+              "endDate": "1719275400000",
+              "state": "complete",
+              "status": "Afghanistan won by 8 runs (Match reduced to 19 Ovs due to rain, DLS Target 114)",
+              "team1": {
+                "teamId": 96,
+                "teamName": "AFGHANISTAN",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "team2": {
+                "teamId": 6,
+                "teamName": "BANGLADESH",
+                "teamSName": "BAN",
+                "imageId": 776210
+              },
+              "venueInfo": {
+                "ground": "Arnos Vale Ground",
+                "city": "Kingstown, St Vincent",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 96,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 115,
+                  "wickets": 5,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 105,
+                  "wickets": 10,
+                  "overs": 17.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 27 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87864,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "Semi Final 1",
+              "matchFormat": "T20",
+              "startDate": "1719448200000",
+              "endDate": "1719448200000",
+              "state": "complete",
+              "status": "South Africa won by 9 wkts",
+              "team1": {
+                "teamId": 11,
+                "teamName": "SOUTH AFRICA",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "team2": {
+                "teamId": 96,
+                "teamName": "AFGHANISTAN",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "venueInfo": {
+                "ground": "Brian Lara Stadium",
+                "city": "Tarouba, Trinidad",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 11,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 60,
+                  "wickets": 1,
+                  "overs": 8.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 56,
+                  "wickets": 10,
+                  "overs": 11.5
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 87871,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "Semi Final 2",
+              "matchFormat": "T20",
+              "startDate": "1719498600000",
+              "endDate": "1719498600000",
+              "state": "complete",
+              "status": "India won by 68 runs",
+              "team1": {
+                "teamId": 2,
+                "teamName": "INDIA",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "team2": {
+                "teamId": 9,
+                "teamName": "ENGLAND",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "venueInfo": {
+                "ground": "Providence Stadium",
+                "city": "Guyana",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 2,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 171,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 103,
+                  "wickets": 10,
+                  "overs": 16.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 29 Jun 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 87878,
+              "seriesId": 7476,
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "Final",
+              "matchFormat": "T20",
+              "startDate": "1719671400000",
+              "endDate": "1719671400000",
+              "state": "complete",
+              "status": "India won by 7 runs",
+              "team1": {
+                "teamId": 11,
+                "teamName": "SOUTH AFRICA",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "team2": {
+                "teamId": 2,
+                "teamName": "INDIA",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "venueInfo": {
+                "ground": "Kensington Oval",
+                "city": "Bridgetown, Barbados",
+                "timezone": "-04:00"
+              },
+              "currBatTeamId": 2,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 169,
+                  "wickets": 8,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 176,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 7476
+      }
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "ICC Mens T20 World Cup 2024 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  }
+}

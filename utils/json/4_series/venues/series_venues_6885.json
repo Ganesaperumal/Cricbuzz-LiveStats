@@ -1,0 +1,38 @@
+{
+    "seriesVenue": [
+        {
+            "id": 41,
+            "ground": "Eden Park",
+            "city": "Auckland",
+            "country": "New Zealand",
+            "imageId": "189174"
+        },
+        {
+            "id": 100,
+            "ground": "Seddon Park",
+            "city": "Hamilton",
+            "country": "New Zealand",
+            "imageId": "189174"
+        },
+        {
+            "id": 116,
+            "ground": "University Oval",
+            "city": "Dunedin",
+            "country": "New Zealand",
+            "imageId": "189174"
+        },
+        {
+            "id": 371,
+            "ground": "Hagley Oval",
+            "city": "Christchurch",
+            "country": "New Zealand",
+            "imageId": "189174"
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Pakistan tour of New Zealand, 2024 Venues and Grounds - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    },
+    "seriesId": 6885,
+    "seriesName": "Pakistan tour of New Zealand, 2024"
+}

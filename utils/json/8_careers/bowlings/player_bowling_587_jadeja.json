@@ -1,0 +1,150 @@
+  {
+  "headers": [
+    "ROWHEADER",
+    "Test",
+    "ODI",
+    "T20",
+    "IPL"
+  ],
+  "values": [
+    {
+      "values": [
+        "Matches",
+        "89",
+        "210",
+        "74",
+        "254"
+      ]
+    },
+    {
+      "values": [
+        "Innings",
+        "167",
+        "202",
+        "71",
+        "225"
+      ]
+    },
+    {
+      "values": [
+        "Balls",
+        "20241",
+        "10404",
+        "1356",
+        "4056"
+      ]
+    },
+    {
+      "values": [
+        "Runs",
+        "8741",
+        "8478",
+        "1612",
+        "5188"
+      ]
+    },
+    {
+      "values": [
+        "Maidens",
+        "770",
+        "59",
+        "4",
+        "2"
+      ]
+    },
+    {
+      "values": [
+        "Wickets",
+        "348",
+        "232",
+        "54",
+        "170"
+      ]
+    },
+    {
+      "values": [
+        "Avg",
+        "25.12",
+        "36.54",
+        "29.85",
+        "30.52"
+      ]
+    },
+    {
+      "values": [
+        "Eco",
+        "2.59",
+        "4.89",
+        "7.13",
+        "7.67"
+      ]
+    },
+    {
+      "values": [
+        "SR",
+        "58.16",
+        "44.84",
+        "25.11",
+        "23.86"
+      ]
+    },
+    {
+      "values": [
+        "BBI",
+        "7/42",
+        "5/33",
+        "3/15",
+        "5/16"
+      ]
+    },
+    {
+      "values": [
+        "BBM",
+        "10/110",
+        "5/33",
+        "3/15",
+        "5/16"
+      ]
+    },
+    {
+      "values": [
+        "4w",
+        "17",
+        "7",
+        "0",
+        "3"
+      ]
+    },
+    {
+      "values": [
+        "5w",
+        "15",
+        "2",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "values": [
+        "10w",
+        "3",
+        "0",
+        "0",
+        "0"
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Ravindra Jadeja Profile - Cricbuzz | Cricbuzz.com",
+    "webURL": "http://www.cricbuzz.com/profiles/587/ravindra-jadeja"
+  },
+  "seriesSpinner": [
+    {
+      "seriesName": "Career"
+    },
+    {
+      "seriesId": 10317,
+      "seriesName": "Ranji Trophy Elite 2025-26"
+    }
+  ]
+}

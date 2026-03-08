@@ -1,0 +1,168 @@
+{
+  "headers": [
+    "ROWHEADER",
+    "Test",
+    "ODI",
+    "T20",
+    "IPL"
+  ],
+  "values": [
+    {
+      "values": [
+        "Matches",
+        "89",
+        "210",
+        "74",
+        "254"
+      ]
+    },
+    {
+      "values": [
+        "Innings",
+        "133",
+        "142",
+        "41",
+        "198"
+      ]
+    },
+    {
+      "values": [
+        "Runs",
+        "4095",
+        "2905",
+        "515",
+        "3260"
+      ]
+    },
+    {
+      "values": [
+        "Balls",
+        "7389",
+        "3396",
+        "405",
+        "2503"
+      ]
+    },
+    {
+      "values": [
+        "Highest",
+        "175",
+        "87",
+        "46",
+        "77"
+      ]
+    },
+    {
+      "values": [
+        "Average",
+        "38.27",
+        "32.28",
+        "21.46",
+        "27.86"
+      ]
+    },
+    {
+      "values": [
+        "SR",
+        "55.43",
+        "85.55",
+        "127.17",
+        "130.25"
+      ]
+    },
+    {
+      "values": [
+        "Not Out",
+        "26",
+        "52",
+        "17",
+        "81"
+      ]
+    },
+    {
+      "values": [
+        "Fours",
+        "398",
+        "210",
+        "39",
+        "240"
+      ]
+    },
+    {
+      "values": [
+        "Sixes",
+        "82",
+        "55",
+        "14",
+        "117"
+      ]
+    },
+    {
+      "values": [
+        "Ducks",
+        "8",
+        "6",
+        "3",
+        "9"
+      ]
+    },
+    {
+      "values": [
+        "50s",
+        "28",
+        "13",
+        "0",
+        "5"
+      ]
+    },
+    {
+      "values": [
+        "100s",
+        "6",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "values": [
+        "200s",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "values": [
+        "300s",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "values": [
+        "400s",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Ravindra Jadeja Profile - Cricbuzz | Cricbuzz.com",
+    "webURL": "http://www.cricbuzz.com/profiles/587/ravindra-jadeja"
+  },
+  "seriesSpinner": [
+    {
+      "seriesName": "Career"
+    },
+    {
+      "seriesId": 10317,
+      "seriesName": "Ranji Trophy Elite 2025-26"
+    }
+  ]
+}

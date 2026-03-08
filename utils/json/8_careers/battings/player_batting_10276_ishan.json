@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "2",
+                "27",
+                "44",
+                "119"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "3",
+                "24",
+                "44",
+                "112"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "78",
+                "933",
+                "1274",
+                "2998"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "91",
+                "913",
+                "872",
+                "2178"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "52",
+                "210",
+                "103",
+                "106"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "78",
+                "42.41",
+                "29.63",
+                "29.11"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "85.72",
+                "102.20",
+                "146.11",
+                "137.65"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "2",
+                "2",
+                "1",
+                "9"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "8",
+                "95",
+                "130",
+                "288"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "2",
+                "33",
+                "66",
+                "134"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "1",
+                "2",
+                "9"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "1",
+                "7",
+                "9",
+                "17"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "0",
+                "1",
+                "1",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "1",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Ishan Kishan Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/10276/ishan-kishan"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

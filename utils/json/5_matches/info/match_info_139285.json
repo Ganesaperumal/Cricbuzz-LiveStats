@@ -1,0 +1,129 @@
+{
+    "matchid": 139285,
+    "seriesid": 11253,
+    "seriesname": "ICC Men's T20 World Cup 2026",
+    "matchdesc": "34th Match, Group D",
+    "matchformat": "T20",
+    "startdate": 1771392600000,
+    "enddate": 1771405361146,
+    "state": "Complete",
+    "status": "South Africa opt to bowl",
+    "team1": {
+        "teamid": 11,
+        "teamname": "South Africa",
+        "teamsname": "RSA",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "team2": {
+        "teamid": 7,
+        "teamname": "United Arab Emirates",
+        "teamsname": "UAE",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "umpire1": {
+        "id": 9515,
+        "name": "Leslie Reifer",
+        "country": "WI"
+    },
+    "umpire2": {
+        "id": 7240,
+        "name": "Rod Tucker",
+        "country": "AUS"
+    },
+    "umpire3": {
+        "id": 4730,
+        "name": "Paul Reiffel",
+        "country": "AUS"
+    },
+    "referee": {
+        "id": 3894,
+        "name": "Javagal Srinath",
+        "country": "IND"
+    },
+    "venueinfo": {
+        "id": 51,
+        "ground": "Arun Jaitley Stadium",
+        "city": "Delhi",
+        "country": "India",
+        "timezone": "+05:30",
+        "established": 1883,
+        "capacity": "48000",
+        "knownas": "",
+        "ends": "Stadium End, Pavilion End",
+        "hometeam": "Delhi, Delhi Capitals",
+        "floodlights": false,
+        "curator": "",
+        "profile": "",
+        "imageurl": "",
+        "groundlength": 0.0,
+        "groundwidth": 0.0,
+        "othersports": "",
+        "imageid": 0,
+        "latitude": "",
+        "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+        "seotitle": "Cricket match facts RSA vs UAE 34th Match, Group D,ICC Men's T20 World Cup 2026 | Cricbuzz.com",
+        "weburl": "http://www.cricbuzz.com/cricket-match-facts/139285/rsa-vs-uae-34th-match-group-d-icc-mens-t20-world-cup-2026"
+    },
+    "istournament": true,
+    "tossstatus": "South Africa opt to bowl",
+    "seriesstartdt": 1770336000000,
+    "seriesenddt": 1773014400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+        {
+            "country": "IN",
+            "broadcaster": [
+                {
+                    "broadcasttype": "Streaming",
+                    "value": "JioHotstar"
+                },
+                {
+                    "broadcasttype": "TV",
+                    "value": "Star Sports Network"
+                }
+            ]
+        }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "WCT20",
+    "shortstatus": "RSA won",
+    "boundarytrackervalues": {
+        "boundarytrackervalue": []
+    },
+    "matchimageid": 863667,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+}

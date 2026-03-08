@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "46",
+                "99",
+                "85",
+                "55"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "80",
+                "95",
+                "80",
+                "49"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "2083",
+                "3098",
+                "2220",
+                "1292"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "3700",
+                "3276",
+                "1567",
+                "904"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "181",
+                "177",
+                "103",
+                "117"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "28.53",
+                "37.33",
+                "33.64",
+                "27.49"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "56.30",
+                "94.57",
+                "141.68",
+                "142.93"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "7",
+                "12",
+                "14",
+                "2"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "270",
+                "285",
+                "194",
+                "104"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "32",
+                "103",
+                "113",
+                "75"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "9",
+                "7",
+                "3",
+                "7"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "9",
+                "20",
+                "13",
+                "9"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "3",
+                "4",
+                "1",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Mitchell Marsh Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/6250/mitchell-marsh"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

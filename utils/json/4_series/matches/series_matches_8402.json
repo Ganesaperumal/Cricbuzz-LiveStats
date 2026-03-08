@@ -1,0 +1,479 @@
+{
+    "matchDetails": [
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 22 Jan 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 100283,
+                            "seriesId": 8402,
+                            "seriesName": "England tour of India, 2025",
+                            "matchDesc": "1st T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1737552600000",
+                            "endDate": "1737552600000",
+                            "state": "complete",
+                            "status": "India won by 7 wkts",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 9,
+                                "teamName": "ENGLAND",
+                                "teamSName": "ENG",
+                                "imageId": 776237
+                            },
+                            "venueInfo": {
+                                "ground": "Eden Gardens",
+                                "city": "Kolkata",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 133,
+                                    "wickets": 3,
+                                    "overs": 12.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 132,
+                                    "wickets": 10,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8402
+            }
+        },
+        {
+            "adDetail": {
+                "name": "native_news_index_random_1",
+                "layout": "native_large",
+                "position": 1
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 25 Jan 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 100290,
+                            "seriesId": 8402,
+                            "seriesName": "England tour of India, 2025",
+                            "matchDesc": "2nd T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1737811800000",
+                            "endDate": "1737811800000",
+                            "state": "complete",
+                            "status": "India won by 2 wkts",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 9,
+                                "teamName": "ENGLAND",
+                                "teamSName": "ENG",
+                                "imageId": 776237
+                            },
+                            "venueInfo": {
+                                "ground": "MA Chidambaram Stadium",
+                                "city": "Chennai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 166,
+                                    "wickets": 8,
+                                    "overs": 19.2
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 165,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8402
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 28 Jan 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 100292,
+                            "seriesId": 8402,
+                            "seriesName": "England tour of India, 2025",
+                            "matchDesc": "3rd T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1738071000000",
+                            "endDate": "1738071000000",
+                            "state": "complete",
+                            "status": "England won by 26 runs",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 9,
+                                "teamName": "ENGLAND",
+                                "teamSName": "ENG",
+                                "imageId": 776237
+                            },
+                            "venueInfo": {
+                                "ground": "Niranjan Shah Stadium, Khandheri",
+                                "city": "Rajkot",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 9,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 145,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 171,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8402
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 31 Jan 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 100301,
+                            "seriesId": 8402,
+                            "seriesName": "England tour of India, 2025",
+                            "matchDesc": "4th T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1738330200000",
+                            "endDate": "1738330200000",
+                            "state": "complete",
+                            "status": "India won by 15 runs",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 9,
+                                "teamName": "ENGLAND",
+                                "teamSName": "ENG",
+                                "imageId": 776237
+                            },
+                            "venueInfo": {
+                                "ground": "Maharashtra Cricket Association Stadium",
+                                "city": "Pune",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 181,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 166,
+                                    "wickets": 10,
+                                    "overs": 19.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8402
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 02 Feb 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 100310,
+                            "seriesId": 8402,
+                            "seriesName": "England tour of India, 2025",
+                            "matchDesc": "5th T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1738503000000",
+                            "endDate": "1738503000000",
+                            "state": "complete",
+                            "status": "India won by 150 runs",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 9,
+                                "teamName": "ENGLAND",
+                                "teamSName": "ENG",
+                                "imageId": 776237
+                            },
+                            "venueInfo": {
+                                "ground": "Wankhede Stadium",
+                                "city": "Mumbai",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 247,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 97,
+                                    "wickets": 10,
+                                    "overs": 10.3
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8402
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 06 Feb 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 100312,
+                            "seriesId": 8402,
+                            "seriesName": "England tour of India, 2025",
+                            "matchDesc": "1st ODI",
+                            "matchFormat": "ODI",
+                            "startDate": "1738828800000",
+                            "endDate": "1738828800000",
+                            "state": "complete",
+                            "status": "India won by 4 wkts",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 9,
+                                "teamName": "ENGLAND",
+                                "teamSName": "ENG",
+                                "imageId": 776237
+                            },
+                            "venueInfo": {
+                                "ground": "Vidarbha Cricket Association Stadium",
+                                "city": "Nagpur",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 251,
+                                    "wickets": 6,
+                                    "overs": 38.4
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 248,
+                                    "wickets": 10,
+                                    "overs": 47.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8402
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 09 Feb 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 100321,
+                            "seriesId": 8402,
+                            "seriesName": "England tour of India, 2025",
+                            "matchDesc": "2nd ODI",
+                            "matchFormat": "ODI",
+                            "startDate": "1739088000000",
+                            "endDate": "1739088000000",
+                            "state": "complete",
+                            "status": "India won by 4 wkts",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 9,
+                                "teamName": "ENGLAND",
+                                "teamSName": "ENG",
+                                "imageId": 776237
+                            },
+                            "venueInfo": {
+                                "ground": "Barabati Stadium",
+                                "city": "Cuttack",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 308,
+                                    "wickets": 6,
+                                    "overs": 44.3
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 304,
+                                    "wickets": 10,
+                                    "overs": 49.5
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8402
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 12 Feb 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 100328,
+                            "seriesId": 8402,
+                            "seriesName": "England tour of India, 2025",
+                            "matchDesc": "3rd ODI",
+                            "matchFormat": "ODI",
+                            "startDate": "1739347200000",
+                            "endDate": "1739347200000",
+                            "state": "complete",
+                            "status": "India won by 142 runs",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 9,
+                                "teamName": "ENGLAND",
+                                "teamSName": "ENG",
+                                "imageId": 776237
+                            },
+                            "venueInfo": {
+                                "ground": "Narendra Modi Stadium",
+                                "city": "Ahmedabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 356,
+                                    "wickets": 10,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 214,
+                                    "wickets": 10,
+                                    "overs": 34.2
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8402
+            }
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "England tour of India, 2025 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    }
+}

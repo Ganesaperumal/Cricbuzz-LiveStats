@@ -1,0 +1,125 @@
+{
+    "matchid": 76570,
+    "seriesid": 6794,
+    "seriesname": "Australia tour of England, 2024",
+    "matchdesc": "4th ODI",
+    "matchformat": "ODI",
+    "startdate": 1727436600000,
+    "enddate": 1727464651051,
+    "state": "Complete",
+    "status": "Australia opt to bowl",
+    "team1": {
+        "teamid": 9,
+        "teamname": "England",
+        "teamsname": "ENG",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "team2": {
+        "teamid": 4,
+        "teamname": "Australia",
+        "teamsname": "AUS",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "umpire1": {
+        "id": 5453,
+        "name": "Martin Saggers",
+        "country": "ENG"
+    },
+    "umpire2": {
+        "id": 7931,
+        "name": "Joel Wilson",
+        "country": "WI"
+    },
+    "umpire3": {
+        "id": 3576,
+        "name": "Kumar Dharmasena",
+        "country": "SL"
+    },
+    "referee": {
+        "id": 3395,
+        "name": "Andy Pycroft",
+        "country": "ZIM"
+    },
+    "venueinfo": {
+        "id": 19,
+        "ground": "Lord's",
+        "city": "London",
+        "country": "England",
+        "timezone": "+01:00",
+        "established": 1814,
+        "capacity": "30000",
+        "knownas": "",
+        "ends": "Pavilion End, Nursery End",
+        "hometeam": "Marylebone Cricket Club, Middlesex",
+        "floodlights": false,
+        "curator": "",
+        "profile": "",
+        "imageurl": "",
+        "groundlength": 0.0,
+        "groundwidth": 0.0,
+        "othersports": "",
+        "imageid": 0,
+        "latitude": "",
+        "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+        "seotitle": "Cricket match facts ENG vs AUS 4th ODI,Australia tour of England, 2024 | Cricbuzz.com",
+        "weburl": "http://www.cricbuzz.com/cricket-match-facts/76570/eng-vs-aus-4th-odi-australia-tour-of-england-2024"
+    },
+    "istournament": false,
+    "tossstatus": "Australia opt to bowl",
+    "seriesstartdt": 1725926400000,
+    "seriesenddt": 1727654400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": true,
+    "broadcastinfo": [
+        {
+            "country": "IN",
+            "broadcaster": [
+                {
+                    "broadcasttype": "TV",
+                    "value": "Sony Sports Network"
+                }
+            ]
+        }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "ENG won",
+    "boundarytrackervalues": {
+        "boundarytrackervalue": []
+    },
+    "matchimageid": 550371,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+}

@@ -1,0 +1,24 @@
+{
+    "seriesVenue": [
+        {
+            "id": 140,
+            "ground": "Sharjah Cricket Stadium",
+            "city": "Sharjah",
+            "country": "United Arab Emirates",
+            "imageId": "731715"
+        },
+        {
+            "id": 153,
+            "ground": "Dubai International Cricket Stadium",
+            "city": "Dubai",
+            "country": "United Arab Emirates",
+            "imageId": "731713"
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "ICC Womens T20 World Cup, 2024 Venues and Grounds - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    },
+    "seriesId": 8071,
+    "seriesName": "ICC Womens T20 World Cup, 2024"
+}

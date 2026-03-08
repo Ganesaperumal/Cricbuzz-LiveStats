@@ -1,0 +1,129 @@
+{
+    "matchid": 117398,
+    "seriesid": 9638,
+    "seriesname": "South Africa tour of India, 2025",
+    "matchdesc": "2nd ODI",
+    "matchformat": "ODI",
+    "startdate": 1764748800000,
+    "enddate": 1764781778107,
+    "state": "Complete",
+    "status": "South Africa opt to bowl",
+    "team1": {
+        "teamid": 2,
+        "teamname": "India",
+        "teamsname": "IND",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "team2": {
+        "teamid": 11,
+        "teamname": "South Africa",
+        "teamsname": "RSA",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "umpire1": {
+        "id": 7240,
+        "name": "Rod Tucker",
+        "country": "AUS"
+    },
+    "umpire2": {
+        "id": 8867,
+        "name": "Rohan Pandit",
+        "country": "IND"
+    },
+    "umpire3": {
+        "id": 8170,
+        "name": "Sam Nogajski",
+        "country": "AUS"
+    },
+    "referee": {
+        "id": 4190,
+        "name": "Richie Richardson",
+        "country": "WI"
+    },
+    "venueinfo": {
+        "id": 335,
+        "ground": "Shaheed Veer Narayan Singh International Stadium",
+        "city": "Raipur",
+        "country": "India",
+        "timezone": "+05:30",
+        "established": 2008,
+        "capacity": "65,000",
+        "knownas": "",
+        "ends": "North End, South End",
+        "hometeam": "Delhi Daredevils, Chhattisgarh",
+        "floodlights": false,
+        "curator": "",
+        "profile": "",
+        "imageurl": "",
+        "groundlength": 0.0,
+        "groundwidth": 0.0,
+        "othersports": "",
+        "imageid": 0,
+        "latitude": "",
+        "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+        "seotitle": "Cricket match facts IND vs RSA 2nd ODI,South Africa tour of India, 2025 | Cricbuzz.com",
+        "weburl": "http://www.cricbuzz.com/cricket-match-facts/117398/ind-vs-rsa-2nd-odi-south-africa-tour-of-india-2025"
+    },
+    "istournament": false,
+    "tossstatus": "South Africa opt to bowl",
+    "seriesstartdt": 1762992000000,
+    "seriesenddt": 1766188800000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+        {
+            "country": "IN",
+            "broadcaster": [
+                {
+                    "broadcasttype": "Streaming",
+                    "value": "JioHotstar"
+                },
+                {
+                    "broadcasttype": "TV",
+                    "value": "Star Sports Network"
+                }
+            ]
+        }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "RSA won",
+    "boundarytrackervalues": {
+        "boundarytrackervalue": []
+    },
+    "matchimageid": 791014,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+}

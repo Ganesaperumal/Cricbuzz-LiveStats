@@ -1,0 +1,129 @@
+{
+    "matchid": 100290,
+    "seriesid": 8402,
+    "seriesname": "England tour of India, 2025",
+    "matchdesc": "2nd T20I",
+    "matchformat": "T20",
+    "startdate": 1737811800000,
+    "enddate": 1737824518270,
+    "state": "Complete",
+    "status": "India opt to bowl",
+    "team1": {
+        "teamid": 2,
+        "teamname": "India",
+        "teamsname": "IND",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "team2": {
+        "teamid": 9,
+        "teamname": "England",
+        "teamsname": "ENG",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "umpire1": {
+        "id": 8871,
+        "name": "KN Anantha Padmanabhan",
+        "country": "IND"
+    },
+    "umpire2": {
+        "id": 8909,
+        "name": "Virender Sharma",
+        "country": "IND"
+    },
+    "umpire3": {
+        "id": 8867,
+        "name": "Rohan Pandit",
+        "country": "IND"
+    },
+    "referee": {
+        "id": 3894,
+        "name": "Javagal Srinath",
+        "country": "IND"
+    },
+    "venueinfo": {
+        "id": 11,
+        "ground": "MA Chidambaram Stadium",
+        "city": "Chennai",
+        "country": "India",
+        "timezone": "+05:30",
+        "established": 0,
+        "capacity": "50000",
+        "knownas": "",
+        "ends": "Anna Pavilion End, V Pattabhiraman Gate End",
+        "hometeam": "Tamil Nadu, Chennai Super Kings",
+        "floodlights": false,
+        "curator": "",
+        "profile": "",
+        "imageurl": "",
+        "groundlength": 0.0,
+        "groundwidth": 0.0,
+        "othersports": "",
+        "imageid": 0,
+        "latitude": "",
+        "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+        "seotitle": "Cricket match facts IND vs ENG 2nd T20I,England tour of India, 2025 | Cricbuzz.com",
+        "weburl": "http://www.cricbuzz.com/cricket-match-facts/100290/ind-vs-eng-2nd-t20i-england-tour-of-india-2025"
+    },
+    "istournament": false,
+    "tossstatus": "India opt to bowl",
+    "seriesstartdt": 1737417600000,
+    "seriesenddt": 1739404800000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": true,
+    "broadcastinfo": [
+        {
+            "country": "IN",
+            "broadcaster": [
+                {
+                    "broadcasttype": "Streaming",
+                    "value": "JioHotstar"
+                },
+                {
+                    "broadcasttype": "TV",
+                    "value": "Star Sports Network,Sports 18 Network"
+                }
+            ]
+        }
+    ],
+    "daynight": true,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "IND won",
+    "boundarytrackervalues": {
+        "boundarytrackervalue": []
+    },
+    "matchimageid": 603801,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+}

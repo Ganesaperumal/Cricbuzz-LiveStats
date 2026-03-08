@@ -1,0 +1,45 @@
+{
+    "seriesVenue": [
+        {
+            "id": 72,
+            "ground": "Mangaung Oval",
+            "city": "Bloemfontein",
+            "country": "South Africa",
+            "imageId": "189174"
+        },
+        {
+            "id": 102,
+            "ground": "Senwes Park",
+            "city": "Potchefstroom",
+            "country": "South Africa",
+            "imageId": "189174"
+        },
+        {
+            "id": 99,
+            "ground": "Buffalo Park",
+            "city": "East London",
+            "country": "South Africa",
+            "imageId": "189174"
+        },
+        {
+            "id": 148,
+            "ground": "Diamond Oval",
+            "city": "Kimberley",
+            "country": "South Africa",
+            "imageId": "189174"
+        },
+        {
+            "id": 135,
+            "ground": "Willowmoore Park",
+            "city": "Benoni",
+            "country": "South Africa",
+            "imageId": "189174"
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "ICC Under 19 World Cup 2024 Venues and Grounds - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    },
+    "seriesId": 7175,
+    "seriesName": "ICC Under 19 World Cup 2024"
+}

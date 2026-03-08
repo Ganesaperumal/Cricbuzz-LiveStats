@@ -1,0 +1,305 @@
+{
+    "matchDetails": [
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 12 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 78040,
+                            "seriesId": 6885,
+                            "seriesName": "Pakistan tour of New Zealand, 2024",
+                            "matchDesc": "1st T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1705039800000",
+                            "endDate": "1705039800000",
+                            "state": "complete",
+                            "status": "New Zealand won by 46 runs",
+                            "team1": {
+                                "teamId": 13,
+                                "teamName": "NEW ZEALAND",
+                                "teamSName": "NZ",
+                                "imageId": 776333
+                            },
+                            "team2": {
+                                "teamId": 3,
+                                "teamName": "PAKISTAN",
+                                "teamSName": "PAK",
+                                "imageId": 776308
+                            },
+                            "venueInfo": {
+                                "ground": "Eden Park",
+                                "city": "Auckland",
+                                "timezone": "+13:00"
+                            },
+                            "currBatTeamId": 13,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 226,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 180,
+                                    "wickets": 10,
+                                    "overs": 18.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 6885
+            }
+        },
+        {
+            "adDetail": {
+                "name": "native_news_index_random_1",
+                "layout": "native_large",
+                "position": 1
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 14 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 78047,
+                            "seriesId": 6885,
+                            "seriesName": "Pakistan tour of New Zealand, 2024",
+                            "matchDesc": "2nd T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1705212600000",
+                            "endDate": "1705212600000",
+                            "state": "complete",
+                            "status": "New Zealand won by 21 runs",
+                            "team1": {
+                                "teamId": 13,
+                                "teamName": "NEW ZEALAND",
+                                "teamSName": "NZ",
+                                "imageId": 776333
+                            },
+                            "team2": {
+                                "teamId": 3,
+                                "teamName": "PAKISTAN",
+                                "teamSName": "PAK",
+                                "imageId": 776308
+                            },
+                            "venueInfo": {
+                                "ground": "Seddon Park",
+                                "city": "Hamilton",
+                                "timezone": "+13:00"
+                            },
+                            "currBatTeamId": 13,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 194,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 173,
+                                    "wickets": 10,
+                                    "overs": 19.3
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 6885
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 17 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 78054,
+                            "seriesId": 6885,
+                            "seriesName": "Pakistan tour of New Zealand, 2024",
+                            "matchDesc": "3rd T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1705449600000",
+                            "endDate": "1705449600000",
+                            "state": "complete",
+                            "status": "New Zealand won by 45 runs",
+                            "team1": {
+                                "teamId": 13,
+                                "teamName": "NEW ZEALAND",
+                                "teamSName": "NZ",
+                                "imageId": 776333
+                            },
+                            "team2": {
+                                "teamId": 3,
+                                "teamName": "PAKISTAN",
+                                "teamSName": "PAK",
+                                "imageId": 776308
+                            },
+                            "venueInfo": {
+                                "ground": "University Oval",
+                                "city": "Dunedin",
+                                "timezone": "+13:00"
+                            },
+                            "currBatTeamId": 13,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 224,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 179,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 6885
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 19 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 78061,
+                            "seriesId": 6885,
+                            "seriesName": "Pakistan tour of New Zealand, 2024",
+                            "matchDesc": "4th T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1705644600000",
+                            "endDate": "1705644600000",
+                            "state": "complete",
+                            "status": "New Zealand won by 7 wkts",
+                            "team1": {
+                                "teamId": 13,
+                                "teamName": "NEW ZEALAND",
+                                "teamSName": "NZ",
+                                "imageId": 776333
+                            },
+                            "team2": {
+                                "teamId": 3,
+                                "teamName": "PAKISTAN",
+                                "teamSName": "PAK",
+                                "imageId": 776308
+                            },
+                            "venueInfo": {
+                                "ground": "Hagley Oval",
+                                "city": "Christchurch",
+                                "timezone": "+13:00"
+                            },
+                            "currBatTeamId": 13,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 159,
+                                    "wickets": 3,
+                                    "overs": 18.1
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 158,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 6885
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 21 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 78068,
+                            "seriesId": 6885,
+                            "seriesName": "Pakistan tour of New Zealand, 2024",
+                            "matchDesc": "5th T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1705795200000",
+                            "endDate": "1705795200000",
+                            "state": "complete",
+                            "status": "Pakistan won by 42 runs",
+                            "team1": {
+                                "teamId": 13,
+                                "teamName": "NEW ZEALAND",
+                                "teamSName": "NZ",
+                                "imageId": 776333
+                            },
+                            "team2": {
+                                "teamId": 3,
+                                "teamName": "PAKISTAN",
+                                "teamSName": "PAK",
+                                "imageId": 776308
+                            },
+                            "venueInfo": {
+                                "ground": "Hagley Oval",
+                                "city": "Christchurch",
+                                "timezone": "+13:00"
+                            },
+                            "currBatTeamId": 3,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 92,
+                                    "wickets": 10,
+                                    "overs": 17.2
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 134,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 6885
+            }
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Pakistan tour of New Zealand, 2024 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    }
+}

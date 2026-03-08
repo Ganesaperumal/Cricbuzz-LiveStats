@@ -1,0 +1,222 @@
+{
+  "seriesMapProto": [
+    {
+      "date": "2024",
+      "series": [
+        {
+          "id": 9201,
+          "name": "Bangladesh Premier League, 2024-25",
+          "startDt": "1735516800000",
+          "endDt": "1738886400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8979,
+          "name": "Super Smash 2024-25",
+          "startDt": "1735171200000",
+          "endDt": "1738454400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8535,
+          "name": "Big Bash League 2024-25",
+          "startDt": "1734220800000",
+          "endDt": "1737936000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9225,
+          "name": "Lanka T10 Super League, 2024",
+          "startDt": "1733875200000",
+          "endDt": "1734566400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9196,
+          "name": "Global Super League, 2024",
+          "startDt": "1732579200000",
+          "endDt": "1733443200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 9188,
+          "name": "Abu Dhabi T10 League 2024",
+          "startDt": "1732147200000",
+          "endDt": "1733097600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8643,
+          "name": "CSA T20 Challenge 2024",
+          "startDt": "1727395200000",
+          "endDt": "1729987200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8746,
+          "name": "CSA T20 Knock Out Competition 2024",
+          "startDt": "1726876800000",
+          "endDt": "1729468800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8897,
+          "name": "Zim Afro T10 2024",
+          "startDt": "1726876800000",
+          "endDt": "1727568000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8913,
+          "name": "Legends League Cricket 2024",
+          "startDt": "1726790400000",
+          "endDt": "1729036800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7855,
+          "name": "Caribbean Premier League 2024",
+          "startDt": "1724803200000",
+          "endDt": "1728259200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8652,
+          "name": "Maharaja Trophy KSCA T20 2024",
+          "startDt": "1723680000000",
+          "endDt": "1725148800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8518,
+          "name": "Global T20 Canada 2024",
+          "startDt": "1721865600000",
+          "endDt": "1723334400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7525,
+          "name": "The Hundred Mens Competition 2024",
+          "startDt": "1721692800000",
+          "endDt": "1723939200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7862,
+          "name": "Tamil Nadu Premier League 2024",
+          "startDt": "1720137600000",
+          "endDt": "1722729600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8098,
+          "name": "Major League Cricket 2024",
+          "startDt": "1720137600000",
+          "endDt": "1722124800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 8481,
+          "name": "World Championship of Legends 2024",
+          "startDt": "1719964800000",
+          "endDt": "1720828800000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7873,
+          "name": "Lanka Premier League, 2024",
+          "startDt": "1719792000000",
+          "endDt": "1721520000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7336,
+          "name": "T20 Blast 2024",
+          "startDt": "1717027200000",
+          "endDt": "1726272000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7871,
+          "name": "Asian Legends League 2024 (Postponed)",
+          "startDt": "1716768000000",
+          "endDt": "1716595200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7607,
+          "name": "Indian Premier League 2024",
+          "startDt": "1711065600000",
+          "endDt": "1716681600000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7630,
+          "name": "Asian Legends League, 2024 (Postponed)",
+          "startDt": "1710547200000",
+          "endDt": "1710547200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7651,
+          "name": "Legends Cricket Trophy, 2024",
+          "startDt": "1709856000000",
+          "endDt": "1710806400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7663,
+          "name": "CSA T20 Challenge 2024",
+          "startDt": "1709856000000",
+          "endDt": "1714262400000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7658,
+          "name": "CSA Provincial T20 Cup 2024",
+          "startDt": "1709683200000",
+          "endDt": "1712448000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7492,
+          "name": "Pakistan Super League, 2024",
+          "startDt": "1708128000000",
+          "endDt": "1710720000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7422,
+          "name": "Bangladesh Premier League 2024",
+          "startDt": "1705622400000",
+          "endDt": "1709251200000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7257,
+          "name": "International League T20, 2024",
+          "startDt": "1705622400000",
+          "endDt": "1708128000000",
+          "thumborImageId": 379130
+        },
+        {
+          "id": 7044,
+          "name": "SA20, 2024",
+          "startDt": "1704844800000",
+          "endDt": "1707523200000",
+          "thumborImageId": 379130
+        }
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Current Running Cricket Series - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  },
+  "contentFilters": [
+    {
+      "filterId": "fantasy",
+      "filterName": "Fantasy Handbook"
+    }
+  ]
+}

@@ -1,0 +1,1291 @@
+{
+    "matchDetails": [
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 03 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94541,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "1st Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1727949600000",
+                            "endDate": "1727949600000",
+                            "state": "complete",
+                            "status": "Bangladesh Women won by 16 runs",
+                            "team1": {
+                                "teamId": 329,
+                                "teamName": "BANGLADESH WOMEN",
+                                "teamSName": "BANW",
+                                "imageId": 776213
+                            },
+                            "team2": {
+                                "teamId": 389,
+                                "teamName": "SCOTLAND WOMEN",
+                                "teamSName": "SCOW",
+                                "imageId": 776283
+                            },
+                            "venueInfo": {
+                                "ground": "Sharjah Cricket Stadium",
+                                "city": "Sharjah",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 329,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 119,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 103,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 94550,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "2nd Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1727964000000",
+                            "endDate": "1727964000000",
+                            "state": "complete",
+                            "status": "Pakistan Women won by 31 runs",
+                            "team1": {
+                                "teamId": 259,
+                                "teamName": "PAKISTAN WOMEN",
+                                "teamSName": "PAKW",
+                                "imageId": 776311
+                            },
+                            "team2": {
+                                "teamId": 258,
+                                "teamName": "SRI LANKA WOMEN",
+                                "teamSName": "SLW",
+                                "imageId": 776267
+                            },
+                            "venueInfo": {
+                                "ground": "Sharjah Cricket Stadium",
+                                "city": "Sharjah",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 259,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 116,
+                                    "wickets": 10,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 85,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "adDetail": {
+                "name": "native_news_index_random_1",
+                "layout": "native_large",
+                "position": 1
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 04 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94559,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "3rd Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1728036000000",
+                            "endDate": "1728036000000",
+                            "state": "complete",
+                            "status": "South Africa Women won by 10 wkts",
+                            "team1": {
+                                "teamId": 260,
+                                "teamName": "SOUTH AFRICA WOMEN",
+                                "teamSName": "RSAW",
+                                "imageId": 776293
+                            },
+                            "team2": {
+                                "teamId": 257,
+                                "teamName": "WEST INDIES WOMEN",
+                                "teamSName": "WIW",
+                                "imageId": 776194
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 260,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 119,
+                                    "overs": 17.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 118,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 94561,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "4th Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1728050400000",
+                            "endDate": "1728050400000",
+                            "state": "complete",
+                            "status": "New Zealand Women won by 58 runs",
+                            "team1": {
+                                "teamId": 97,
+                                "teamName": "INDIA WOMEN",
+                                "teamSName": "INDW",
+                                "imageId": 776182
+                            },
+                            "team2": {
+                                "teamId": 98,
+                                "teamName": "NEW ZEALAND WOMEN",
+                                "teamSName": "NZW",
+                                "imageId": 776338
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 98,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 102,
+                                    "wickets": 10,
+                                    "overs": 19.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 160,
+                                    "wickets": 4,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 05 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94577,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "5th Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1728122400000",
+                            "endDate": "1728122400000",
+                            "state": "complete",
+                            "status": "Australia Women won by 6 wkts",
+                            "team1": {
+                                "teamId": 100,
+                                "teamName": "AUSTRALIA WOMEN",
+                                "teamSName": "AUSW",
+                                "imageId": 776205
+                            },
+                            "team2": {
+                                "teamId": 258,
+                                "teamName": "SRI LANKA WOMEN",
+                                "teamSName": "SLW",
+                                "imageId": 776267
+                            },
+                            "venueInfo": {
+                                "ground": "Sharjah Cricket Stadium",
+                                "city": "Sharjah",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 100,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 94,
+                                    "wickets": 4,
+                                    "overs": 14.2
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 93,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 94568,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "6th Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1728136800000",
+                            "endDate": "1728136800000",
+                            "state": "complete",
+                            "status": "England Women won by 21 runs",
+                            "team1": {
+                                "teamId": 329,
+                                "teamName": "BANGLADESH WOMEN",
+                                "teamSName": "BANW",
+                                "imageId": 776213
+                            },
+                            "team2": {
+                                "teamId": 99,
+                                "teamName": "ENGLAND WOMEN",
+                                "teamSName": "ENGW",
+                                "imageId": 776241
+                            },
+                            "venueInfo": {
+                                "ground": "Sharjah Cricket Stadium",
+                                "city": "Sharjah",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 99,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 97,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 118,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 06 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94586,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "7th Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1728208800000",
+                            "endDate": "1728208800000",
+                            "state": "complete",
+                            "status": "India Women won by 6 wkts",
+                            "team1": {
+                                "teamId": 97,
+                                "teamName": "INDIA WOMEN",
+                                "teamSName": "INDW",
+                                "imageId": 776182
+                            },
+                            "team2": {
+                                "teamId": 259,
+                                "teamName": "PAKISTAN WOMEN",
+                                "teamSName": "PAKW",
+                                "imageId": 776311
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 97,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 108,
+                                    "wickets": 4,
+                                    "overs": 18.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 105,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 94595,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "8th Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1728223200000",
+                            "endDate": "1728223200000",
+                            "state": "complete",
+                            "status": "West Indies Women won by 6 wkts",
+                            "team1": {
+                                "teamId": 257,
+                                "teamName": "WEST INDIES WOMEN",
+                                "teamSName": "WIW",
+                                "imageId": 776194
+                            },
+                            "team2": {
+                                "teamId": 389,
+                                "teamName": "SCOTLAND WOMEN",
+                                "teamSName": "SCOW",
+                                "imageId": 776283
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 257,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 101,
+                                    "wickets": 4,
+                                    "overs": 11.4
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 99,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Mon, 07 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94604,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "9th Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1728309600000",
+                            "endDate": "1728309600000",
+                            "state": "complete",
+                            "status": "England Women won by 7 wkts",
+                            "team1": {
+                                "teamId": 99,
+                                "teamName": "ENGLAND WOMEN",
+                                "teamSName": "ENGW",
+                                "imageId": 776241
+                            },
+                            "team2": {
+                                "teamId": 260,
+                                "teamName": "SOUTH AFRICA WOMEN",
+                                "teamSName": "RSAW",
+                                "imageId": 776293
+                            },
+                            "venueInfo": {
+                                "ground": "Sharjah Cricket Stadium",
+                                "city": "Sharjah",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 99,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 125,
+                                    "wickets": 3,
+                                    "overs": 19.2
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 124,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 08 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94613,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "10th Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1728396000000",
+                            "endDate": "1728396000000",
+                            "state": "complete",
+                            "status": "Australia Women won by 60 runs",
+                            "team1": {
+                                "teamId": 100,
+                                "teamName": "AUSTRALIA WOMEN",
+                                "teamSName": "AUSW",
+                                "imageId": 776205
+                            },
+                            "team2": {
+                                "teamId": 98,
+                                "teamName": "NEW ZEALAND WOMEN",
+                                "teamSName": "NZW",
+                                "imageId": 776338
+                            },
+                            "venueInfo": {
+                                "ground": "Sharjah Cricket Stadium",
+                                "city": "Sharjah",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 100,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 148,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 88,
+                                    "wickets": 10,
+                                    "overs": 19.2
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 09 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94622,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "11th Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1728468000000",
+                            "endDate": "1728468000000",
+                            "state": "complete",
+                            "status": "South Africa Women won by 80 runs",
+                            "team1": {
+                                "teamId": 260,
+                                "teamName": "SOUTH AFRICA WOMEN",
+                                "teamSName": "RSAW",
+                                "imageId": 776293
+                            },
+                            "team2": {
+                                "teamId": 389,
+                                "teamName": "SCOTLAND WOMEN",
+                                "teamSName": "SCOW",
+                                "imageId": 776283
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 260,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 166,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 86,
+                                    "wickets": 10,
+                                    "overs": 17.5
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 94631,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "12th Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1728482400000",
+                            "endDate": "1728482400000",
+                            "state": "complete",
+                            "status": "India Women won by 82 runs",
+                            "team1": {
+                                "teamId": 97,
+                                "teamName": "INDIA WOMEN",
+                                "teamSName": "INDW",
+                                "imageId": 776182
+                            },
+                            "team2": {
+                                "teamId": 258,
+                                "teamName": "SRI LANKA WOMEN",
+                                "teamSName": "SLW",
+                                "imageId": 776267
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 97,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 172,
+                                    "wickets": 3,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 90,
+                                    "wickets": 10,
+                                    "overs": 19.5
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 10 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94633,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "13th Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1728568800000",
+                            "endDate": "1728568800000",
+                            "state": "complete",
+                            "status": "West Indies Women won by 8 wkts",
+                            "team1": {
+                                "teamId": 329,
+                                "teamName": "BANGLADESH WOMEN",
+                                "teamSName": "BANW",
+                                "imageId": 776213
+                            },
+                            "team2": {
+                                "teamId": 257,
+                                "teamName": "WEST INDIES WOMEN",
+                                "teamSName": "WIW",
+                                "imageId": 776194
+                            },
+                            "venueInfo": {
+                                "ground": "Sharjah Cricket Stadium",
+                                "city": "Sharjah",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 257,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 103,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 104,
+                                    "wickets": 2,
+                                    "overs": 12.5
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 11 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94642,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "14th Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1728655200000",
+                            "endDate": "1728655200000",
+                            "state": "complete",
+                            "status": "Australia Women won by 9 wkts",
+                            "team1": {
+                                "teamId": 100,
+                                "teamName": "AUSTRALIA WOMEN",
+                                "teamSName": "AUSW",
+                                "imageId": 776205
+                            },
+                            "team2": {
+                                "teamId": 259,
+                                "teamName": "PAKISTAN WOMEN",
+                                "teamSName": "PAKW",
+                                "imageId": 776311
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 100,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 83,
+                                    "wickets": 1,
+                                    "overs": 11.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 82,
+                                    "wickets": 10,
+                                    "overs": 19.5
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 12 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94649,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "15th Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1728727200000",
+                            "endDate": "1728727200000",
+                            "state": "complete",
+                            "status": "New Zealand Women won by 8 wkts",
+                            "team1": {
+                                "teamId": 98,
+                                "teamName": "NEW ZEALAND WOMEN",
+                                "teamSName": "NZW",
+                                "imageId": 776338
+                            },
+                            "team2": {
+                                "teamId": 258,
+                                "teamName": "SRI LANKA WOMEN",
+                                "teamSName": "SLW",
+                                "imageId": 776267
+                            },
+                            "venueInfo": {
+                                "ground": "Sharjah Cricket Stadium",
+                                "city": "Sharjah",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 98,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 118,
+                                    "wickets": 2,
+                                    "overs": 17.3
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 115,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 94658,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "16th Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1728741600000",
+                            "endDate": "1728741600000",
+                            "state": "complete",
+                            "status": "South Africa Women won by 7 wkts",
+                            "team1": {
+                                "teamId": 329,
+                                "teamName": "BANGLADESH WOMEN",
+                                "teamSName": "BANW",
+                                "imageId": 776213
+                            },
+                            "team2": {
+                                "teamId": 260,
+                                "teamName": "SOUTH AFRICA WOMEN",
+                                "teamSName": "RSAW",
+                                "imageId": 776293
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 260,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 106,
+                                    "wickets": 3,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 107,
+                                    "wickets": 3,
+                                    "overs": 17.2
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 13 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94665,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "17th Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1728813600000",
+                            "endDate": "1728813600000",
+                            "state": "complete",
+                            "status": "England Women won by 10 wkts",
+                            "team1": {
+                                "teamId": 99,
+                                "teamName": "ENGLAND WOMEN",
+                                "teamSName": "ENGW",
+                                "imageId": 776241
+                            },
+                            "team2": {
+                                "teamId": 389,
+                                "teamName": "SCOTLAND WOMEN",
+                                "teamSName": "SCOW",
+                                "imageId": 776283
+                            },
+                            "venueInfo": {
+                                "ground": "Sharjah Cricket Stadium",
+                                "city": "Sharjah",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 99,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 113,
+                                    "overs": 10.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 109,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 94667,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "18th Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1728828000000",
+                            "endDate": "1728828000000",
+                            "state": "complete",
+                            "status": "Australia Women won by 9 runs",
+                            "team1": {
+                                "teamId": 97,
+                                "teamName": "INDIA WOMEN",
+                                "teamSName": "INDW",
+                                "imageId": 776182
+                            },
+                            "team2": {
+                                "teamId": 100,
+                                "teamName": "AUSTRALIA WOMEN",
+                                "teamSName": "AUSW",
+                                "imageId": 776205
+                            },
+                            "venueInfo": {
+                                "ground": "Sharjah Cricket Stadium",
+                                "city": "Sharjah",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 100,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 142,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 151,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Mon, 14 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94676,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "19th Match, Group A",
+                            "matchFormat": "T20",
+                            "startDate": "1728914400000",
+                            "endDate": "1728914400000",
+                            "state": "complete",
+                            "status": "New Zealand Women won by 54 runs",
+                            "team1": {
+                                "teamId": 259,
+                                "teamName": "PAKISTAN WOMEN",
+                                "teamSName": "PAKW",
+                                "imageId": 776311
+                            },
+                            "team2": {
+                                "teamId": 98,
+                                "teamName": "NEW ZEALAND WOMEN",
+                                "teamSName": "NZW",
+                                "imageId": 776338
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 98,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 56,
+                                    "wickets": 10,
+                                    "overs": 11.4
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 110,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 15 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94678,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "20th Match, Group B",
+                            "matchFormat": "T20",
+                            "startDate": "1729000800000",
+                            "endDate": "1729000800000",
+                            "state": "complete",
+                            "status": "West Indies Women won by 6 wkts",
+                            "team1": {
+                                "teamId": 99,
+                                "teamName": "ENGLAND WOMEN",
+                                "teamSName": "ENGW",
+                                "imageId": 776241
+                            },
+                            "team2": {
+                                "teamId": 257,
+                                "teamName": "WEST INDIES WOMEN",
+                                "teamSName": "WIW",
+                                "imageId": 776194
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 257,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 141,
+                                    "wickets": 7,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 142,
+                                    "wickets": 4,
+                                    "overs": 18.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 17 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94687,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "1st Semi Final",
+                            "matchFormat": "T20",
+                            "startDate": "1729173600000",
+                            "endDate": "1729173600000",
+                            "state": "complete",
+                            "status": "South Africa Women won by 8 wkts",
+                            "team1": {
+                                "teamId": 100,
+                                "teamName": "AUSTRALIA WOMEN",
+                                "teamSName": "AUSW",
+                                "imageId": 776205
+                            },
+                            "team2": {
+                                "teamId": 260,
+                                "teamName": "SOUTH AFRICA WOMEN",
+                                "teamSName": "RSAW",
+                                "imageId": 776293
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 260,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 134,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 135,
+                                    "wickets": 2,
+                                    "overs": 17.2
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 18 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94696,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "2nd Semi Final",
+                            "matchFormat": "T20",
+                            "startDate": "1729260000000",
+                            "endDate": "1729260000000",
+                            "state": "complete",
+                            "status": "New Zealand Women won by 8 runs",
+                            "team1": {
+                                "teamId": 257,
+                                "teamName": "WEST INDIES WOMEN",
+                                "teamSName": "WIW",
+                                "imageId": 776194
+                            },
+                            "team2": {
+                                "teamId": 98,
+                                "teamName": "NEW ZEALAND WOMEN",
+                                "teamSName": "NZW",
+                                "imageId": 776338
+                            },
+                            "venueInfo": {
+                                "ground": "Sharjah Cricket Stadium",
+                                "city": "Sharjah",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 98,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 120,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 128,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 20 Oct 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 94703,
+                            "seriesId": 8071,
+                            "seriesName": "ICC Womens T20 World Cup, 2024",
+                            "matchDesc": "Final",
+                            "matchFormat": "T20",
+                            "startDate": "1729432800000",
+                            "endDate": "1729432800000",
+                            "state": "complete",
+                            "status": "New Zealand Women won by 32 runs",
+                            "team1": {
+                                "teamId": 260,
+                                "teamName": "SOUTH AFRICA WOMEN",
+                                "teamSName": "RSAW",
+                                "imageId": 776293
+                            },
+                            "team2": {
+                                "teamId": 98,
+                                "teamName": "NEW ZEALAND WOMEN",
+                                "teamSName": "NZW",
+                                "imageId": 776338
+                            },
+                            "venueInfo": {
+                                "ground": "Dubai International Cricket Stadium",
+                                "city": "Dubai",
+                                "timezone": "+04:00"
+                            },
+                            "currBatTeamId": 98,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 126,
+                                    "wickets": 9,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 158,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 8071
+            }
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "ICC Womens T20 World Cup, 2024 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    }
+}

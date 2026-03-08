@@ -1,0 +1,382 @@
+{
+    "filter": {
+        "matchtype": [
+            {
+                "matchTypeId": "1",
+                "matchTypeDesc": "test"
+            },
+            {
+                "matchTypeId": "2",
+                "matchTypeDesc": "odi"
+            },
+            {
+                "matchTypeId": "3",
+                "matchTypeDesc": "t20i"
+            }
+        ],
+        "team": [
+            {
+                "id": "2",
+                "teamShortName": "IND"
+            },
+            {
+                "id": "27",
+                "teamShortName": "IRE"
+            },
+            {
+                "id": "3",
+                "teamShortName": "PAK"
+            },
+            {
+                "id": "4",
+                "teamShortName": "AUS"
+            },
+            {
+                "id": "5",
+                "teamShortName": "SL"
+            },
+            {
+                "id": "6",
+                "teamShortName": "BAN"
+            },
+            {
+                "id": "9",
+                "teamShortName": "ENG"
+            },
+            {
+                "id": "10",
+                "teamShortName": "WI"
+            },
+            {
+                "id": "11",
+                "teamShortName": "RSA"
+            },
+            {
+                "id": "12",
+                "teamShortName": "ZIM"
+            },
+            {
+                "id": "13",
+                "teamShortName": "NZ"
+            },
+            {
+                "id": "96",
+                "teamShortName": "AFG"
+            }
+        ],
+        "selectedMatchType": "odi"
+    },
+    "headers": [
+        "Batter",
+        "HS",
+        "Balls",
+        "SR",
+        "Vs"
+    ],
+    "values": [
+        {
+            "values": [
+                "576",
+                "Rohit Sharma",
+                "264",
+                "173",
+                "152.60",
+                "SL"
+            ]
+        },
+        {
+            "values": [
+                "1457",
+                "Martin Guptill",
+                "237",
+                "163",
+                "145.40",
+                "WI"
+            ]
+        },
+        {
+            "values": [
+                "11855",
+                "Amelia Kerr",
+                "232",
+                "145",
+                "160.00",
+                "IREW"
+            ]
+        },
+        {
+            "values": [
+                "26",
+                "Sehwag",
+                "219",
+                "149",
+                "146.98",
+                "WI"
+            ]
+        },
+        {
+            "values": [
+                "247",
+                "Gayle",
+                "215",
+                "147",
+                "146.26",
+                "ZIM"
+            ]
+        },
+        {
+            "values": [
+                "10276",
+                "Ishan Kishan",
+                "210",
+                "131",
+                "160.31",
+                "BAN"
+            ]
+        },
+        {
+            "values": [
+                "13682",
+                "Pathum Nissanka",
+                "210",
+                "139",
+                "151.08",
+                "AFG"
+            ]
+        },
+        {
+            "values": [
+                "10863",
+                "Fakhar Zaman",
+                "210",
+                "156",
+                "134.62",
+                "ZIM"
+            ]
+        },
+        {
+            "values": [
+                "576",
+                "Rohit Sharma",
+                "209",
+                "158",
+                "132.28",
+                "AUS"
+            ]
+        },
+        {
+            "values": [
+                "11808",
+                "Shubman Gill",
+                "208",
+                "149",
+                "139.60",
+                "NZ"
+            ]
+        },
+        {
+            "values": [
+                "576",
+                "Rohit Sharma",
+                "208",
+                "153",
+                "135.95",
+                "SL"
+            ]
+        },
+        {
+            "values": [
+                "7662",
+                "Glenn Maxwell",
+                "201",
+                "128",
+                "157.03",
+                "AFG"
+            ]
+        },
+        {
+            "values": [
+                "25",
+                "Tendulkar",
+                "200",
+                "147",
+                "136.05",
+                "RSA"
+            ]
+        },
+        {
+            "values": [
+                "9149",
+                "Chamari Athapaththu",
+                "195",
+                "139",
+                "140.29",
+                "RSAW"
+            ]
+        },
+        {
+            "values": [
+                "3703",
+                "S Anwar",
+                "194",
+                "146",
+                "132.88",
+                "IND"
+            ]
+        },
+        {
+            "values": [
+                "3460",
+                "C Coventry",
+                "194",
+                "156",
+                "124.36",
+                "BAN"
+            ]
+        },
+        {
+            "values": [
+                "10863",
+                "Fakhar Zaman",
+                "193",
+                "155",
+                "124.52",
+                "RSA"
+            ]
+        },
+        {
+            "values": [
+                "10103",
+                "George Munsey",
+                "191",
+                "150",
+                "127.33",
+                "NED"
+            ]
+        },
+        {
+            "values": [
+                "1457",
+                "Martin Guptill",
+                "189",
+                "155",
+                "121.94",
+                "ENG"
+            ]
+        },
+        {
+            "values": [
+                "102",
+                "S Jayasuriya",
+                "189",
+                "161",
+                "117.39",
+                "IND"
+            ]
+        },
+        {
+            "values": [
+                "4163",
+                "Viv Richards",
+                "189",
+                "170",
+                "111.18",
+                "ENG"
+            ]
+        },
+        {
+            "values": [
+                "4601",
+                "G Kirsten",
+                "188",
+                "159",
+                "118.24",
+                "UAE"
+            ]
+        },
+        {
+            "values": [
+                "11098",
+                "Deepti Sharma",
+                "188",
+                "160",
+                "117.50",
+                "IREW"
+            ]
+        },
+        {
+            "values": [
+                "25",
+                "Tendulkar",
+                "186",
+                "150",
+                "124.00",
+                "NZ"
+            ]
+        },
+        {
+            "values": [
+                "158",
+                "Watson",
+                "185",
+                "96",
+                "192.71",
+                "BAN"
+            ]
+        },
+        {
+            "values": [
+                "7825",
+                "du Plessis",
+                "185",
+                "141",
+                "131.21",
+                "SL"
+            ]
+        },
+        {
+            "values": [
+                "11374",
+                "Laura Wolvaardt",
+                "184",
+                "147",
+                "125.17",
+                "SLW"
+            ]
+        },
+        {
+            "values": [
+                "265",
+                "Dhoni",
+                "183",
+                "145",
+                "126.21",
+                "SL"
+            ]
+        },
+        {
+            "values": [
+                "1413",
+                "Virat Kohli",
+                "183",
+                "148",
+                "123.65",
+                "PAK"
+            ]
+        },
+        {
+            "values": [
+                "29",
+                "S Ganguly",
+                "183",
+                "158",
+                "115.82",
+                "SL"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Live cricket scores, schedule, news, archive, series | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com"
+    }
+}

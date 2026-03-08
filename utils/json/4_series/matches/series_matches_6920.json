@@ -1,0 +1,189 @@
+{
+  "matchDetails": [
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 11 Jan 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 78607,
+              "seriesId": 6920,
+              "seriesName": "Afghanistan tour of India, 2024",
+              "matchDesc": "1st T20I",
+              "matchFormat": "T20",
+              "startDate": "1704979800000",
+              "endDate": "1704979800000",
+              "state": "complete",
+              "status": "India won by 6 wkts",
+              "team1": {
+                "teamId": 2,
+                "teamName": "INDIA",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "team2": {
+                "teamId": 96,
+                "teamName": "AFGHANISTAN",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "venueInfo": {
+                "ground": "Punjab Cricket Association IS Bindra Stadium",
+                "city": "Mohali",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 2,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 159,
+                  "wickets": 4,
+                  "overs": 17.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 158,
+                  "wickets": 5,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 6920
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_1",
+        "layout": "native_large",
+        "position": 1
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 14 Jan 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 78614,
+              "seriesId": 6920,
+              "seriesName": "Afghanistan tour of India, 2024",
+              "matchDesc": "2nd T20I",
+              "matchFormat": "T20",
+              "startDate": "1705239000000",
+              "endDate": "1705239000000",
+              "state": "complete",
+              "status": "India won by 6 wkts",
+              "team1": {
+                "teamId": 2,
+                "teamName": "INDIA",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "team2": {
+                "teamId": 96,
+                "teamName": "AFGHANISTAN",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "venueInfo": {
+                "ground": "Holkar Stadium",
+                "city": "Indore",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 2,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 173,
+                  "wickets": 4,
+                  "overs": 15.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 172,
+                  "wickets": 10,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 6920
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 17 Jan 2024",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 78621,
+              "seriesId": 6920,
+              "seriesName": "Afghanistan tour of India, 2024",
+              "matchDesc": "3rd T20I",
+              "matchFormat": "T20",
+              "startDate": "1705498200000",
+              "endDate": "1705498200000",
+              "state": "complete",
+              "status": "Match tied and Super Over tied (India won the 2nd Super Over) ",
+              "team1": {
+                "teamId": 2,
+                "teamName": "INDIA",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "team2": {
+                "teamId": 96,
+                "teamName": "AFGHANISTAN",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "venueInfo": {
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 96,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 212,
+                  "wickets": 4,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 212,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 6920
+      }
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Afghanistan tour of India, 2024 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  }
+}

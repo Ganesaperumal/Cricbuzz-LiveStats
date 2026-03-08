@@ -1,0 +1,2208 @@
+{
+    "matchDetails": [
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 19 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86501,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "1st Match, Group A",
+                            "matchFormat": "ODI",
+                            "startDate": "1705651200000",
+                            "endDate": "1705651200000",
+                            "state": "complete",
+                            "status": "Ireland U19 won by 7 wkts",
+                            "team1": {
+                                "teamId": 226,
+                                "teamName": "IRELAND U19",
+                                "teamSName": "IREU19",
+                                "imageId": 839471
+                            },
+                            "team2": {
+                                "teamId": 1815,
+                                "teamName": "UNITED STATES OF AMERICA U19",
+                                "teamSName": "USAU19",
+                                "imageId": 776226
+                            },
+                            "venueInfo": {
+                                "ground": "Mangaung Oval",
+                                "city": "Bloemfontein",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 226,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 109,
+                                    "wickets": 3,
+                                    "overs": 22.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 105,
+                                    "wickets": 10,
+                                    "overs": 40.2
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86504,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "2nd Match, Group B",
+                            "matchFormat": "ODI",
+                            "startDate": "1705651200000",
+                            "endDate": "1705651200000",
+                            "state": "complete",
+                            "status": "South Africa U19 won by 31 runs",
+                            "team1": {
+                                "teamId": 57,
+                                "teamName": "SOUTH AFRICA U19",
+                                "teamSName": "RSAU19",
+                                "imageId": 776292
+                            },
+                            "team2": {
+                                "teamId": 220,
+                                "teamName": "WEST INDIES U19",
+                                "teamSName": "WIU19",
+                                "imageId": 776193
+                            },
+                            "venueInfo": {
+                                "ground": "Senwes Park",
+                                "city": "Potchefstroom",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 57,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 285,
+                                    "wickets": 9,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 254,
+                                    "wickets": 10,
+                                    "overs": 40.1
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "adDetail": {
+                "name": "native_news_index_random_1",
+                "layout": "native_large",
+                "position": 1
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 20 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86511,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "3rd Match, Group A",
+                            "matchFormat": "ODI",
+                            "startDate": "1705737600000",
+                            "endDate": "1705737600000",
+                            "state": "complete",
+                            "status": "India U19 won by 84 runs",
+                            "team1": {
+                                "teamId": 224,
+                                "teamName": "BANGLADESH U19",
+                                "teamSName": "BANU19",
+                                "imageId": 776211
+                            },
+                            "team2": {
+                                "teamId": 54,
+                                "teamName": "INDIA U19",
+                                "teamSName": "INDU19",
+                                "imageId": 776180
+                            },
+                            "venueInfo": {
+                                "ground": "Mangaung Oval",
+                                "city": "Bloemfontein",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 54,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 167,
+                                    "wickets": 10,
+                                    "overs": 45.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 251,
+                                    "wickets": 7,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86518,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "4th Match, Group B",
+                            "matchFormat": "ODI",
+                            "startDate": "1705737600000",
+                            "endDate": "1705737600000",
+                            "state": "complete",
+                            "status": "England U19 won by 7 wkts",
+                            "team1": {
+                                "teamId": 228,
+                                "teamName": "SCOTLAND U19",
+                                "teamSName": "SCOU19",
+                                "imageId": 776281
+                            },
+                            "team2": {
+                                "teamId": 173,
+                                "teamName": "ENGLAND U19",
+                                "teamSName": "ENGU19",
+                                "imageId": 776245
+                            },
+                            "venueInfo": {
+                                "ground": "Senwes Park",
+                                "city": "Potchefstroom",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 173,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 174,
+                                    "wickets": 10,
+                                    "overs": 49.2
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 178,
+                                    "wickets": 3,
+                                    "overs": 26.2
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86522,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "5th Match, Group D",
+                            "matchFormat": "ODI",
+                            "startDate": "1705737600000",
+                            "endDate": "1705737600000",
+                            "state": "complete",
+                            "status": "Pakistan U19 won by 181 runs",
+                            "team1": {
+                                "teamId": 56,
+                                "teamName": "PAKISTAN U19",
+                                "teamSName": "PAKU19",
+                                "imageId": 776309
+                            },
+                            "team2": {
+                                "teamId": 223,
+                                "teamName": "AFGHANISTAN U19",
+                                "teamSName": "AFGU19",
+                                "imageId": 172278
+                            },
+                            "venueInfo": {
+                                "ground": "Buffalo Park",
+                                "city": "East London",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 56,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 284,
+                                    "wickets": 9,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 103,
+                                    "wickets": 10,
+                                    "overs": 26.2
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 21 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86536,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "7th Match, Group D",
+                            "matchFormat": "ODI",
+                            "startDate": "1705824000000",
+                            "endDate": "1705824000000",
+                            "state": "complete",
+                            "status": "New Zealand U19 won by 64 runs",
+                            "team1": {
+                                "teamId": 55,
+                                "teamName": "NEW ZEALAND U19",
+                                "teamSName": "NZU19",
+                                "imageId": 776334
+                            },
+                            "team2": {
+                                "teamId": 229,
+                                "teamName": "NEPAL U19",
+                                "teamSName": "NPLU19",
+                                "imageId": 776188
+                            },
+                            "venueInfo": {
+                                "ground": "Buffalo Park",
+                                "city": "East London",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 55,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 302,
+                                    "wickets": 8,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 238,
+                                    "wickets": 9,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86529,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "6th Match, Group C",
+                            "matchFormat": "ODI",
+                            "startDate": "1705824000000",
+                            "endDate": "1705824000000",
+                            "state": "complete",
+                            "status": "Sri Lanka U19 won by 39 runs (DLS method)",
+                            "team1": {
+                                "teamId": 172,
+                                "teamName": "SRI LANKA U19",
+                                "teamSName": "SLU19",
+                                "imageId": 776266
+                            },
+                            "team2": {
+                                "teamId": 221,
+                                "teamName": "ZIMBABWE U19",
+                                "teamSName": "ZIMU19",
+                                "imageId": 776199
+                            },
+                            "venueInfo": {
+                                "ground": "Diamond Oval",
+                                "city": "Kimberley",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 172,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 204,
+                                    "wickets": 10,
+                                    "overs": 48.3
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 89,
+                                    "wickets": 10,
+                                    "overs": 21.1
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Mon, 22 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86543,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "8th Match, Group A",
+                            "matchFormat": "ODI",
+                            "startDate": "1705910400000",
+                            "endDate": "1705910400000",
+                            "state": "complete",
+                            "status": "Bangladesh U19 won by 6 wkts",
+                            "team1": {
+                                "teamId": 224,
+                                "teamName": "BANGLADESH U19",
+                                "teamSName": "BANU19",
+                                "imageId": 776211
+                            },
+                            "team2": {
+                                "teamId": 226,
+                                "teamName": "IRELAND U19",
+                                "teamSName": "IREU19",
+                                "imageId": 839471
+                            },
+                            "venueInfo": {
+                                "ground": "Mangaung Oval",
+                                "city": "Bloemfontein",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 224,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 239,
+                                    "wickets": 4,
+                                    "overs": 46.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 235,
+                                    "wickets": 8,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86546,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "9th Match, Group C",
+                            "matchFormat": "ODI",
+                            "startDate": "1705910400000",
+                            "endDate": "1705910400000",
+                            "state": "complete",
+                            "status": "Australia U19 won by 4 wkts",
+                            "team1": {
+                                "teamId": 129,
+                                "teamName": "AUSTRALIA U19",
+                                "teamSName": "AUSU19",
+                                "imageId": 776206
+                            },
+                            "team2": {
+                                "teamId": 230,
+                                "teamName": "NAMIBIA  U19",
+                                "teamSName": "NAMU19",
+                                "imageId": 776327
+                            },
+                            "venueInfo": {
+                                "ground": "Diamond Oval",
+                                "city": "Kimberley",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 129,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 95,
+                                    "wickets": 6,
+                                    "overs": 19.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 91,
+                                    "wickets": 10,
+                                    "overs": 33.1
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 23 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86560,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "11th Match, Group D",
+                            "matchFormat": "ODI",
+                            "startDate": "1705996800000",
+                            "endDate": "1705996800000",
+                            "state": "complete",
+                            "status": "New Zealand U19 won by 1 wkt",
+                            "team1": {
+                                "teamId": 55,
+                                "teamName": "NEW ZEALAND U19",
+                                "teamSName": "NZU19",
+                                "imageId": 776334
+                            },
+                            "team2": {
+                                "teamId": 223,
+                                "teamName": "AFGHANISTAN U19",
+                                "teamSName": "AFGU19",
+                                "imageId": 172278
+                            },
+                            "venueInfo": {
+                                "ground": "Buffalo Park",
+                                "city": "East London",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 55,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 92,
+                                    "wickets": 9,
+                                    "overs": 28.2
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 91,
+                                    "wickets": 10,
+                                    "overs": 21.3
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86553,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "10th Match, Group B",
+                            "matchFormat": "ODI",
+                            "startDate": "1705996800000",
+                            "endDate": "1705996800000",
+                            "state": "complete",
+                            "status": "England U19 won by 36 runs (DLS method)",
+                            "team1": {
+                                "teamId": 57,
+                                "teamName": "SOUTH AFRICA U19",
+                                "teamSName": "RSAU19",
+                                "imageId": 776292
+                            },
+                            "team2": {
+                                "teamId": 173,
+                                "teamName": "ENGLAND U19",
+                                "teamSName": "ENGU19",
+                                "imageId": 776245
+                            },
+                            "venueInfo": {
+                                "ground": "Senwes Park",
+                                "city": "Potchefstroom",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 173,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 230,
+                                    "wickets": 10,
+                                    "overs": 49.2
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 137,
+                                    "wickets": 2,
+                                    "overs": 28.3
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 24 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86564,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "12th Match, Group C",
+                            "matchFormat": "ODI",
+                            "startDate": "1706083200000",
+                            "endDate": "1706083200000",
+                            "state": "complete",
+                            "status": "Sri Lanka U19 won by 77 runs",
+                            "team1": {
+                                "teamId": 172,
+                                "teamName": "SRI LANKA U19",
+                                "teamSName": "SLU19",
+                                "imageId": 776266
+                            },
+                            "team2": {
+                                "teamId": 230,
+                                "teamName": "NAMIBIA  U19",
+                                "teamSName": "NAMU19",
+                                "imageId": 776327
+                            },
+                            "venueInfo": {
+                                "ground": "Diamond Oval",
+                                "city": "Kimberley",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 172,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 133,
+                                    "wickets": 10,
+                                    "overs": 37.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 56,
+                                    "wickets": 10,
+                                    "overs": 27.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86571,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "13th Match, Group B",
+                            "matchFormat": "ODI",
+                            "startDate": "1706083200000",
+                            "endDate": "1706083200000",
+                            "state": "complete",
+                            "status": "West Indies U19 won by 5 wkts",
+                            "team1": {
+                                "teamId": 220,
+                                "teamName": "WEST INDIES U19",
+                                "teamSName": "WIU19",
+                                "imageId": 776193
+                            },
+                            "team2": {
+                                "teamId": 228,
+                                "teamName": "SCOTLAND U19",
+                                "teamSName": "SCOU19",
+                                "imageId": 776281
+                            },
+                            "venueInfo": {
+                                "ground": "Senwes Park",
+                                "city": "Potchefstroom",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 220,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 206,
+                                    "wickets": 5,
+                                    "overs": 35.1
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 205,
+                                    "wickets": 9,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86574,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "14th Match, Group D",
+                            "matchFormat": "ODI",
+                            "startDate": "1706083200000",
+                            "endDate": "1706083200000",
+                            "state": "complete",
+                            "status": "Pakistan U19 won by 5 wkts",
+                            "team1": {
+                                "teamId": 229,
+                                "teamName": "NEPAL U19",
+                                "teamSName": "NPLU19",
+                                "imageId": 776188
+                            },
+                            "team2": {
+                                "teamId": 56,
+                                "teamName": "PAKISTAN U19",
+                                "teamSName": "PAKU19",
+                                "imageId": 776309
+                            },
+                            "venueInfo": {
+                                "ground": "Buffalo Park",
+                                "city": "East London",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 56,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 197,
+                                    "wickets": 10,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 201,
+                                    "wickets": 5,
+                                    "overs": 47.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 25 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86585,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "16th Match, Group C",
+                            "matchFormat": "ODI",
+                            "startDate": "1706169600000",
+                            "endDate": "1706169600000",
+                            "state": "complete",
+                            "status": "Australia U19 won by 225 runs",
+                            "team1": {
+                                "teamId": 221,
+                                "teamName": "ZIMBABWE U19",
+                                "teamSName": "ZIMU19",
+                                "imageId": 776199
+                            },
+                            "team2": {
+                                "teamId": 129,
+                                "teamName": "AUSTRALIA U19",
+                                "teamSName": "AUSU19",
+                                "imageId": 776206
+                            },
+                            "venueInfo": {
+                                "ground": "Diamond Oval",
+                                "city": "Kimberley",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 129,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 71,
+                                    "wickets": 10,
+                                    "overs": 23.2
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 296,
+                                    "wickets": 7,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86581,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "15th Match, Group A",
+                            "matchFormat": "ODI",
+                            "startDate": "1706169600000",
+                            "endDate": "1706169600000",
+                            "state": "complete",
+                            "status": "India U19 won by 201 runs",
+                            "team1": {
+                                "teamId": 54,
+                                "teamName": "INDIA U19",
+                                "teamSName": "INDU19",
+                                "imageId": 776180
+                            },
+                            "team2": {
+                                "teamId": 226,
+                                "teamName": "IRELAND U19",
+                                "teamSName": "IREU19",
+                                "imageId": 839471
+                            },
+                            "venueInfo": {
+                                "ground": "Mangaung Oval",
+                                "city": "Bloemfontein",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 54,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 301,
+                                    "wickets": 7,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 100,
+                                    "wickets": 10,
+                                    "overs": 29.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 26 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86592,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "17th Match, Group A",
+                            "matchFormat": "ODI",
+                            "startDate": "1706256000000",
+                            "endDate": "1706256000000",
+                            "state": "complete",
+                            "status": "Bangladesh U19 won by 121 runs",
+                            "team1": {
+                                "teamId": 1815,
+                                "teamName": "UNITED STATES OF AMERICA U19",
+                                "teamSName": "USAU19",
+                                "imageId": 776226
+                            },
+                            "team2": {
+                                "teamId": 224,
+                                "teamName": "BANGLADESH U19",
+                                "teamSName": "BANU19",
+                                "imageId": 776211
+                            },
+                            "venueInfo": {
+                                "ground": "Mangaung Oval",
+                                "city": "Bloemfontein",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 224,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 170,
+                                    "wickets": 10,
+                                    "overs": 47.1
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 291,
+                                    "wickets": 7,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86595,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "18th Match, Group B",
+                            "matchFormat": "ODI",
+                            "startDate": "1706256000000",
+                            "endDate": "1706256000000",
+                            "state": "complete",
+                            "status": "West Indies U19 won by 2 wkts",
+                            "team1": {
+                                "teamId": 173,
+                                "teamName": "ENGLAND U19",
+                                "teamSName": "ENGU19",
+                                "imageId": 776245
+                            },
+                            "team2": {
+                                "teamId": 220,
+                                "teamName": "WEST INDIES U19",
+                                "teamSName": "WIU19",
+                                "imageId": 776193
+                            },
+                            "venueInfo": {
+                                "ground": "Senwes Park",
+                                "city": "Potchefstroom",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 220,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 192,
+                                    "wickets": 10,
+                                    "overs": 46.3
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 196,
+                                    "wickets": 8,
+                                    "overs": 41.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86599,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "19th Match, Group D",
+                            "matchFormat": "ODI",
+                            "startDate": "1706256000000",
+                            "endDate": "1706256000000",
+                            "state": "complete",
+                            "status": "Nepal U19 won by 1 wkt",
+                            "team1": {
+                                "teamId": 223,
+                                "teamName": "AFGHANISTAN U19",
+                                "teamSName": "AFGU19",
+                                "imageId": 172278
+                            },
+                            "team2": {
+                                "teamId": 229,
+                                "teamName": "NEPAL U19",
+                                "teamSName": "NPLU19",
+                                "imageId": 776188
+                            },
+                            "venueInfo": {
+                                "ground": "Buffalo Park",
+                                "city": "East London",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 229,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 145,
+                                    "wickets": 10,
+                                    "overs": 40.1
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 149,
+                                    "wickets": 9,
+                                    "overs": 44.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 27 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86616,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "22nd Match, Group D",
+                            "matchFormat": "ODI",
+                            "startDate": "1706342400000",
+                            "endDate": "1706342400000",
+                            "state": "complete",
+                            "status": "Pakistan U19 won by 10 wkts",
+                            "team1": {
+                                "teamId": 56,
+                                "teamName": "PAKISTAN U19",
+                                "teamSName": "PAKU19",
+                                "imageId": 776309
+                            },
+                            "team2": {
+                                "teamId": 55,
+                                "teamName": "NEW ZEALAND U19",
+                                "teamSName": "NZU19",
+                                "imageId": 776334
+                            },
+                            "venueInfo": {
+                                "ground": "Buffalo Park",
+                                "city": "East London",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 56,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 144,
+                                    "overs": 25.2
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 140,
+                                    "wickets": 10,
+                                    "overs": 38.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86609,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "21st Match, Group B",
+                            "matchFormat": "ODI",
+                            "startDate": "1706342400000",
+                            "endDate": "1706342400000",
+                            "state": "complete",
+                            "status": "South Africa U19 won by 7 wkts",
+                            "team1": {
+                                "teamId": 57,
+                                "teamName": "SOUTH AFRICA U19",
+                                "teamSName": "RSAU19",
+                                "imageId": 776292
+                            },
+                            "team2": {
+                                "teamId": 228,
+                                "teamName": "SCOTLAND U19",
+                                "teamSName": "SCOU19",
+                                "imageId": 776281
+                            },
+                            "venueInfo": {
+                                "ground": "Senwes Park",
+                                "city": "Potchefstroom",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 57,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 273,
+                                    "wickets": 3,
+                                    "overs": 27.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 269,
+                                    "wickets": 9,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86606,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "20th Match, Group C",
+                            "matchFormat": "ODI",
+                            "startDate": "1706342400000",
+                            "endDate": "1706342400000",
+                            "state": "complete",
+                            "status": "Zimbabwe U19 won by 8 wkts",
+                            "team1": {
+                                "teamId": 221,
+                                "teamName": "ZIMBABWE U19",
+                                "teamSName": "ZIMU19",
+                                "imageId": 776199
+                            },
+                            "team2": {
+                                "teamId": 230,
+                                "teamName": "NAMIBIA  U19",
+                                "teamSName": "NAMU19",
+                                "imageId": 776327
+                            },
+                            "venueInfo": {
+                                "ground": "Diamond Oval",
+                                "city": "Kimberley",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 221,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 147,
+                                    "wickets": 2,
+                                    "overs": 35.3
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 146,
+                                    "wickets": 8,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 28 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86623,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "23rd Match, Group A",
+                            "matchFormat": "ODI",
+                            "startDate": "1706428800000",
+                            "endDate": "1706428800000",
+                            "state": "complete",
+                            "status": "India U19 won by 201 runs",
+                            "team1": {
+                                "teamId": 54,
+                                "teamName": "INDIA U19",
+                                "teamSName": "INDU19",
+                                "imageId": 776180
+                            },
+                            "team2": {
+                                "teamId": 1815,
+                                "teamName": "UNITED STATES OF AMERICA U19",
+                                "teamSName": "USAU19",
+                                "imageId": 776226
+                            },
+                            "venueInfo": {
+                                "ground": "Mangaung Oval",
+                                "city": "Bloemfontein",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 54,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 326,
+                                    "wickets": 5,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 125,
+                                    "wickets": 8,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86627,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "24th Match, Group C",
+                            "matchFormat": "ODI",
+                            "startDate": "1706428800000",
+                            "endDate": "1706428800000",
+                            "state": "complete",
+                            "status": "Australia U19 won by 6 wkts",
+                            "team1": {
+                                "teamId": 129,
+                                "teamName": "AUSTRALIA U19",
+                                "teamSName": "AUSU19",
+                                "imageId": 776206
+                            },
+                            "team2": {
+                                "teamId": 172,
+                                "teamName": "SRI LANKA U19",
+                                "teamSName": "SLU19",
+                                "imageId": 776266
+                            },
+                            "venueInfo": {
+                                "ground": "Diamond Oval",
+                                "city": "Kimberley",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 129,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 211,
+                                    "wickets": 4,
+                                    "overs": 48.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 208,
+                                    "wickets": 10,
+                                    "overs": 49.5
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 30 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86634,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "25th Match, Super Six, Group 1",
+                            "matchFormat": "ODI",
+                            "startDate": "1706601600000",
+                            "endDate": "1706601600000",
+                            "state": "complete",
+                            "status": "India U19 won by 214 runs",
+                            "team1": {
+                                "teamId": 54,
+                                "teamName": "INDIA U19",
+                                "teamSName": "INDU19",
+                                "imageId": 776180
+                            },
+                            "team2": {
+                                "teamId": 55,
+                                "teamName": "NEW ZEALAND U19",
+                                "teamSName": "NZU19",
+                                "imageId": 776334
+                            },
+                            "venueInfo": {
+                                "ground": "Mangaung Oval",
+                                "city": "Bloemfontein",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 54,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 295,
+                                    "wickets": 8,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 81,
+                                    "wickets": 10,
+                                    "overs": 28.1
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86637,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "26th Match, Super Six, Group 2",
+                            "matchFormat": "ODI",
+                            "startDate": "1706601600000",
+                            "endDate": "1706601600000",
+                            "state": "complete",
+                            "status": "West Indies U19 won by 3 wkts",
+                            "team1": {
+                                "teamId": 172,
+                                "teamName": "SRI LANKA U19",
+                                "teamSName": "SLU19",
+                                "imageId": 776266
+                            },
+                            "team2": {
+                                "teamId": 220,
+                                "teamName": "WEST INDIES U19",
+                                "teamSName": "WIU19",
+                                "imageId": 776193
+                            },
+                            "venueInfo": {
+                                "ground": "Diamond Oval",
+                                "city": "Kimberley",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 220,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 231,
+                                    "wickets": 10,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 232,
+                                    "wickets": 7,
+                                    "overs": 49.3
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86641,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "27th Match, Super Six, Group 1",
+                            "matchFormat": "ODI",
+                            "startDate": "1706601600000",
+                            "endDate": "1706601600000",
+                            "state": "complete",
+                            "status": "Pakistan U19 won by 3 wkts",
+                            "team1": {
+                                "teamId": 56,
+                                "teamName": "PAKISTAN U19",
+                                "teamSName": "PAKU19",
+                                "imageId": 776309
+                            },
+                            "team2": {
+                                "teamId": 226,
+                                "teamName": "IRELAND U19",
+                                "teamSName": "IREU19",
+                                "imageId": 839471
+                            },
+                            "venueInfo": {
+                                "ground": "Senwes Park",
+                                "city": "Potchefstroom",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 56,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 182,
+                                    "wickets": 7,
+                                    "overs": 43.4
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 181,
+                                    "wickets": 10,
+                                    "overs": 48.4
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 31 Jan 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 88895,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "28th Match, 16th Place Play Off",
+                            "matchFormat": "ODI",
+                            "startDate": "1706688000000",
+                            "endDate": "1706688000000",
+                            "state": "complete",
+                            "status": "Afghanistan U19 won by 3 wkts",
+                            "team1": {
+                                "teamId": 223,
+                                "teamName": "AFGHANISTAN U19",
+                                "teamSName": "AFGU19",
+                                "imageId": 172278
+                            },
+                            "team2": {
+                                "teamId": 1815,
+                                "teamName": "UNITED STATES OF AMERICA U19",
+                                "teamSName": "USAU19",
+                                "imageId": 776226
+                            },
+                            "venueInfo": {
+                                "ground": "Willowmoore Park",
+                                "city": "Benoni",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 223,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 151,
+                                    "wickets": 7,
+                                    "overs": 49.3
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 148,
+                                    "wickets": 10,
+                                    "overs": 48.2
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86658,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "30th Match, Super Six, Group 2",
+                            "matchFormat": "ODI",
+                            "startDate": "1706688000000",
+                            "endDate": "1706688000000",
+                            "state": "complete",
+                            "status": "Australia U19 won by 110 runs (2nd innings reduced to 24 ovs due to rain, DLS target 215)",
+                            "team1": {
+                                "teamId": 129,
+                                "teamName": "AUSTRALIA U19",
+                                "teamSName": "AUSU19",
+                                "imageId": 776206
+                            },
+                            "team2": {
+                                "teamId": 173,
+                                "teamName": "ENGLAND U19",
+                                "teamSName": "ENGU19",
+                                "imageId": 776245
+                            },
+                            "venueInfo": {
+                                "ground": "Diamond Oval",
+                                "city": "Kimberley",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 129,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 266,
+                                    "wickets": 6,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 104,
+                                    "wickets": 10,
+                                    "overs": 16.5
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86651,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "29th Match, Super Six, Group 1",
+                            "matchFormat": "ODI",
+                            "startDate": "1706688000000",
+                            "endDate": "1706688000000",
+                            "state": "complete",
+                            "status": "Bangladesh U19 won by 5 wkts",
+                            "team1": {
+                                "teamId": 229,
+                                "teamName": "NEPAL U19",
+                                "teamSName": "NPLU19",
+                                "imageId": 776188
+                            },
+                            "team2": {
+                                "teamId": 224,
+                                "teamName": "BANGLADESH U19",
+                                "teamSName": "BANU19",
+                                "imageId": 776211
+                            },
+                            "venueInfo": {
+                                "ground": "Mangaung Oval",
+                                "city": "Bloemfontein",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 224,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 169,
+                                    "wickets": 10,
+                                    "overs": 49.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 170,
+                                    "wickets": 5,
+                                    "overs": 25.2
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86644,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "31st Match, Super Six, Group 2",
+                            "matchFormat": "ODI",
+                            "startDate": "1706688000000",
+                            "endDate": "1706688000000",
+                            "state": "complete",
+                            "status": "South Africa U19 won by 9 wkts",
+                            "team1": {
+                                "teamId": 221,
+                                "teamName": "ZIMBABWE U19",
+                                "teamSName": "ZIMU19",
+                                "imageId": 776199
+                            },
+                            "team2": {
+                                "teamId": 57,
+                                "teamName": "SOUTH AFRICA U19",
+                                "teamSName": "RSAU19",
+                                "imageId": 776292
+                            },
+                            "venueInfo": {
+                                "ground": "Senwes Park",
+                                "city": "Potchefstroom",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 57,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 102,
+                                    "wickets": 10,
+                                    "overs": 29.2
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 103,
+                                    "wickets": 1,
+                                    "overs": 13.3
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 01 Feb 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86672,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "32nd Match, 16th Place Play Off",
+                            "matchFormat": "ODI",
+                            "startDate": "1706774400000",
+                            "endDate": "1706774400000",
+                            "state": "complete",
+                            "status": "Scotland U19 won by 3 runs",
+                            "team1": {
+                                "teamId": 228,
+                                "teamName": "SCOTLAND U19",
+                                "teamSName": "SCOU19",
+                                "imageId": 776281
+                            },
+                            "team2": {
+                                "teamId": 230,
+                                "teamName": "NAMIBIA  U19",
+                                "teamSName": "NAMU19",
+                                "imageId": 776327
+                            },
+                            "venueInfo": {
+                                "ground": "Willowmoore Park",
+                                "city": "Benoni",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 228,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 251,
+                                    "wickets": 6,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 248,
+                                    "wickets": 6,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 02 Feb 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86693,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "35th Match, Super Six, Group 2",
+                            "matchFormat": "ODI",
+                            "startDate": "1706860800000",
+                            "endDate": "1706860800000",
+                            "state": "complete",
+                            "status": "South Africa U19 won by 119 runs",
+                            "team1": {
+                                "teamId": 57,
+                                "teamName": "SOUTH AFRICA U19",
+                                "teamSName": "RSAU19",
+                                "imageId": 776292
+                            },
+                            "team2": {
+                                "teamId": 172,
+                                "teamName": "SRI LANKA U19",
+                                "teamSName": "SLU19",
+                                "imageId": 776266
+                            },
+                            "venueInfo": {
+                                "ground": "Senwes Park",
+                                "city": "Potchefstroom",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 57,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 232,
+                                    "wickets": 8,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 113,
+                                    "wickets": 10,
+                                    "overs": 23.2
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86686,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "34th Match, Super Six, Group 2",
+                            "matchFormat": "ODI",
+                            "startDate": "1706860800000",
+                            "endDate": "1706860800000",
+                            "state": "complete",
+                            "status": "No Result",
+                            "team1": {
+                                "teamId": 220,
+                                "teamName": "WEST INDIES U19",
+                                "teamSName": "WIU19",
+                                "imageId": 776193
+                            },
+                            "team2": {
+                                "teamId": 129,
+                                "teamName": "AUSTRALIA U19",
+                                "teamSName": "AUSU19",
+                                "imageId": 776206
+                            },
+                            "venueInfo": {
+                                "ground": "Diamond Oval",
+                                "city": "Kimberley",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 220,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 24,
+                                    "wickets": 2,
+                                    "overs": 4.3
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 227,
+                                    "wickets": 8,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86679,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "33rd Match, Super Six, Group 1",
+                            "matchFormat": "ODI",
+                            "startDate": "1706860800000",
+                            "endDate": "1706860800000",
+                            "state": "complete",
+                            "status": "India U19 won by 132 runs",
+                            "team1": {
+                                "teamId": 54,
+                                "teamName": "INDIA U19",
+                                "teamSName": "INDU19",
+                                "imageId": 776180
+                            },
+                            "team2": {
+                                "teamId": 229,
+                                "teamName": "NEPAL U19",
+                                "teamSName": "NPLU19",
+                                "imageId": 776188
+                            },
+                            "venueInfo": {
+                                "ground": "Mangaung Oval",
+                                "city": "Bloemfontein",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 54,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 297,
+                                    "wickets": 5,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 165,
+                                    "wickets": 9,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 03 Feb 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86700,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "36th Match, Super Six, Group 1",
+                            "matchFormat": "ODI",
+                            "startDate": "1706947200000",
+                            "endDate": "1706947200000",
+                            "state": "complete",
+                            "status": "Pakistan U19 won by 5 runs",
+                            "team1": {
+                                "teamId": 56,
+                                "teamName": "PAKISTAN U19",
+                                "teamSName": "PAKU19",
+                                "imageId": 776309
+                            },
+                            "team2": {
+                                "teamId": 224,
+                                "teamName": "BANGLADESH U19",
+                                "teamSName": "BANU19",
+                                "imageId": 776211
+                            },
+                            "venueInfo": {
+                                "ground": "Willowmoore Park",
+                                "city": "Benoni",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 56,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 155,
+                                    "wickets": 10,
+                                    "overs": 40.4
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 150,
+                                    "wickets": 10,
+                                    "overs": 35.5
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86714,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "38th Match, Super Six, Group 2",
+                            "matchFormat": "ODI",
+                            "startDate": "1706947200000",
+                            "endDate": "1706947200000",
+                            "state": "complete",
+                            "status": "England U19 won by 146 runs",
+                            "team1": {
+                                "teamId": 173,
+                                "teamName": "ENGLAND U19",
+                                "teamSName": "ENGU19",
+                                "imageId": 776245
+                            },
+                            "team2": {
+                                "teamId": 221,
+                                "teamName": "ZIMBABWE U19",
+                                "teamSName": "ZIMU19",
+                                "imageId": 776199
+                            },
+                            "venueInfo": {
+                                "ground": "Senwes Park",
+                                "city": "Potchefstroom",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 173,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 237,
+                                    "wickets": 7,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 91,
+                                    "wickets": 10,
+                                    "overs": 24.5
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "matchInfo": {
+                            "matchId": 86707,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "37th Match, Super Six, Group 1",
+                            "matchFormat": "ODI",
+                            "startDate": "1706947200000",
+                            "endDate": "1706947200000",
+                            "state": "complete",
+                            "status": "Ireland U19 won by 41 runs (DLS method)",
+                            "team1": {
+                                "teamId": 55,
+                                "teamName": "NEW ZEALAND U19",
+                                "teamSName": "NZU19",
+                                "imageId": 776334
+                            },
+                            "team2": {
+                                "teamId": 226,
+                                "teamName": "IRELAND U19",
+                                "teamSName": "IREU19",
+                                "imageId": 839471
+                            },
+                            "venueInfo": {
+                                "ground": "Mangaung Oval",
+                                "city": "Bloemfontein",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 226,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 131,
+                                    "wickets": 5,
+                                    "overs": 32.1
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 267,
+                                    "wickets": 9,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 06 Feb 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86721,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "Semi-Final 1",
+                            "matchFormat": "ODI",
+                            "startDate": "1707206400000",
+                            "endDate": "1707206400000",
+                            "state": "complete",
+                            "status": "India U19 won by 2 wkts",
+                            "team1": {
+                                "teamId": 54,
+                                "teamName": "INDIA U19",
+                                "teamSName": "INDU19",
+                                "imageId": 776180
+                            },
+                            "team2": {
+                                "teamId": 57,
+                                "teamName": "SOUTH AFRICA U19",
+                                "teamSName": "RSAU19",
+                                "imageId": 776292
+                            },
+                            "venueInfo": {
+                                "ground": "Willowmoore Park",
+                                "city": "Benoni",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 54,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 248,
+                                    "wickets": 8,
+                                    "overs": 48.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 244,
+                                    "wickets": 7,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 08 Feb 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86725,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "Semi-Final 2",
+                            "matchFormat": "ODI",
+                            "startDate": "1707379200000",
+                            "endDate": "1707379200000",
+                            "state": "complete",
+                            "status": "Australia U19 won by 1 wkt",
+                            "team1": {
+                                "teamId": 129,
+                                "teamName": "AUSTRALIA U19",
+                                "teamSName": "AUSU19",
+                                "imageId": 776206
+                            },
+                            "team2": {
+                                "teamId": 56,
+                                "teamName": "PAKISTAN U19",
+                                "teamSName": "PAKU19",
+                                "imageId": 776309
+                            },
+                            "venueInfo": {
+                                "ground": "Willowmoore Park",
+                                "city": "Benoni",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 129,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 181,
+                                    "wickets": 9,
+                                    "overs": 49.1
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 179,
+                                    "wickets": 10,
+                                    "overs": 48.5
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 11 Feb 2024",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 86728,
+                            "seriesId": 7175,
+                            "seriesName": "ICC Under 19 World Cup 2024",
+                            "matchDesc": "Final",
+                            "matchFormat": "ODI",
+                            "startDate": "1707638400000",
+                            "endDate": "1707638400000",
+                            "state": "complete",
+                            "status": "Australia U19 won by 79 runs",
+                            "team1": {
+                                "teamId": 54,
+                                "teamName": "INDIA U19",
+                                "teamSName": "INDU19",
+                                "imageId": 776180
+                            },
+                            "team2": {
+                                "teamId": 129,
+                                "teamName": "AUSTRALIA U19",
+                                "teamSName": "AUSU19",
+                                "imageId": 776206
+                            },
+                            "venueInfo": {
+                                "ground": "Willowmoore Park",
+                                "city": "Benoni",
+                                "timezone": "+02:00"
+                            },
+                            "currBatTeamId": 129,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 174,
+                                    "wickets": 10,
+                                    "overs": 43.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 253,
+                                    "wickets": 7,
+                                    "overs": 50.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 7175
+            }
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "ICC Under 19 World Cup 2024 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    }
+}

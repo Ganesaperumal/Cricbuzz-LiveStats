@@ -1,0 +1,2943 @@
+{
+  "matchDetails": [
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 07 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 138953,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "1st Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1770442200000",
+              "endDate": "1770454800000",
+              "state": "Complete",
+              "status": "Pakistan won by 3 wkts",
+              "team1": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 776335
+              },
+              "team2": {
+                "teamId": 3,
+                "teamName": "Pakistan",
+                "teamSName": "PAK",
+                "imageId": 776308
+              },
+              "venueInfo": {
+                "id": 14,
+                "ground": "Sinhalese Sports Club",
+                "city": "Colombo",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 3,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 147,
+                  "wickets": 10,
+                  "overs": 19.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 148,
+                  "wickets": 7,
+                  "overs": 19.3
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 138963,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "2nd Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1770456600000",
+              "endDate": "1770469200000",
+              "state": "Complete",
+              "status": "West Indies won by 35 runs",
+              "team1": {
+                "teamId": 10,
+                "teamName": "West Indies",
+                "teamSName": "WI",
+                "imageId": 776191
+              },
+              "team2": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 776280
+              },
+              "venueInfo": {
+                "id": 31,
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 10,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 182,
+                  "wickets": 5,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 147,
+                  "wickets": 10,
+                  "overs": 18.5
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 138974,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "3rd Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1770471000000",
+              "endDate": "1770483600000",
+              "state": "Complete",
+              "status": "India won by 29 runs",
+              "team1": {
+                "teamId": 2,
+                "teamName": "India",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "team2": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 776186
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 2,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 161,
+                  "wickets": 9,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 132,
+                  "wickets": 8,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_1",
+        "layout": "native_large",
+        "position": 1
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 08 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 138985,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "4th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1770528600000",
+              "endDate": "1770541200000",
+              "state": "Complete",
+              "status": "New Zealand won by 5 wkts",
+              "team1": {
+                "teamId": 96,
+                "teamName": "Afghanistan",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "team2": {
+                "teamId": 13,
+                "teamName": "New Zealand",
+                "teamSName": "NZ",
+                "imageId": 776333
+              },
+              "venueInfo": {
+                "id": 11,
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 13,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 182,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 183,
+                  "wickets": 5,
+                  "overs": 17.5
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 138996,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "5th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1770543000000",
+              "endDate": "1770555600000",
+              "state": "Complete",
+              "status": "England won by 4 runs",
+              "team1": {
+                "teamId": 9,
+                "teamName": "England",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 776331
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 9,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 184,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 180,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139007,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "6th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1770557400000",
+              "endDate": "1770570000000",
+              "state": "Complete",
+              "status": "Sri Lanka won by 20 runs",
+              "team1": {
+                "teamId": 5,
+                "teamName": "Sri Lanka",
+                "teamSName": "SL",
+                "imageId": 776254
+              },
+              "team2": {
+                "teamId": 27,
+                "teamName": "Ireland",
+                "teamSName": "IRE",
+                "imageId": 839366
+              },
+              "venueInfo": {
+                "id": 15,
+                "ground": "R.Premadasa Stadium",
+                "city": "Colombo",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 5,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 163,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 143,
+                  "wickets": 10,
+                  "overs": 19.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 09 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139018,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "7th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1770615000000",
+              "endDate": "1770627600000",
+              "state": "Complete",
+              "status": "Scotland won by 73 runs",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 776280
+              },
+              "team2": {
+                "teamId": 527,
+                "teamName": "Italy",
+                "teamSName": "ITA",
+                "imageId": 776295
+              },
+              "venueInfo": {
+                "id": 31,
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 23,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 207,
+                  "wickets": 4,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 134,
+                  "wickets": 10,
+                  "overs": 16.4
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139029,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "8th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1770629400000",
+              "endDate": "1770642000000",
+              "state": "Complete",
+              "status": "Zimbabwe won by 8 wkts",
+              "team1": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 776328
+              },
+              "team2": {
+                "teamId": 12,
+                "teamName": "Zimbabwe",
+                "teamSName": "ZIM",
+                "imageId": 776198
+              },
+              "venueInfo": {
+                "id": 14,
+                "ground": "Sinhalese Sports Club",
+                "city": "Colombo",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 12,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 103,
+                  "wickets": 10,
+                  "overs": 19.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 106,
+                  "wickets": 2,
+                  "overs": 13.3
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139040,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "9th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1770643800000",
+              "endDate": "1770656400000",
+              "state": "Complete",
+              "status": "South Africa won by 57 runs",
+              "team1": {
+                "teamId": 11,
+                "teamName": "South Africa",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 776227
+              },
+              "venueInfo": {
+                "id": 50,
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 11,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 213,
+                  "wickets": 4,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 156,
+                  "wickets": 8,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 10 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139051,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "10th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1770701400000",
+              "endDate": "1770714000000",
+              "state": "Complete",
+              "status": "Netherlands won by 7 wkts",
+              "team1": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 776326
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 776335
+              },
+              "venueInfo": {
+                "id": 51,
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 24,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 156,
+                  "wickets": 8,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 159,
+                  "wickets": 3,
+                  "overs": 18
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139062,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "11th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1770715800000",
+              "endDate": "1770728400000",
+              "state": "Complete",
+              "status": "New Zealand won by 10 wkts",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 776242
+              },
+              "team2": {
+                "teamId": 13,
+                "teamName": "New Zealand",
+                "teamSName": "NZ",
+                "imageId": 776333
+              },
+              "venueInfo": {
+                "id": 11,
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 13,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 173,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 175,
+                  "overs": 15.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139073,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "12th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1770730200000",
+              "endDate": "1770742800000",
+              "state": "Complete",
+              "status": "Pakistan won by 32 runs",
+              "team1": {
+                "teamId": 3,
+                "teamName": "Pakistan",
+                "teamSName": "PAK",
+                "imageId": 776308
+              },
+              "team2": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 776186
+              },
+              "venueInfo": {
+                "id": 14,
+                "ground": "Sinhalese Sports Club",
+                "city": "Colombo",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 3,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 190,
+                  "wickets": 9,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 158,
+                  "wickets": 8,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 11 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139084,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "13th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1770787800000",
+              "endDate": "1770800400000",
+              "state": "Complete",
+              "status": "Match tied and 1st Super over tied (SA won 2nd Super Over)",
+              "team1": {
+                "teamId": 11,
+                "teamName": "South Africa",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "team2": {
+                "teamId": 96,
+                "teamName": "Afghanistan",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "venueInfo": {
+                "id": 50,
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 11,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 187,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 187,
+                  "wickets": 10,
+                  "overs": 19.4
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139093,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "14th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1770802200000",
+              "endDate": "1770814800000",
+              "state": "Complete",
+              "status": "Australia won by 67 runs",
+              "team1": {
+                "teamId": 4,
+                "teamName": "Australia",
+                "teamSName": "AUS",
+                "imageId": 776202
+              },
+              "team2": {
+                "teamId": 27,
+                "teamName": "Ireland",
+                "teamSName": "IRE",
+                "imageId": 839366
+              },
+              "venueInfo": {
+                "id": 15,
+                "ground": "R.Premadasa Stadium",
+                "city": "Colombo",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 4,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 182,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 115,
+                  "wickets": 10,
+                  "overs": 16.5
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139104,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "15th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1770816600000",
+              "endDate": "1770829200000",
+              "state": "Complete",
+              "status": "West Indies won by 30 runs",
+              "team1": {
+                "teamId": 10,
+                "teamName": "West Indies",
+                "teamSName": "WI",
+                "imageId": 776191
+              },
+              "team2": {
+                "teamId": 9,
+                "teamName": "England",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 10,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 196,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 166,
+                  "wickets": 10,
+                  "overs": 19
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 12 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139115,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "16th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1770874200000",
+              "endDate": "1770886800000",
+              "state": "Complete",
+              "status": "Sri Lanka won by 105 runs",
+              "team1": {
+                "teamId": 5,
+                "teamName": "Sri Lanka",
+                "teamSName": "SL",
+                "imageId": 776254
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 776328
+              },
+              "venueInfo": {
+                "id": 254,
+                "ground": "Pallekele International Cricket Stadium",
+                "city": "Pallekele",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 5,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 225,
+                  "wickets": 5,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 120,
+                  "wickets": 9,
+                  "overs": 20
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139118,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "17th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1770888600000",
+              "endDate": "1770901200000",
+              "state": "Complete",
+              "status": "Italy won by 10 wkts",
+              "team1": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 776331
+              },
+              "team2": {
+                "teamId": 527,
+                "teamName": "Italy",
+                "teamSName": "ITA",
+                "imageId": 776295
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 527,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 123,
+                  "wickets": 10,
+                  "overs": 19.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 124,
+                  "overs": 12.4
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139129,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "18th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1770903000000",
+              "endDate": "1770915600000",
+              "state": "Complete",
+              "status": "India won by 93 runs",
+              "team1": {
+                "teamId": 2,
+                "teamName": "India",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 776326
+              },
+              "venueInfo": {
+                "id": 51,
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 2,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 209,
+                  "wickets": 9,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 116,
+                  "wickets": 10,
+                  "overs": 18.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 13 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139140,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "19th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1770960600000",
+              "endDate": "1770973200000",
+              "state": "Complete",
+              "status": "Zimbabwe won by 23 runs",
+              "team1": {
+                "teamId": 12,
+                "teamName": "Zimbabwe",
+                "teamSName": "ZIM",
+                "imageId": 776198
+              },
+              "team2": {
+                "teamId": 4,
+                "teamName": "Australia",
+                "teamSName": "AUS",
+                "imageId": 776202
+              },
+              "venueInfo": {
+                "id": 15,
+                "ground": "R.Premadasa Stadium",
+                "city": "Colombo",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 12,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 169,
+                  "wickets": 2,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 146,
+                  "wickets": 10,
+                  "overs": 19.3
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139142,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "20th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1770975000000",
+              "endDate": "1770987600000",
+              "state": "Complete",
+              "status": "United Arab Emirates won by 5 wkts",
+              "team1": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 776227
+              },
+              "team2": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 776242
+              },
+              "venueInfo": {
+                "id": 51,
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 7,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 150,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 151,
+                  "wickets": 5,
+                  "overs": 19.4
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139153,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "21st Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1770989400000",
+              "endDate": "1771002000000",
+              "state": "Complete",
+              "status": "United States of America won by 93 runs",
+              "team1": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 776186
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 776335
+              },
+              "venueInfo": {
+                "id": 11,
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 196,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 103,
+                  "wickets": 10,
+                  "overs": 15.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 14 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139164,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "22nd Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1771047000000",
+              "endDate": "1771059600000",
+              "state": "Complete",
+              "status": "Ireland won by 96 runs",
+              "team1": {
+                "teamId": 27,
+                "teamName": "Ireland",
+                "teamSName": "IRE",
+                "imageId": 839366
+              },
+              "team2": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 776328
+              },
+              "venueInfo": {
+                "id": 14,
+                "ground": "Sinhalese Sports Club",
+                "city": "Colombo",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 27,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 235,
+                  "wickets": 5,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 139,
+                  "wickets": 10,
+                  "overs": 18
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139175,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "23rd Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1771061400000",
+              "endDate": "1771074000000",
+              "state": "Complete",
+              "status": "England won by 5 wkts",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 776280
+              },
+              "team2": {
+                "teamId": 9,
+                "teamName": "England",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "venueInfo": {
+                "id": 31,
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 9,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 152,
+                  "wickets": 10,
+                  "overs": 19.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 155,
+                  "wickets": 5,
+                  "overs": 18.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139186,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "24th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1771075800000",
+              "endDate": "1771088400000",
+              "state": "Complete",
+              "status": "South Africa won by 7 wkts",
+              "team1": {
+                "teamId": 13,
+                "teamName": "New Zealand",
+                "teamSName": "NZ",
+                "imageId": 776333
+              },
+              "team2": {
+                "teamId": 11,
+                "teamName": "South Africa",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "venueInfo": {
+                "id": 50,
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 11,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 175,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 178,
+                  "wickets": 3,
+                  "overs": 17.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 15 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139194,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "25th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1771133400000",
+              "endDate": "1771146000000",
+              "state": "Complete",
+              "status": "West Indies won by 9 wkts",
+              "team1": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 776331
+              },
+              "team2": {
+                "teamId": 10,
+                "teamName": "West Indies",
+                "teamSName": "WI",
+                "imageId": 776191
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 10,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 133,
+                  "wickets": 8,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 134,
+                  "wickets": 1,
+                  "overs": 15.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139205,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "26th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1771147800000",
+              "endDate": "1771160400000",
+              "state": "Complete",
+              "status": "United States of America won by 31 runs",
+              "team1": {
+                "teamId": 15,
+                "teamName": "United States of America",
+                "teamSName": "USA",
+                "imageId": 776186
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 776326
+              },
+              "venueInfo": {
+                "id": 11,
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 15,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 199,
+                  "wickets": 4,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 168,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139216,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "27th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1771162200000",
+              "endDate": "1771174800000",
+              "state": "Complete",
+              "status": "India won by 61 runs",
+              "team1": {
+                "teamId": 2,
+                "teamName": "India",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "team2": {
+                "teamId": 3,
+                "teamName": "Pakistan",
+                "teamSName": "PAK",
+                "imageId": 776308
+              },
+              "venueInfo": {
+                "id": 15,
+                "ground": "R.Premadasa Stadium",
+                "city": "Colombo",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 2,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 175,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 114,
+                  "wickets": 10,
+                  "overs": 18
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 16 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139227,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "28th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1771219800000",
+              "endDate": "1771232400000",
+              "state": "Complete",
+              "status": "Afghanistan won by 5 wkts",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 776242
+              },
+              "team2": {
+                "teamId": 96,
+                "teamName": "Afghanistan",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "venueInfo": {
+                "id": 51,
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 96,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 160,
+                  "wickets": 9,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 162,
+                  "wickets": 5,
+                  "overs": 19.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139230,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "29th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1771234200000",
+              "endDate": "1771246800000",
+              "state": "Complete",
+              "status": "England won by 24 runs",
+              "team1": {
+                "teamId": 9,
+                "teamName": "England",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "team2": {
+                "teamId": 527,
+                "teamName": "Italy",
+                "teamSName": "ITA",
+                "imageId": 776295
+              },
+              "venueInfo": {
+                "id": 31,
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 9,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 202,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 178,
+                  "wickets": 10,
+                  "overs": 20
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139241,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "30th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1771248600000",
+              "endDate": "1771261200000",
+              "state": "Complete",
+              "status": "Sri Lanka won by 8 wkts",
+              "team1": {
+                "teamId": 4,
+                "teamName": "Australia",
+                "teamSName": "AUS",
+                "imageId": 776202
+              },
+              "team2": {
+                "teamId": 5,
+                "teamName": "Sri Lanka",
+                "teamSName": "SL",
+                "imageId": 776254
+              },
+              "venueInfo": {
+                "id": 254,
+                "ground": "Pallekele International Cricket Stadium",
+                "city": "Pallekele",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 5,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 181,
+                  "wickets": 10,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 184,
+                  "wickets": 2,
+                  "overs": 18
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 17 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139252,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "31st Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1771306200000",
+              "endDate": "1771318800000",
+              "state": "Complete",
+              "status": "New Zealand won by 8 wkts",
+              "team1": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 776227
+              },
+              "team2": {
+                "teamId": 13,
+                "teamName": "New Zealand",
+                "teamSName": "NZ",
+                "imageId": 776333
+              },
+              "venueInfo": {
+                "id": 11,
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 13,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 173,
+                  "wickets": 4,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 176,
+                  "wickets": 2,
+                  "overs": 15.1
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139263,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "32nd Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1771320600000",
+              "endDate": "1771333200000",
+              "state": "Abandon",
+              "status": "Match abandoned due to rain (no toss)",
+              "team1": {
+                "teamId": 27,
+                "teamName": "Ireland",
+                "teamSName": "IRE",
+                "imageId": 839366
+              },
+              "team2": {
+                "teamId": 12,
+                "teamName": "Zimbabwe",
+                "teamSName": "ZIM",
+                "imageId": 776198
+              },
+              "venueInfo": {
+                "id": 254,
+                "ground": "Pallekele International Cricket Stadium",
+                "city": "Pallekele",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139274,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "33rd Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1771335000000",
+              "endDate": "1771347600000",
+              "state": "Complete",
+              "status": "Nepal won by 7 wkts",
+              "team1": {
+                "teamId": 23,
+                "teamName": "Scotland",
+                "teamSName": "SCO",
+                "imageId": 776280
+              },
+              "team2": {
+                "teamId": 72,
+                "teamName": "Nepal",
+                "teamSName": "NEP",
+                "imageId": 776331
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 72,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 170,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 171,
+                  "wickets": 3,
+                  "overs": 19.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 18 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139285,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "34th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1771392600000",
+              "endDate": "1771405200000",
+              "state": "Complete",
+              "status": "South Africa won by 6 wkts",
+              "team1": {
+                "teamId": 7,
+                "teamName": "United Arab Emirates",
+                "teamSName": "UAE",
+                "imageId": 776242
+              },
+              "team2": {
+                "teamId": 11,
+                "teamName": "South Africa",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "venueInfo": {
+                "id": 51,
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 11,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 122,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 123,
+                  "wickets": 4,
+                  "overs": 13.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139296,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "35th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1771407000000",
+              "endDate": "1771419600000",
+              "state": "Complete",
+              "status": "Pakistan won by 102 runs",
+              "team1": {
+                "teamId": 3,
+                "teamName": "Pakistan",
+                "teamSName": "PAK",
+                "imageId": 776308
+              },
+              "team2": {
+                "teamId": 161,
+                "teamName": "Namibia",
+                "teamSName": "NAM",
+                "imageId": 776326
+              },
+              "venueInfo": {
+                "id": 14,
+                "ground": "Sinhalese Sports Club",
+                "city": "Colombo",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 3,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 199,
+                  "wickets": 3,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 97,
+                  "wickets": 10,
+                  "overs": 17.3
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139307,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "36th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1771421400000",
+              "endDate": "1771434000000",
+              "state": "Complete",
+              "status": "India won by 17 runs",
+              "team1": {
+                "teamId": 2,
+                "teamName": "India",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "team2": {
+                "teamId": 24,
+                "teamName": "Netherlands",
+                "teamSName": "NED",
+                "imageId": 776335
+              },
+              "venueInfo": {
+                "id": 50,
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 2,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 193,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 176,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 19 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139318,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "37th Match, Group C",
+              "matchFormat": "T20",
+              "startDate": "1771479000000",
+              "endDate": "1771491600000",
+              "state": "Complete",
+              "status": "West Indies won by 42 runs",
+              "team1": {
+                "teamId": 10,
+                "teamName": "West Indies",
+                "teamSName": "WI",
+                "imageId": 776191
+              },
+              "team2": {
+                "teamId": 527,
+                "teamName": "Italy",
+                "teamSName": "ITA",
+                "imageId": 776295
+              },
+              "venueInfo": {
+                "id": 31,
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 10,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 165,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 123,
+                  "wickets": 10,
+                  "overs": 18
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139329,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "38th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1771493400000",
+              "endDate": "1771506000000",
+              "state": "Complete",
+              "status": "Zimbabwe won by 6 wkts",
+              "team1": {
+                "teamId": 5,
+                "teamName": "Sri Lanka",
+                "teamSName": "SL",
+                "imageId": 776254
+              },
+              "team2": {
+                "teamId": 12,
+                "teamName": "Zimbabwe",
+                "teamSName": "ZIM",
+                "imageId": 776198
+              },
+              "venueInfo": {
+                "id": 15,
+                "ground": "R.Premadasa Stadium",
+                "city": "Colombo",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 12,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 178,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 182,
+                  "wickets": 4,
+                  "overs": 19.3
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139340,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "39th Match, Group D",
+              "matchFormat": "T20",
+              "startDate": "1771507800000",
+              "endDate": "1771520400000",
+              "state": "Complete",
+              "status": "Afghanistan won by 82 runs",
+              "team1": {
+                "teamId": 96,
+                "teamName": "Afghanistan",
+                "teamSName": "AFG",
+                "imageId": 776177
+              },
+              "team2": {
+                "teamId": 26,
+                "teamName": "Canada",
+                "teamSName": "CAN",
+                "imageId": 776227
+              },
+              "venueInfo": {
+                "id": 11,
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 96,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 200,
+                  "wickets": 4,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 118,
+                  "wickets": 8,
+                  "overs": 20
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 20 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139351,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "40th Match, Group B",
+              "matchFormat": "T20",
+              "startDate": "1771594200000",
+              "endDate": "1771606800000",
+              "state": "Complete",
+              "status": "Australia won by 9 wkts",
+              "team1": {
+                "teamId": 304,
+                "teamName": "Oman",
+                "teamSName": "OMAN",
+                "imageId": 776328
+              },
+              "team2": {
+                "teamId": 4,
+                "teamName": "Australia",
+                "teamSName": "AUS",
+                "imageId": 776202
+              },
+              "venueInfo": {
+                "id": 254,
+                "ground": "Pallekele International Cricket Stadium",
+                "city": "Pallekele",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 4,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 104,
+                  "wickets": 10,
+                  "overs": 16.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 108,
+                  "wickets": 1,
+                  "overs": 9.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 21 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139362,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "41st Match, Super 8 Group 2 (Y2 v Y3)",
+              "matchFormat": "T20",
+              "startDate": "1771680600000",
+              "endDate": "1771693200000",
+              "state": "Abandon",
+              "status": "Match abandoned without a ball bowled",
+              "team1": {
+                "teamId": 3,
+                "teamName": "Pakistan",
+                "teamSName": "PAK",
+                "imageId": 776308
+              },
+              "team2": {
+                "teamId": 13,
+                "teamName": "New Zealand",
+                "teamSName": "NZ",
+                "imageId": 776333
+              },
+              "venueInfo": {
+                "id": 15,
+                "ground": "R.Premadasa Stadium",
+                "city": "Colombo",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 22 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139373,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "42nd Match, Super 8 Group 2 (Y1 v Y4)",
+              "matchFormat": "T20",
+              "startDate": "1771752600000",
+              "endDate": "1771765200000",
+              "state": "Complete",
+              "status": "England won by 51 runs",
+              "team1": {
+                "teamId": 9,
+                "teamName": "England",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "team2": {
+                "teamId": 5,
+                "teamName": "Sri Lanka",
+                "teamSName": "SL",
+                "imageId": 776254
+              },
+              "venueInfo": {
+                "id": 254,
+                "ground": "Pallekele International Cricket Stadium",
+                "city": "Pallekele",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 9,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 146,
+                  "wickets": 9,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 95,
+                  "wickets": 10,
+                  "overs": 16.4
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139381,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "43rd Match, Super 8 Group 1 (X1 v X4)",
+              "matchFormat": "T20",
+              "startDate": "1771767000000",
+              "endDate": "1771779600000",
+              "state": "Complete",
+              "status": "South Africa won by 76 runs",
+              "team1": {
+                "teamId": 11,
+                "teamName": "South Africa",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "team2": {
+                "teamId": 2,
+                "teamName": "India",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "venueInfo": {
+                "id": 50,
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 11,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 187,
+                  "wickets": 7,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 111,
+                  "wickets": 10,
+                  "overs": 18.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 23 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139382,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "44th Match, Super 8 Group 1 (X2 v X3)",
+              "matchFormat": "T20",
+              "startDate": "1771853400000",
+              "endDate": "1771866000000",
+              "state": "Complete",
+              "status": "West Indies won by 107 runs",
+              "team1": {
+                "teamId": 10,
+                "teamName": "West Indies",
+                "teamSName": "WI",
+                "imageId": 776191
+              },
+              "team2": {
+                "teamId": 12,
+                "teamName": "Zimbabwe",
+                "teamSName": "ZIM",
+                "imageId": 776198
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 10,
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 254,
+                  "wickets": 6,
+                  "overs": 20
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 147,
+                  "wickets": 10,
+                  "overs": 17.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 24 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139393,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "45th Match, Super 8 Group 2 (Y1 v Y3)",
+              "matchFormat": "T20",
+              "startDate": "1771939800000",
+              "endDate": "1771952400000",
+              "state": "Preview",
+              "status": "Match starts at Feb 24, 13:30 GMT",
+              "team1": {
+                "teamId": 9,
+                "teamName": "England",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "team2": {
+                "teamId": 3,
+                "teamName": "Pakistan",
+                "teamSName": "PAK",
+                "imageId": 776308
+              },
+              "venueInfo": {
+                "id": 254,
+                "ground": "Pallekele International Cricket Stadium",
+                "city": "Pallekele",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 25 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139404,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "46th Match, Super 8 Group 2 (Y2 v Y4)",
+              "matchFormat": "T20",
+              "startDate": "1772026200000",
+              "endDate": "1772038800000",
+              "state": "Upcoming",
+              "status": "Match starts at Feb 25, 13:30 GMT",
+              "team1": {
+                "teamId": 13,
+                "teamName": "New Zealand",
+                "teamSName": "NZ",
+                "imageId": 776333
+              },
+              "team2": {
+                "teamId": 5,
+                "teamName": "Sri Lanka",
+                "teamSName": "SL",
+                "imageId": 776254
+              },
+              "venueInfo": {
+                "id": 15,
+                "ground": "R.Premadasa Stadium",
+                "city": "Colombo",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 26 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139415,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "47th Match, Super 8 Group 1 (X3 v X4)",
+              "matchFormat": "T20",
+              "startDate": "1772098200000",
+              "endDate": "1772110800000",
+              "state": "Upcoming",
+              "status": "Match starts at Feb 26, 09:30 GMT",
+              "team1": {
+                "teamId": 10,
+                "teamName": "West Indies",
+                "teamSName": "WI",
+                "imageId": 776191
+              },
+              "team2": {
+                "teamId": 11,
+                "teamName": "South Africa",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "venueInfo": {
+                "id": 50,
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139426,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "48th Match, Super 8 Group 1 (X1 v X2)",
+              "matchFormat": "T20",
+              "startDate": "1772112600000",
+              "endDate": "1772125200000",
+              "state": "Upcoming",
+              "status": "Match starts at Feb 26, 13:30 GMT",
+              "team1": {
+                "teamId": 2,
+                "teamName": "India",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "team2": {
+                "teamId": 12,
+                "teamName": "Zimbabwe",
+                "teamSName": "ZIM",
+                "imageId": 776198
+              },
+              "venueInfo": {
+                "id": 11,
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 27 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139437,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "49th Match, Super 8 Group 2 (Y1 v Y2)",
+              "matchFormat": "T20",
+              "startDate": "1772199000000",
+              "endDate": "1772211600000",
+              "state": "Upcoming",
+              "status": "Match starts at Feb 27, 13:30 GMT",
+              "team1": {
+                "teamId": 9,
+                "teamName": "England",
+                "teamSName": "ENG",
+                "imageId": 776237
+              },
+              "team2": {
+                "teamId": 13,
+                "teamName": "New Zealand",
+                "teamSName": "NZ",
+                "imageId": 776333
+              },
+              "venueInfo": {
+                "id": 15,
+                "ground": "R.Premadasa Stadium",
+                "city": "Colombo",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 28 Feb 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139448,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "50th Match, Super 8 Group 2 (Y3 v Y4)",
+              "matchFormat": "T20",
+              "startDate": "1772285400000",
+              "endDate": "1772298000000",
+              "state": "Upcoming",
+              "status": "Match starts at Feb 28, 13:30 GMT",
+              "team1": {
+                "teamId": 3,
+                "teamName": "Pakistan",
+                "teamSName": "PAK",
+                "imageId": 776308
+              },
+              "team2": {
+                "teamId": 5,
+                "teamName": "Sri Lanka",
+                "teamSName": "SL",
+                "imageId": 776254
+              },
+              "venueInfo": {
+                "id": 254,
+                "ground": "Pallekele International Cricket Stadium",
+                "city": "Pallekele",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 01 Mar 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139450,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "51st Match, Super 8 Group 1 (X2 v X4)",
+              "matchFormat": "T20",
+              "startDate": "1772357400000",
+              "endDate": "1772370000000",
+              "state": "Upcoming",
+              "status": "Match starts at Mar 01, 09:30 GMT",
+              "team1": {
+                "teamId": 12,
+                "teamName": "Zimbabwe",
+                "teamSName": "ZIM",
+                "imageId": 776198
+              },
+              "team2": {
+                "teamId": 11,
+                "teamName": "South Africa",
+                "teamSName": "RSA",
+                "imageId": 776287
+              },
+              "venueInfo": {
+                "id": 51,
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 139461,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "52nd Match, Super 8 Group 1 (X1 v X3)",
+              "matchFormat": "T20",
+              "startDate": "1772371800000",
+              "endDate": "1772384400000",
+              "state": "Upcoming",
+              "status": "Match starts at Mar 01, 13:30 GMT",
+              "team1": {
+                "teamId": 2,
+                "teamName": "India",
+                "teamSName": "IND",
+                "imageId": 776162
+              },
+              "team2": {
+                "teamId": 10,
+                "teamName": "West Indies",
+                "teamSName": "WI",
+                "imageId": 776191
+              },
+              "venueInfo": {
+                "id": 31,
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 04 Mar 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139472,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "1st Semi-Final",
+              "matchFormat": "T20",
+              "startDate": "1772631000000",
+              "endDate": "1772643600000",
+              "state": "Upcoming",
+              "status": "Match starts at Mar 04, 13:30 GMT",
+              "team1": {
+                "teamId": 106,
+                "teamName": "TBC",
+                "teamSName": "TBC",
+                "imageId": 172198
+              },
+              "team2": {
+                "teamId": 106,
+                "teamName": "TBC",
+                "teamSName": "TBC",
+                "imageId": 172198
+              },
+              "venueInfo": {
+                "ground": "TBC",
+                "city": "TBC",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 05 Mar 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139478,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "2nd Semi-Final",
+              "matchFormat": "T20",
+              "startDate": "1772717400000",
+              "endDate": "1772730000000",
+              "state": "Upcoming",
+              "status": "Match starts at Mar 05, 13:30 GMT",
+              "team1": {
+                "teamId": 106,
+                "teamName": "TBC",
+                "teamSName": "TBC",
+                "imageId": 172198
+              },
+              "team2": {
+                "teamId": 106,
+                "teamName": "TBC",
+                "teamSName": "TBC",
+                "imageId": 172198
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 08 Mar 2026",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 139489,
+              "seriesId": 11253,
+              "seriesName": "ICC Men's T20 World Cup 2026",
+              "matchDesc": "Final",
+              "matchFormat": "T20",
+              "startDate": "1772976600000",
+              "endDate": "1772989200000",
+              "state": "Upcoming",
+              "status": "Match starts at Mar 08, 13:30 GMT",
+              "team1": {
+                "teamId": 106,
+                "teamName": "TBC",
+                "teamSName": "TBC",
+                "imageId": 172198
+              },
+              "team2": {
+                "teamId": 106,
+                "teamName": "TBC",
+                "teamSName": "TBC",
+                "imageId": 172198
+              },
+              "venueInfo": {
+                "ground": "TBC",
+                "city": "TBC",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1770422400000",
+              "seriesEndDt": "1773100800000",
+              "isTimeAnnounced": true,
+              "isLiveStreamEnabled": true
+            }
+          }
+        ],
+        "seriesId": 11253
+      }
+    }
+  ],
+  "landingPosition": 61,
+  "appIndex": {
+    "seoTitle": "ICC Men's T20 World Cup 2026 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  }
+}

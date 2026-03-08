@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "18",
+                "77",
+                "91",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "31",
+                "77",
+                "90",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "1305",
+                "2920",
+                "2648",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "2299",
+                "3263",
+                "2058",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "187",
+                "210",
+                "107",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "45",
+                "40.56",
+                "30.79",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "56.77",
+                "89.49",
+                "128.67",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "2",
+                "5",
+                "4",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "150",
+                "367",
+                "270",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "5",
+                "36",
+                "76",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "0",
+                "6",
+                "8",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "7",
+                "18",
+                "19",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "4",
+                "7",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "0",
+                "1",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Pathum Nissanka Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/13682/pathum-nissanka"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+  "filter": {
+    "matchtype": [
+      {
+        "matchTypeId": "1",
+        "matchTypeDesc": "test"
+      },
+      {
+        "matchTypeId": "2",
+        "matchTypeDesc": "odi"
+      },
+      {
+        "matchTypeId": "3",
+        "matchTypeDesc": "t20i"
+      }
+    ],
+    "team": [
+      {
+        "id": "2",
+        "teamShortName": "IND"
+      },
+      {
+        "id": "27",
+        "teamShortName": "IRE"
+      },
+      {
+        "id": "3",
+        "teamShortName": "PAK"
+      },
+      {
+        "id": "4",
+        "teamShortName": "AUS"
+      },
+      {
+        "id": "5",
+        "teamShortName": "SL"
+      },
+      {
+        "id": "6",
+        "teamShortName": "BAN"
+      },
+      {
+        "id": "9",
+        "teamShortName": "ENG"
+      },
+      {
+        "id": "10",
+        "teamShortName": "WI"
+      },
+      {
+        "id": "11",
+        "teamShortName": "RSA"
+      },
+      {
+        "id": "12",
+        "teamShortName": "ZIM"
+      },
+      {
+        "id": "13",
+        "teamShortName": "NZ"
+      },
+      {
+        "id": "96",
+        "teamShortName": "AFG"
+      }
+    ],
+    "selectedMatchType": "odi",
+    "selectedYear": "2020",
+    "selectedTeam": "IND"
+  },
+  "headers": [
+    "Batter",
+    "M",
+    "I",
+    "R",
+    "SR"
+  ],
+  "values": [
+    {
+      "values": [
+        "9647",
+        "Hardik Pandya",
+        "3",
+        "3",
+        "210",
+        "114.75"
+      ]
+    },
+    {
+      "values": [
+        "8733",
+        "Rahul",
+        "9",
+        "9",
+        "443",
+        "106.24"
+      ]
+    },
+    {
+      "values": [
+        "587",
+        "Ravindra Jadeja",
+        "9",
+        "7",
+        "223",
+        "98.67"
+      ]
+    },
+    {
+      "values": [
+        "9428",
+        "Shreyas Iyer",
+        "9",
+        "9",
+        "331",
+        "95.39"
+      ]
+    },
+    {
+      "values": [
+        "1413",
+        "Virat Kohli",
+        "9",
+        "9",
+        "431",
+        "92.29"
+      ]
+    },
+    {
+      "values": [
+        "1446",
+        "Dhawan",
+        "6",
+        "5",
+        "290",
+        "91.48"
+      ]
+    },
+    {
+      "values": [
+        "576",
+        "Rohit Sharma",
+        "3",
+        "3",
+        "171",
+        "91.44"
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Live cricket scores, schedule, news, archive, series | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com"
+  }
+}

@@ -1,0 +1,601 @@
+{
+    "matchDetails": [
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 14 Nov 2025 - Tue, 18 Nov 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 117371,
+                            "seriesId": 9638,
+                            "seriesName": "South Africa tour of India, 2025",
+                            "matchDesc": "1st Test",
+                            "matchFormat": "TEST",
+                            "startDate": "1763092800000",
+                            "endDate": "1763438400000",
+                            "state": "complete",
+                            "status": "South Africa won by 30 runs",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "SOUTH AFRICA",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "ground": "Eden Gardens",
+                                "city": "Kolkata",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 11,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 189,
+                                    "wickets": 10,
+                                    "overs": 62.2
+                                },
+                                "inngs2": {
+                                    "inningsId": 4,
+                                    "runs": 93,
+                                    "wickets": 10,
+                                    "overs": 35.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 159,
+                                    "wickets": 10,
+                                    "overs": 55.0
+                                },
+                                "inngs2": {
+                                    "inningsId": 3,
+                                    "runs": 153,
+                                    "wickets": 10,
+                                    "overs": 54.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9638
+            }
+        },
+        {
+            "adDetail": {
+                "name": "native_news_index_random_1",
+                "layout": "native_large",
+                "position": 1
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 22 Nov 2025 - Wed, 26 Nov 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 117380,
+                            "seriesId": 9638,
+                            "seriesName": "South Africa tour of India, 2025",
+                            "matchDesc": "2nd Test",
+                            "matchFormat": "TEST",
+                            "startDate": "1763782200000",
+                            "endDate": "1764127800000",
+                            "state": "complete",
+                            "status": "South Africa won by 408 runs",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "SOUTH AFRICA",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "ground": "Barsapara Cricket Stadium",
+                                "city": "Guwahati",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 11,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 201,
+                                    "wickets": 10,
+                                    "overs": 83.5
+                                },
+                                "inngs2": {
+                                    "inningsId": 4,
+                                    "runs": 140,
+                                    "wickets": 10,
+                                    "overs": 63.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 489,
+                                    "wickets": 10,
+                                    "overs": 151.1
+                                },
+                                "inngs2": {
+                                    "inningsId": 3,
+                                    "runs": 260,
+                                    "wickets": 5,
+                                    "overs": 78.3,
+                                    "isDeclared": true
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9638
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 30 Nov 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 117389,
+                            "seriesId": 9638,
+                            "seriesName": "South Africa tour of India, 2025",
+                            "matchDesc": "1st ODI",
+                            "matchFormat": "ODI",
+                            "startDate": "1764489600000",
+                            "endDate": "1764489600000",
+                            "state": "complete",
+                            "status": "India won by 17 runs",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "SOUTH AFRICA",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "ground": "JSCA International Stadium Complex",
+                                "city": "Ranchi",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 349,
+                                    "wickets": 8,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 332,
+                                    "wickets": 10,
+                                    "overs": 49.2
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9638
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 03 Dec 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 117398,
+                            "seriesId": 9638,
+                            "seriesName": "South Africa tour of India, 2025",
+                            "matchDesc": "2nd ODI",
+                            "matchFormat": "ODI",
+                            "startDate": "1764748800000",
+                            "endDate": "1764748800000",
+                            "state": "complete",
+                            "status": "South Africa won by 4 wkts",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "SOUTH AFRICA",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "ground": "Shaheed Veer Narayan Singh International Stadium",
+                                "city": "Raipur",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 11,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 358,
+                                    "wickets": 5,
+                                    "overs": 50.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 362,
+                                    "wickets": 6,
+                                    "overs": 49.2
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9638
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sat, 06 Dec 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 117404,
+                            "seriesId": 9638,
+                            "seriesName": "South Africa tour of India, 2025",
+                            "matchDesc": "3rd ODI",
+                            "matchFormat": "ODI",
+                            "startDate": "1765008000000",
+                            "endDate": "1765008000000",
+                            "state": "complete",
+                            "status": "India won by 9 wkts",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "SOUTH AFRICA",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "ground": "ACA-VDCA Cricket Stadium",
+                                "city": "Visakhapatnam",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 271,
+                                    "wickets": 1,
+                                    "overs": 39.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 270,
+                                    "wickets": 10,
+                                    "overs": 47.5
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9638
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Tue, 09 Dec 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 117413,
+                            "seriesId": 9638,
+                            "seriesName": "South Africa tour of India, 2025",
+                            "matchDesc": "1st T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1765287000000",
+                            "endDate": "1765287000000",
+                            "state": "complete",
+                            "status": "India won by 101 runs",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "SOUTH AFRICA",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "ground": "Barabati Stadium",
+                                "city": "Cuttack",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 175,
+                                    "wickets": 6,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 74,
+                                    "wickets": 10,
+                                    "overs": 12.3
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9638
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Thu, 11 Dec 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 117416,
+                            "seriesId": 9638,
+                            "seriesName": "South Africa tour of India, 2025",
+                            "matchDesc": "2nd T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1765459800000",
+                            "endDate": "1765459800000",
+                            "state": "complete",
+                            "status": "South Africa won by 51 runs",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "SOUTH AFRICA",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "ground": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+                                "city": "New Chandigarh",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 11,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 162,
+                                    "wickets": 10,
+                                    "overs": 19.1
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 213,
+                                    "wickets": 4,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9638
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Sun, 14 Dec 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 117425,
+                            "seriesId": 9638,
+                            "seriesName": "South Africa tour of India, 2025",
+                            "matchDesc": "3rd T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1765719000000",
+                            "endDate": "1765719000000",
+                            "state": "complete",
+                            "status": "India won by 7 wkts",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "SOUTH AFRICA",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "ground": "Himachal Pradesh Cricket Association Stadium",
+                                "city": "Dharamsala",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 120,
+                                    "wickets": 3,
+                                    "overs": 15.5
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 117,
+                                    "wickets": 10,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9638
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Wed, 17 Dec 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 117434,
+                            "seriesId": 9638,
+                            "seriesName": "South Africa tour of India, 2025",
+                            "matchDesc": "4th T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1765978200000",
+                            "endDate": "1765978200000",
+                            "state": "complete",
+                            "status": "Match abandoned - due to excessive fog",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "SOUTH AFRICA",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                                "city": "Lucknow",
+                                "timezone": "+05:30"
+                            },
+                            "isTimeAnnounced": true
+                        }
+                    }
+                ],
+                "seriesId": 9638
+            }
+        },
+        {
+            "matchDetailsMap": {
+                "key": "Fri, 19 Dec 2025",
+                "match": [
+                    {
+                        "matchInfo": {
+                            "matchId": 117440,
+                            "seriesId": 9638,
+                            "seriesName": "South Africa tour of India, 2025",
+                            "matchDesc": "5th T20I",
+                            "matchFormat": "T20",
+                            "startDate": "1766151000000",
+                            "endDate": "1766151000000",
+                            "state": "complete",
+                            "status": "India won by 30 runs",
+                            "team1": {
+                                "teamId": 2,
+                                "teamName": "INDIA",
+                                "teamSName": "IND",
+                                "imageId": 776162
+                            },
+                            "team2": {
+                                "teamId": 11,
+                                "teamName": "SOUTH AFRICA",
+                                "teamSName": "RSA",
+                                "imageId": 776287
+                            },
+                            "venueInfo": {
+                                "ground": "Narendra Modi Stadium",
+                                "city": "Ahmedabad",
+                                "timezone": "+05:30"
+                            },
+                            "currBatTeamId": 2,
+                            "isTimeAnnounced": true
+                        },
+                        "matchScore": {
+                            "team1Score": {
+                                "inngs1": {
+                                    "inningsId": 1,
+                                    "runs": 231,
+                                    "wickets": 5,
+                                    "overs": 20.0
+                                }
+                            },
+                            "team2Score": {
+                                "inngs1": {
+                                    "inningsId": 2,
+                                    "runs": 201,
+                                    "wickets": 8,
+                                    "overs": 20.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "seriesId": 9638
+            }
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "South Africa tour of India, 2025 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    }
+}

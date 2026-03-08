@@ -1,0 +1,129 @@
+{
+    "matchid": 138974,
+    "seriesid": 11253,
+    "seriesname": "ICC Men's T20 World Cup 2026",
+    "matchdesc": "3rd Match, Group A",
+    "matchformat": "T20",
+    "startdate": 1770471000000,
+    "enddate": 1770484363399,
+    "state": "Complete",
+    "status": "United States of America opt to bowl",
+    "team1": {
+        "teamid": 2,
+        "teamname": "India",
+        "teamsname": "IND",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "team2": {
+        "teamid": 15,
+        "teamname": "United States of America",
+        "teamsname": "USA",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "umpire1": {
+        "id": 4730,
+        "name": "Paul Reiffel",
+        "country": "AUS"
+    },
+    "umpire2": {
+        "id": 7240,
+        "name": "Rod Tucker",
+        "country": "AUS"
+    },
+    "umpire3": {
+        "id": 6865,
+        "name": "Sharfuddoula",
+        "country": "BAN"
+    },
+    "referee": {
+        "id": 3395,
+        "name": "Andy Pycroft",
+        "country": "ZIM"
+    },
+    "venueinfo": {
+        "id": 81,
+        "ground": "Wankhede Stadium",
+        "city": "Mumbai",
+        "country": "India",
+        "timezone": "+05:30",
+        "established": 1974,
+        "capacity": "33,000",
+        "knownas": "",
+        "ends": "Garware Pavilion End, Tata End",
+        "hometeam": "Mumbai, Mumbai Indians",
+        "floodlights": false,
+        "curator": "",
+        "profile": "",
+        "imageurl": "",
+        "groundlength": 0.0,
+        "groundwidth": 0.0,
+        "othersports": "",
+        "imageid": 0,
+        "latitude": "",
+        "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+        "seotitle": "Cricket match facts IND vs USA 3rd Match, Group A,ICC Men's T20 World Cup 2026 | Cricbuzz.com",
+        "weburl": "http://www.cricbuzz.com/cricket-match-facts/138974/ind-vs-usa-3rd-match-group-a-icc-mens-t20-world-cup-2026"
+    },
+    "istournament": true,
+    "tossstatus": "United States of America opt to bowl",
+    "seriesstartdt": 1770336000000,
+    "seriesenddt": 1773014400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+        {
+            "country": "IN",
+            "broadcaster": [
+                {
+                    "broadcasttype": "Streaming",
+                    "value": "JioHotstar"
+                },
+                {
+                    "broadcasttype": "TV",
+                    "value": "Star Sports Network"
+                }
+            ]
+        }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "WCT20",
+    "shortstatus": "IND won",
+    "boundarytrackervalues": {
+        "boundarytrackervalue": []
+    },
+    "matchimageid": 846117,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": true,
+    "ispollenabled": false
+}

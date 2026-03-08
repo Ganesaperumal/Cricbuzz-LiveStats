@@ -1,0 +1,129 @@
+{
+    "matchid": 91805,
+    "seriesid": 7745,
+    "seriesname": "India tour of Australia, 2024-25",
+    "matchdesc": "4th Test",
+    "matchformat": "TEST",
+    "startdate": 1735169400000,
+    "enddate": 1735539839492,
+    "state": "Complete",
+    "status": "Australia opt to bat",
+    "team1": {
+        "teamid": 4,
+        "teamname": "Australia",
+        "teamsname": "AUS",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "team2": {
+        "teamid": 2,
+        "teamname": "India",
+        "teamsname": "IND",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "umpire1": {
+        "id": 7931,
+        "name": "Joel Wilson",
+        "country": "WI"
+    },
+    "umpire2": {
+        "id": 8034,
+        "name": "Michael Gough",
+        "country": "ENG"
+    },
+    "umpire3": {
+        "id": 6865,
+        "name": "Sharfuddoula",
+        "country": "BAN"
+    },
+    "referee": {
+        "id": 3395,
+        "name": "Andy Pycroft",
+        "country": "ZIM"
+    },
+    "venueinfo": {
+        "id": 87,
+        "ground": "Melbourne Cricket Ground",
+        "city": "Melbourne",
+        "country": "Australia",
+        "timezone": "+11:00",
+        "established": 1854,
+        "capacity": "100000 (approx, including standing room)",
+        "knownas": "",
+        "ends": "Members End, Great Southern Stand End",
+        "hometeam": "Australia, Victoria",
+        "floodlights": false,
+        "curator": "",
+        "profile": "",
+        "imageurl": "",
+        "groundlength": 0.0,
+        "groundwidth": 0.0,
+        "othersports": "",
+        "imageid": 0,
+        "latitude": "",
+        "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+        "seotitle": "Cricket match facts AUS vs IND 4th Test,India tour of Australia, 2024-25 | Cricbuzz.com",
+        "weburl": "http://www.cricbuzz.com/cricket-match-facts/91805/aus-vs-ind-4th-test-india-tour-of-australia-2024-25"
+    },
+    "istournament": false,
+    "tossstatus": "Australia opt to bat",
+    "seriesstartdt": 1732147200000,
+    "seriesenddt": 1736294400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+        {
+            "country": "IN",
+            "broadcaster": [
+                {
+                    "broadcasttype": "Streaming",
+                    "value": "JioHotstar"
+                },
+                {
+                    "broadcasttype": "TV",
+                    "value": "Star Sports Network,DD Sports"
+                }
+            ]
+        }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "",
+    "shortstatus": "AUS won",
+    "boundarytrackervalues": {
+        "boundarytrackervalue": []
+    },
+    "matchimageid": 593630,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": false,
+    "ispollenabled": false
+}

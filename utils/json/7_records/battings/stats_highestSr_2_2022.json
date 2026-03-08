@@ -1,0 +1,234 @@
+{
+  "filter": {
+    "matchtype": [
+      {
+        "matchTypeId": "1",
+        "matchTypeDesc": "test"
+      },
+      {
+        "matchTypeId": "2",
+        "matchTypeDesc": "odi"
+      },
+      {
+        "matchTypeId": "3",
+        "matchTypeDesc": "t20i"
+      }
+    ],
+    "team": [
+      {
+        "id": "2",
+        "teamShortName": "IND"
+      },
+      {
+        "id": "27",
+        "teamShortName": "IRE"
+      },
+      {
+        "id": "3",
+        "teamShortName": "PAK"
+      },
+      {
+        "id": "4",
+        "teamShortName": "AUS"
+      },
+      {
+        "id": "5",
+        "teamShortName": "SL"
+      },
+      {
+        "id": "6",
+        "teamShortName": "BAN"
+      },
+      {
+        "id": "9",
+        "teamShortName": "ENG"
+      },
+      {
+        "id": "10",
+        "teamShortName": "WI"
+      },
+      {
+        "id": "11",
+        "teamShortName": "RSA"
+      },
+      {
+        "id": "12",
+        "teamShortName": "ZIM"
+      },
+      {
+        "id": "13",
+        "teamShortName": "NZ"
+      },
+      {
+        "id": "96",
+        "teamShortName": "AFG"
+      }
+    ],
+    "selectedMatchType": "odi",
+    "selectedYear": "2022",
+    "selectedTeam": "IND"
+  },
+  "headers": [
+    "Batter",
+    "M",
+    "I",
+    "R",
+    "SR"
+  ],
+  "values": [
+    {
+      "values": [
+        "8808",
+        "Axar Patel",
+        "8",
+        "6",
+        "168",
+        "120.00"
+      ]
+    },
+    {
+      "values": [
+        "576",
+        "Rohit Sharma",
+        "8",
+        "8",
+        "249",
+        "114.22"
+      ]
+    },
+    {
+      "values": [
+        "7836",
+        "Deepak Chahar",
+        "8",
+        "6",
+        "116",
+        "112.62"
+      ]
+    },
+    {
+      "values": [
+        "10276",
+        "Ishan Kishan",
+        "8",
+        "7",
+        "417",
+        "109.74"
+      ]
+    },
+    {
+      "values": [
+        "8271",
+        "Sanju Samson",
+        "10",
+        "9",
+        "284",
+        "105.58"
+      ]
+    },
+    {
+      "values": [
+        "11808",
+        "Shubman Gill",
+        "12",
+        "12",
+        "638",
+        "102.57"
+      ]
+    },
+    {
+      "values": [
+        "10744",
+        "Rishabh Pant",
+        "12",
+        "10",
+        "336",
+        "96.55"
+      ]
+    },
+    {
+      "values": [
+        "7915",
+        "Suryakumar Yadav",
+        "13",
+        "12",
+        "260",
+        "92.53"
+      ]
+    },
+    {
+      "values": [
+        "8683",
+        "Shardul Thakur",
+        "16",
+        "11",
+        "163",
+        "92.09"
+      ]
+    },
+    {
+      "values": [
+        "9428",
+        "Shreyas Iyer",
+        "17",
+        "15",
+        "724",
+        "91.53"
+      ]
+    },
+    {
+      "values": [
+        "1413",
+        "Virat Kohli",
+        "11",
+        "11",
+        "302",
+        "87.03"
+      ]
+    },
+    {
+      "values": [
+        "10945",
+        "Washington Sundar",
+        "11",
+        "7",
+        "212",
+        "86.89"
+      ]
+    },
+    {
+      "values": [
+        "9427",
+        "Deepak Hooda",
+        "10",
+        "7",
+        "153",
+        "80.95"
+      ]
+    },
+    {
+      "values": [
+        "8733",
+        "Rahul",
+        "10",
+        "9",
+        "251",
+        "80.19"
+      ]
+    },
+    {
+      "values": [
+        "1446",
+        "Dhawan",
+        "22",
+        "22",
+        "688",
+        "74.22"
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Live cricket scores, schedule, news, archive, series | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com"
+  }
+}

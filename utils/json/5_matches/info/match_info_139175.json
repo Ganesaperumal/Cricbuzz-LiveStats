@@ -1,0 +1,129 @@
+{
+    "matchid": 139175,
+    "seriesid": 11253,
+    "seriesname": "ICC Men's T20 World Cup 2026",
+    "matchdesc": "23rd Match, Group C",
+    "matchformat": "T20",
+    "startdate": 1771061400000,
+    "enddate": 1771073235204,
+    "state": "Complete",
+    "status": "England opt to bowl",
+    "team1": {
+        "teamid": 9,
+        "teamname": "England",
+        "teamsname": "ENG",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "team2": {
+        "teamid": 23,
+        "teamname": "Scotland",
+        "teamsname": "SCO",
+        "isfullmember": false,
+        "isassociated": false,
+        "isleagueteam": false,
+        "iswomenteam": false,
+        "isheader": false,
+        "isactive": false,
+        "teampriority": "",
+        "isvideopresent": false,
+        "imageid": 0,
+        "countryname": "",
+        "belongsto": "",
+        "teamcolor": ""
+    },
+    "umpire1": {
+        "id": 9767,
+        "name": "Allahudien Paleker",
+        "country": "RSA"
+    },
+    "umpire2": {
+        "id": 10749,
+        "name": "Chris Brown",
+        "country": "NZ"
+    },
+    "umpire3": {
+        "id": 8170,
+        "name": "Sam Nogajski",
+        "country": "AUS"
+    },
+    "referee": {
+        "id": 3513,
+        "name": "Ranjan Madugalle",
+        "country": "SL"
+    },
+    "venueinfo": {
+        "id": 31,
+        "ground": "Eden Gardens",
+        "city": "Kolkata",
+        "country": "India",
+        "timezone": "+05:30",
+        "established": 1864,
+        "capacity": "63000",
+        "knownas": "",
+        "ends": "High Court End, Pavilion End",
+        "hometeam": "Bengal, Kolkata Knight Riders",
+        "floodlights": false,
+        "curator": "",
+        "profile": "",
+        "imageurl": "",
+        "groundlength": 0.0,
+        "groundwidth": 0.0,
+        "othersports": "",
+        "imageid": 0,
+        "latitude": "",
+        "longitude": ""
+    },
+    "currbatteamid": 0,
+    "ismatchnotcovered": false,
+    "appindex": {
+        "seotitle": "Cricket match facts ENG vs SCO 23rd Match, Group C,ICC Men's T20 World Cup 2026 | Cricbuzz.com",
+        "weburl": "http://www.cricbuzz.com/cricket-match-facts/139175/eng-vs-sco-23rd-match-group-c-icc-mens-t20-world-cup-2026"
+    },
+    "istournament": true,
+    "tossstatus": "England opt to bowl",
+    "seriesstartdt": 1770336000000,
+    "seriesenddt": 1773014400000,
+    "istimeannounced": false,
+    "statetitle": "",
+    "replacematchid": 0,
+    "livestreamenabled": false,
+    "isfantasyenabled": false,
+    "broadcastinfo": [
+        {
+            "country": "IN",
+            "broadcaster": [
+                {
+                    "broadcasttype": "Streaming",
+                    "value": "JioHotstar"
+                },
+                {
+                    "broadcasttype": "TV",
+                    "value": "Star Sports Network"
+                }
+            ]
+        }
+    ],
+    "daynight": false,
+    "matchtype": "International",
+    "seriestype": "WCT20",
+    "shortstatus": "ENG won",
+    "boundarytrackervalues": {
+        "boundarytrackervalue": []
+    },
+    "matchimageid": 857324,
+    "islivestreamenabled": false,
+    "isfantasyhandbookenabled": false,
+    "isforecastenabled": true,
+    "ispollenabled": false
+}

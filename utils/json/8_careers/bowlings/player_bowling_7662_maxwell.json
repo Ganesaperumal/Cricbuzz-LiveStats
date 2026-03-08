@@ -1,0 +1,150 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "7",
+                "149",
+                "130",
+                "141"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "9",
+                "119",
+                "86",
+                "85"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "462",
+                "4002",
+                "1117",
+                "1022"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "341",
+                "3644",
+                "1515",
+                "1413"
+            ]
+        },
+        {
+            "values": [
+                "Maidens",
+                "4",
+                "14",
+                "0",
+                "1"
+            ]
+        },
+        {
+            "values": [
+                "Wickets",
+                "8",
+                "77",
+                "51",
+                "41"
+            ]
+        },
+        {
+            "values": [
+                "Avg",
+                "42.63",
+                "47.32",
+                "29.71",
+                "34.46"
+            ]
+        },
+        {
+            "values": [
+                "Eco",
+                "4.43",
+                "5.46",
+                "8.14",
+                "8.3"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "57.75",
+                "51.97",
+                "21.9",
+                "24.93"
+            ]
+        },
+        {
+            "values": [
+                "BBI",
+                "4/127",
+                "4/40",
+                "3/10",
+                "2/15"
+            ]
+        },
+        {
+            "values": [
+                "BBM",
+                "4/127",
+                "4/40",
+                "3/10",
+                "2/15"
+            ]
+        },
+        {
+            "values": [
+                "4w",
+                "1",
+                "4",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "5w",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "10w",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Glenn Maxwell Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/7662/glenn-maxwell"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 11253,
+            "seriesName": "ICC Men's T20 World Cup 2026"
+        }
+    ]
+}

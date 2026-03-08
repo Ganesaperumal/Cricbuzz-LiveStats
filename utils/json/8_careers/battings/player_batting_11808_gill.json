@@ -1,0 +1,168 @@
+{
+    "headers": [
+        "ROWHEADER",
+        "Test",
+        "ODI",
+        "T20",
+        "IPL"
+    ],
+    "values": [
+        {
+            "values": [
+                "Matches",
+                "40",
+                "61",
+                "36",
+                "118"
+            ]
+        },
+        {
+            "values": [
+                "Innings",
+                "73",
+                "61",
+                "36",
+                "115"
+            ]
+        },
+        {
+            "values": [
+                "Runs",
+                "2843",
+                "2953",
+                "869",
+                "3866"
+            ]
+        },
+        {
+            "values": [
+                "Balls",
+                "4623",
+                "2982",
+                "627",
+                "2787"
+            ]
+        },
+        {
+            "values": [
+                "Highest",
+                "269",
+                "208",
+                "126",
+                "129"
+            ]
+        },
+        {
+            "values": [
+                "Average",
+                "42.43",
+                "55.72",
+                "28.03",
+                "39.45"
+            ]
+        },
+        {
+            "values": [
+                "SR",
+                "61.50",
+                "99.03",
+                "138.60",
+                "138.72"
+            ]
+        },
+        {
+            "values": [
+                "Not Out",
+                "6",
+                "8",
+                "5",
+                "17"
+            ]
+        },
+        {
+            "values": [
+                "Fours",
+                "318",
+                "335",
+                "98",
+                "372"
+            ]
+        },
+        {
+            "values": [
+                "Sixes",
+                "46",
+                "63",
+                "26",
+                "119"
+            ]
+        },
+        {
+            "values": [
+                "Ducks",
+                "5",
+                "1",
+                "2",
+                "4"
+            ]
+        },
+        {
+            "values": [
+                "50s",
+                "8",
+                "17",
+                "3",
+                "26"
+            ]
+        },
+        {
+            "values": [
+                "100s",
+                "10",
+                "8",
+                "1",
+                "4"
+            ]
+        },
+        {
+            "values": [
+                "200s",
+                "1",
+                "1",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "300s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        },
+        {
+            "values": [
+                "400s",
+                "0",
+                "0",
+                "0",
+                "0"
+            ]
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Shubman Gill Profile - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/profiles/11808/shubman-gill"
+    },
+    "seriesSpinner": [
+        {
+            "seriesName": "Career"
+        },
+        {
+            "seriesId": 10317,
+            "seriesName": "Ranji Trophy Elite 2025-26"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "seriesVenue": [
+        {
+            "id": 46,
+            "ground": "Punjab Cricket Association IS Bindra Stadium",
+            "city": "Mohali",
+            "country": "India",
+            "imageId": "189174"
+        },
+        {
+            "id": 152,
+            "ground": "Holkar Stadium",
+            "city": "Indore",
+            "country": "India",
+            "imageId": "189174"
+        },
+        {
+            "id": 27,
+            "ground": "M.Chinnaswamy Stadium",
+            "city": "Bengaluru",
+            "country": "India",
+            "imageId": "731714"
+        }
+    ],
+    "appIndex": {
+        "seoTitle": "Afghanistan tour of India, 2024 Venues and Grounds - Cricbuzz | Cricbuzz.com",
+        "webURL": "www.cricbuzz.com/cricket-series/"
+    },
+    "seriesId": 6920,
+    "seriesName": "Afghanistan tour of India, 2024"
+}

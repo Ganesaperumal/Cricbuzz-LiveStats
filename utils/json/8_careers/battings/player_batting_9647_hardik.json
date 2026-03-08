@@ -1,0 +1,168 @@
+{
+  "headers": [
+    "ROWHEADER",
+    "Test",
+    "ODI",
+    "T20",
+    "IPL"
+  ],
+  "values": [
+    {
+      "values": [
+        "Matches",
+        "11",
+        "94",
+        "134",
+        "152"
+      ]
+    },
+    {
+      "values": [
+        "Innings",
+        "18",
+        "68",
+        "105",
+        "140"
+      ]
+    },
+    {
+      "values": [
+        "Runs",
+        "532",
+        "1904",
+        "2176",
+        "2749"
+      ]
+    },
+    {
+      "values": [
+        "Balls",
+        "720",
+        "1717",
+        "1506",
+        "1871"
+      ]
+    },
+    {
+      "values": [
+        "Highest",
+        "108",
+        "92",
+        "71",
+        "91"
+      ]
+    },
+    {
+      "values": [
+        "Average",
+        "31.29",
+        "32.83",
+        "27.9",
+        "28.34"
+      ]
+    },
+    {
+      "values": [
+        "SR",
+        "73.89",
+        "110.90",
+        "144.49",
+        "146.93"
+      ]
+    },
+    {
+      "values": [
+        "Not Out",
+        "1",
+        "10",
+        "27",
+        "43"
+      ]
+    },
+    {
+      "values": [
+        "Fours",
+        "68",
+        "141",
+        "160",
+        "207"
+      ]
+    },
+    {
+      "values": [
+        "Sixes",
+        "12",
+        "76",
+        "119",
+        "148"
+      ]
+    },
+    {
+      "values": [
+        "Ducks",
+        "2",
+        "4",
+        "4",
+        "6"
+      ]
+    },
+    {
+      "values": [
+        "50s",
+        "4",
+        "11",
+        "8",
+        "10"
+      ]
+    },
+    {
+      "values": [
+        "100s",
+        "1",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "values": [
+        "200s",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "values": [
+        "300s",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "values": [
+        "400s",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Hardik Pandya Profile - Cricbuzz | Cricbuzz.com",
+    "webURL": "http://www.cricbuzz.com/profiles/9647/hardik-pandya"
+  },
+  "seriesSpinner": [
+    {
+      "seriesName": "Career"
+    },
+    {
+      "seriesId": 11253,
+      "seriesName": "ICC Men's T20 World Cup 2026"
+    }
+  ]
+}
