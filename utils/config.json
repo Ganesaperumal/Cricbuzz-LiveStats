@@ -1,0 +1,39 @@
+{
+  "_comment": "Cricbuzz LiveStats — Data Fetcher Configuration. Edit IDs here or via the app's Configure page.",
+  "options": {
+    "players": {
+      "team_ids": [2]
+    },
+    "series_list": {
+      "years": ["2024"],
+      "types": ["international", "league", "domestic", "women"]
+    },
+    "series_matches": {
+      "series_ids": [7607, 7175, 8071, 6885, 6920, 7476, 8402, 8404, 9237, 9638, 10587, 11253]
+    },
+    "series_venues": {
+      "series_ids": [6885, 6920, 7175, 7476, 7607, 8071]
+    },
+    "match_info": {
+      "match_ids": [100290, 117398, 117440, 138974, 139175, 139216, 139285, 70375, 76570, 91805, 92021]
+    },
+    "scorecards": {
+      "match_ids": [100290, 100292, 100301, 100337, 100348, 100366, 115059, 115095, 117413, 117416, 117440, 118853, 130129, 130146, 130168, 138974, 139129, 139478]
+    },
+    "highest_scores": {
+      "match_types": ["test", "odi", "t20"]
+    },
+    "batting_records": {
+      "team_id": 2,
+      "years": ["2020", "2022", "2023", "2025"],
+      "stats_types": ["highestAvg", "highestSr"]
+    },
+    "batting_careers": {
+      "player_ids": [576, 587, 9647, 6557, 7662, 6250, 10276, 10863, 11808, 11855, 13682, 1457, 247, 26]
+    },
+    "bowling_careers": {
+      "player_ids": [587, 6250, 6557, 7662, 9647]
+    }
+  },
+  "last_fetched": {}
+}
